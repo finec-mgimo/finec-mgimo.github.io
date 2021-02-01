@@ -1,4 +1,4 @@
-baseurl = "/doks-howto"
+baseurl = "https://epogrebnyak.gitlab.io/doks-howto"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
