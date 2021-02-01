@@ -6,7 +6,8 @@ variables:
 
 pages:
   script:
-  - echo hugo
+  - echo The script part is required in 'pages' section
+  # - hugo
   artifacts:
     paths:
     - public
