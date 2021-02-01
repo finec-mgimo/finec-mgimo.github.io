@@ -5,9 +5,8 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 pages:
-  stage: deploy
-  #script:
-  #- hugo
+  script:
+  - echo hugo
   artifacts:
     paths:
     - public
