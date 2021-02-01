@@ -32,7 +32,7 @@ Barriers:
 Next:
 
 1. [x] change link to repo + make link a gitlab - using Feather fonts
-2. [ ] simplify documentation structure
-3. [ ] remove or change index.html page
-4. [ ] add another language `[ru]`
-5. [ ] show use of shortcodes
+2. [_] simplify documentation structure
+3. [_] remove or change index.html page
+4. [_] add another language `[ru]`
+5. [_] show use of shortcodes
