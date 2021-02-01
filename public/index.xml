@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modern Documentation Theme on </title>
-    <link>/</link>
+    <link>https://epogrebnyak.gitlab.io/doks-howto/</link>
     <description>Recent content in Modern Documentation Theme on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://epogrebnyak.gitlab.io/doks-howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>/blog/</link>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/blog/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
       
-      <guid>/blog/</guid>
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docs</title>
-      <link>/docs/</link>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/docs/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
       
-      <guid>/docs/</guid>
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/docs/</guid>
       <description></description>
     </item>
     
