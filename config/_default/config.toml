@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/doks-howto"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
