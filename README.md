@@ -2,9 +2,9 @@ Goal:
 
 - make <https://epogrebnyak.gitlab.io/doks-howto> a sample multilingual site for doks theme
 
-Non-goal:
+Secondary site:
 
-- this site also deployed with Netlify at https://gifted-pasteur-36c387.netlify.app/
+- This site also deployed with Netlify at https://gifted-pasteur-36c387.netlify.app/
 
 Changes:
 
