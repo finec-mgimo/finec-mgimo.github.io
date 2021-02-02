@@ -4,9 +4,28 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+#languageCode = "en-US"
 paginate = 7
 rssLimit = 10
+
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.ru]
+    ## Homepage
+    title = "Это суперсайт"
+    titleSeparator = "-"
+    titleAddition = "Modern Documentation Theme"
+    description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+    weight = 2
+  [languages.en]
+    ## Homepage
+    title = "Doks in Several Languages"
+    titleSeparator = "-"
+    titleAddition = "Modern Documentation Theme"
+    description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+    weight = 1
+
 
 # add redirects/headers
 [outputs]
