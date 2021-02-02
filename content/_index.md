@@ -12,7 +12,19 @@ images: []
 [Doks](https://github.com/h-enk/doks/) is build by [Henk Verlinde](https://twitter.com/HenkVerlinde).
 
 This site shows the use of Doks in book-like fashion, with left-hand TOC
-appearing on front page. This is a sandbox to try using several languages with Doks/Hugo,
- which will need a change of both configuration and file structure.
+appearing on front page. 
+
+#### Translation 
+
+The Russian version of the site is available [here](ru/).
+
+The making of a translation involves a change of configuration files 
+and adding new content files with text in your language. 
+Check [this commit for details](https://gitlab.com/epogrebnyak/doks-howto/-/commit/9b1f6676db750fd18b5241f62793da9eab4428bc).
+
+You can find entire the source of this site [here](https://gitlab.com/epogrebnyak/doks-howto/).
+
+
+#### About Doks theme on Twitter
 
 {{< tweet 1344276759232073729 >}}
