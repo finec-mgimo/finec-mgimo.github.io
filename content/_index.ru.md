@@ -31,6 +31,7 @@ images: []
 
 - пробелы в заголовках пункте menu испортят весь праздник
 - на разных уровнях верхняя менюшка
+- лучше если тест на первой странице будет шире - секчас загоняет заголовок
 
 #### С чего начать?
 
@@ -46,6 +47,6 @@ images: []
 
 #### Куда еще посмотреть?
 
-- https://gohugo.io/content-management/multilingual/
-- https://github.com/gohugoio/hugo/issues/5957#issuecomment-492100461
-- https://github.com/sunt-programator/sunt-programator-site/blob/master/config.toml
+- <https://gohugo.io/content-management/multilingual/>
+- <https://github.com/gohugoio/hugo/issues/5957#issuecomment-492100461>
+- <https://github.com/sunt-programator/sunt-programator-site/blob/master/config.toml>
