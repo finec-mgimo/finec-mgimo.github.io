@@ -139,37 +139,45 @@
 С его помощью можно создавать безопасные и быстрые сайты с документацией, оптимизированные
 под SEO. Doks <a href="https://henkverlinde.com/master-npm-with-hugo-managing-dependencies/">использует npm</a> для управления зависимостями.
 Автор темы - <a href="https://twitter.com/HenkVerlinde">Хенк Верлинде</a>.</p>
-<h4 id="опыт-перевода">Опыт перевода<a href="#опыт-перевода" class="anchor" aria-hidden="true">#</a> </h4>
-<p>С чем придется столкнуться при переводе документации?</p>
-<p>Critical:</p>
+<h2 id="опыт-перевода">Опыт перевода<a href="#опыт-перевода" class="anchor" aria-hidden="true">#</a> </h2>
+<h4 id="с-чем-придется-столкнуться-при-переводе-документации">С чем придется столкнуться при переводе документации?<a href="#с-чем-придется-столкнуться-при-переводе-документации" class="anchor" aria-hidden="true">#</a> </h4>
+<ol>
+<li>Critical:</li>
+</ol>
 <ul>
 <li><code>title</code> нужен в <code>config.toml</code>, а не <code>params.toml</code></li>
 <li>для дерева нужны файлы все <code>*.ru.md</code>, даже не переведенные, иначе сайт не построится</li>
 </ul>
-<p>Possible enhancements:</p>
+<ol start="2">
+<li>Possible enhancements:</li>
+</ol>
 <ul>
-<li>в теме пока нет переключателя языков, вы получите версию на адресе <code>.../ru</code></li>
+<li>в теме пока нет переключателя языков, вы получите версию на адресе <code>.../ru/</code>
+(причем /ru без слеша в конце будет ошибкой)</li>
 <li>приглашение поиска Algolia пока не говорит по-русски</li>
 </ul>
-<p>Not language-related:</p>
+<ol start="3">
+<li>Not language-related:</li>
+</ol>
 <ul>
 <li>пробелы в заголовках пункте menu испортят весь праздник</li>
 <li>на разных уровнях верхняя менюшка</li>
 </ul>
-<p>С чего начать:</p>
+<h4 id="с-чего-начать">С чего начать?<a href="#с-чего-начать" class="anchor" aria-hidden="true">#</a> </h4>
 <ul>
 <li>поизучать папку <code>config/_default</code></li>
 <li>посмотреть папку <code>content</code></li>
 </ul>
-<p>Чего там сложного?</p>
+<h4 id="чего-там-сложного">Чего там сложного?<a href="#чего-там-сложного" class="anchor" aria-hidden="true">#</a> </h4>
 <ul>
 <li>зачем помимо <code>config/_default</code> еще и другие папки?</li>
 <li>структура параметров разбросана по разным файлам</li>
-<li>именно в этой теме - дублиование и неиспользуемые параметры</li>
+<li>именно в этой теме есть дублиование и неиспользуемые параметры</li>
 <li>есть, или были, два варианта разбрасывания переводов - по файлам или по папкам</li>
 </ul>
-<p>Куда еще посмотреть:</p>
+<h4 id="куда-еще-посмотреть">Куда еще посмотреть?<a href="#куда-еще-посмотреть" class="anchor" aria-hidden="true">#</a> </h4>
 <ul>
+<li>https://gohugo.io/content-management/multilingual/</li>
 <li>https://github.com/gohugoio/hugo/issues/5957#issuecomment-492100461</li>
 <li>https://github.com/sunt-programator/sunt-programator-site/blob/master/config.toml</li>
 </ul>
