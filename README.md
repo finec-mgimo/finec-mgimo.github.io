@@ -28,17 +28,18 @@ Changes:
 - change link to repo + make svg icon to gitlab using Feather fonts
 - changed `index.html` page using `single.html`
 - added twitter shortcode
+- added another language `/ru/`
 
-Discussed:
+
+Discussed at:
 
 - https://github.com/h-enk/doks/discussions/98
 - https://github.com/h-enk/doks/discussions/97
+- https://github.com/h-enk/doks/discussions/55
 
-Next:
-
-- [_] add another language `[ru]`
-- [_] simplify documentation structure
 
 Barriers:
 
 - cannot render remotely on Gitlab Pages with Hugo due to functions behaviour, serving now `public` folder content
+- no language switch
+- no code highlightling by default
