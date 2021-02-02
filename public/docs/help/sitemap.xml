@@ -6,6 +6,16 @@
       <lastmod>2020-11-12T13:26:54+01:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="ru"
+                  href="https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/how-to-update/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://epogrebnyak.gitlab.io/doks-howto/docs/help/how-to-update/"
+                  />
     </url>
     
     <url>
@@ -13,6 +23,16 @@
       <lastmod>2020-11-12T15:22:20+01:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="ru"
+                  href="https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/troubleshooting/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://epogrebnyak.gitlab.io/doks-howto/docs/help/troubleshooting/"
+                  />
     </url>
     
     <url>
@@ -20,5 +40,15 @@
       <lastmod>2020-10-06T08:49:31+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="ru"
+                  href="https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/faq/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://epogrebnyak.gitlab.io/doks-howto/docs/help/faq/"
+                  />
     </url>
     </urlset>

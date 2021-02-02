@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Это суперсайт</title>
+    <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/</link>
+    <description>Recent content in Docs on Это суперсайт</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 16 Nov 2020 13:59:39 +0100</lastBuildDate><atom:link href="https://epogrebnyak.gitlab.io/doks-howto/ru/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Описание</title>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/prologue/introduction/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/prologue/introduction/</guid>
+      <description>Ну начнем Есть два способа познакомиться с Doks:
+Tutorial 👉The Tutorial is intended for novice to intermediate users. Step-by-step instructions on how to start a new Doks project. Tutorial →
+Quick Start 👉The Quick Start is intended for intermediate to advanced users. One page summary of how to start a new Doks project. Quick Start →
+Go further Recipes, Reference Guides, Extensions, and Showcase.
+Recipes Get instructions on how to accomplish common tasks with Doks.</description>
+    </item>
+    
+    <item>
+      <title>С чего начать?</title>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/prologue/quick-start/</link>
+      <pubDate>Mon, 16 Nov 2020 13:59:39 +0100</pubDate>
+      
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/prologue/quick-start/</guid>
+      <description>Requirements Doks uses npm for dependency management and customized build scripts. Installing npm is pretty simple. Download and install Node.js (it includes npm) for your platform. I recommend installing the current release.
+Start a new Doks project Create a new site, change directories, install npm packages, and start development server.
+Create a new site git clone https://github.com/h-enk/doks.git my-doks-site Change directories cd my-doks-site Install npm packages npm install Start development server npm run start Doks will start the Hugo development webserver accessible by default at http://localhost:1313.</description>
+    </item>
+    
+    <item>
+      <title>Команды npm</title>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/prologue/commands/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/prologue/commands/</guid>
+      <description>💡You can change the commands in the scripts section of `./package.json`. start Start local development server:
+npm run start lint Check scripts, styles, and markdown for errors:
+npm run lint scripts Check scripts for errors:
+npm run lint:scripts [-- --fix] styles Check styles for errors:
+npm run lint:styles [-- --fix] markdown Check markdown for errors:
+npm run lint:markdown [-- --fix] clean Delete temporary directories:</description>
+    </item>
+    
+    <item>
+      <title>Обновления</title>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/how-to-update/</link>
+      <pubDate>Thu, 12 Nov 2020 13:26:54 +0100</pubDate>
+      
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/how-to-update/</guid>
+      <description>💡Learn more about semantic versioning and advanced range syntax. Update npm packages Bump the versions in the devDependencies section of ./package.json to your liking, and run:
+npm update </description>
+    </item>
+    
+    <item>
+      <title>Возможные проблемы</title>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/troubleshooting/</link>
+      <pubDate>Thu, 12 Nov 2020 15:22:20 +0100</pubDate>
+      
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/troubleshooting/</guid>
+      <description>Problems updating npm packages Delete the ./node_modules folder, and run again:
+npm install Problems with cache Delete the temporary directories:
+npm run clean </description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/faq/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate>
+      
+      <guid>https://epogrebnyak.gitlab.io/doks-howto/ru/docs/help/faq/</guid>
+      <description>Hyas? Doks is a Hyas theme build by the creator of Hyas.
+Node.js? Node.js is used to manage dependencies and provide custom build scripts.
+Footer notice? Please keep it in place.
+Keyboard shortcuts for search?  focus: / select: ↓ and ↑ open: Enter close: Esc  Other documentation?  Netlify Hugo  Can I get support? Create a topic:
+ Netlify Community Hugo Forums  Contact the creator? Send h-enk a message:</description>
+    </item>
+    
+  </channel>
+</rss>
