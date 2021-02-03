@@ -30,6 +30,10 @@ Changes:
 - added twitter shortcode
 - added another language `/ru/`
 
+To try:
+
+- can theme work as git submodule?
+
 
 Discussed at:
 
