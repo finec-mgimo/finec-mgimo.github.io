@@ -20,15 +20,18 @@ Mind model:
 
 Changes:
 
-- added `.gitlab-ci.yml`
-- removed `public` from `.gitignore`
+- added `.gitlab-ci.yml` (to make public folder visisble)
+- removed `public` from `.gitignore` - this way I can build locally and upload public folder to Gitlab Pages
 - changed `baseurl="https://epogrebnyak.gitlab.io/doks-howto"` in `config/_default/config.toml`
   (surprisingly this does not break Netlify deployment)
-- added justfile command runner for `just publish` command
-- change link to repo + make svg icon to gitlab using Feather fonts
-- changed `index.html` page using `single.html`
-- added twitter shortcode
+- changed link to repo on front page + made gitlab svg icon using Feather fonts
+- changed `index.html` page using `single.html` (see new index.html [here](https://gitlab.com/epogrebnyak/doks-howto/-/blob/master/layouts/index.html))
+- added twitter shortcode in front page body
 - added another language `/ru/`
+- non-essential: added justfile command runner for `just publish` command
+
+
+
 
 To try:
 
