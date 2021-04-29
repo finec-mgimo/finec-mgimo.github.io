@@ -1,4 +1,4 @@
-baseurl = "https://epogrebnyak.gitlab.io/doks-howto"
+baseurl = "https://necelentano.github.io/finec-mgimo.gihub.io/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
