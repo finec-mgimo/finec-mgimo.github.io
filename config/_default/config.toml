@@ -1,4 +1,4 @@
-baseurl = "https://necelentano.github.io/finec-mgimo.gihub.io/"
+baseurl = "https://necelentano.github.io/finec-mgimo-v2/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
