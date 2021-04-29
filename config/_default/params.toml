@@ -6,7 +6,7 @@ twitterSite = "henkverlinde"
 twitterCreator = "henkverlinde"
 facebookAuthor = "verlinde.henk"
 facebookPublisher = "verlinde.henk"
-ogLocale = "en_US"
+ogLocale = "ru_RU"
 
 ## JSON-LD
 schemaType = "Organization"
@@ -30,7 +30,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a> from Params"
 
 # Alert
 alert = false

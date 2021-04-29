@@ -113,7 +113,7 @@
 
 @include media-breakpoint-up(xl) {
   .navbar-form {
-    margin-left: 30rem;
+    margin-left: 20rem;
   }
 }
 
@@ -166,7 +166,9 @@
     width: auto !important;
   }
 
-  .algolia-autocomplete .algolia-docsearch-suggestion .algolia-docsearch-suggestion--subcategory-column::after {
+  .algolia-autocomplete
+    .algolia-docsearch-suggestion
+    .algolia-docsearch-suggestion--subcategory-column::after {
     content: "|";
     margin-right: 0.25rem;
   }

@@ -8,23 +8,27 @@ enableRobotsTXT = true
 paginate = 7
 rssLimit = 10
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 
 [languages]
   [languages.ru]
     ## Homepage
     title = "Это суперсайт"
     titleSeparator = "-"
-    titleAddition = "Modern Documentation Theme"
-    description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-    weight = 2
+    titleAddition = "Современная тема для документации"
+    description = "Doks это тема для Hugo, которая поможет построить современный сайт для документации. Безопасный, быстрый и дружественный для SEO из коробки."
+    languageName = "RU"
+    contentDir = "content/ru"
+    weight = 1
   [languages.en]
     ## Homepage
     title = "Doks in Several Languages"
     titleSeparator = "-"
     titleAddition = "Modern Documentation Theme"
     description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-    weight = 1
+    languageName = "EN"
+    contentDir = "content/en"
+    weight = 2
 
 
 # add redirects/headers

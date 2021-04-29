@@ -2,23 +2,28 @@
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/en/docs/prologue/"
 
 [[docs]]
   name = "Help"
   weight = 60
   identifier = "help"
-  url = "/docs/help/"
+  url = "/en/docs/help/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
+  url = "/en/docs/prologue/introduction/"
   weight = 10
 
 [[main]]
   name = "Blog"
-  url = "/blog/"
+  url = "/en/blog/"
   weight = 20
+
+[[main]]
+  name = "Contacts"
+  url = "/en/contacts/"
+  weight = 30
 
 [[social]]
   name = "Twitter"
