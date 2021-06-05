@@ -39,3 +39,19 @@ alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/
 # Edit Page
 docsRepo = "https://gitlab.com/epogrebnyak/doks-howto/"
 editPage = false
+
+
+# Edit Page
+docsRepo = "https://github.com/necelentano/finec-mgimo-v2/"
+editPage = true
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = false
+  bootStrapJs = false
+  breadCrumb = false
+  highLight = true
+  kaTex = false
