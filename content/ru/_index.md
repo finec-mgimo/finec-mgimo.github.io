@@ -13,19 +13,19 @@ images: []
 
 ### Растровые рисунки
 
-![image alt text](logo/front_dash.png)
+![Логотип ФИНЭК МГИМО Одинцово](logo/front_dash.png)
 
-![image alt text](logo/finec.png)
+![Логотип ФИНЭК МГИМО Одинцово](logo/finec.png)
 
 ### Векторные рисунки
 
 С надписью
 
-![image alt text](logo/vector-caption.svg)
+![Логотип ФИНЭК МГИМО Одинцово](logo/vector-caption.svg)
 
 Без надписи
 
-![image alt text](logo/vector.svg)
+![Логотип ФИНЭК МГИМО Одинцово](logo/vector.svg)
 
 ## Как к нам поступить?
 
