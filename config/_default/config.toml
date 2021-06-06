@@ -13,19 +13,19 @@ defaultContentLanguage = "ru"
 [languages]
   [languages.ru]
     ## Homepage
-    title = "Это суперсайт"
+    title = "Финэк МГИМО"
     titleSeparator = "-"
-    titleAddition = "Современная тема для документации"
-    description = "Doks это тема для Hugo, которая поможет построить современный сайт для документации. Безопасный, быстрый и дружественный для SEO из коробки."
+    titleAddition = "Поступление на факультет финансовой экономики МГИМО"
+    description = "Официальный сайт Финэк МГИМО. Поступление на факультет финансовой экономики МГИМО."
     languageName = "RU"
     contentDir = "content/ru"
     weight = 1
   [languages.en]
     ## Homepage
-    title = "Doks in Several Languages"
+    title = "Finec MGIMO"
     titleSeparator = "-"
-    titleAddition = "Modern Documentation Theme"
-    description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+    titleAddition = "Go to Finec MGIMO"
+    description = "Finec MGIMO official website. Admission to the Faculty of Financial Economics of MGIMO."
     languageName = "EN"
     contentDir = "content/en"
     weight = 2
