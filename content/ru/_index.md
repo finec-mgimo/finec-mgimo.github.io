@@ -13,9 +13,9 @@ images: []
 
 ### Растровые рисунки
 
-![image alt text](logo/front_dash-2.png)
+![image alt text](logo/front_dash.png)
 
-![image alt text](logo/finec-2.png)
+![image alt text](logo/finec.png)
 
 ### Векторные рисунки
 
