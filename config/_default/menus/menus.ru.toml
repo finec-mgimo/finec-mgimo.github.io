@@ -1,14 +1,14 @@
 [[docs]]
-  name = "Введение"
+  name = "Бакалавриат"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "bak"
+  url = "/program/undergrad/"
 
 [[docs]]
-  name = "Хелп ми"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  name = "Магистратура"
+  weight = 20
+  identifier = "mag"
+  url = "/program/masters/"
 
 [[main]]
   name = "О факультете"
