@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://necelentano.github.io/finec-mgimo-v2/sitemap.xml
