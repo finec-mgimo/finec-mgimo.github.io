@@ -8,11 +8,28 @@ images: []
 ---
 
 <!-- Перенести в static -->
-![](https://user-images.githubusercontent.com/9265326/120894431-fd8c1000-c620-11eb-94e6-479538415f8a.png)
+
+## Логотипы
+
+### Растровые рисунки
+
+![image alt text](logo/front_dash-2.png)
+
+![image alt text](logo/finec-2.png)
+
+### Векторные рисунки
+
+С надписью
+
+![image alt text](logo/vector-caption.svg)
+
+Без надписи
+
+![image alt text](logo/vector.svg)
 
 ## Как к нам поступить?
 
-Сдать ЕГЭ и подать документы. 
+Сдать ЕГЭ и подать документы.
 
 ## Что у нас нового?
 
