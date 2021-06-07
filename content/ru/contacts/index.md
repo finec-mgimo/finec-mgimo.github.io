@@ -15,7 +15,7 @@ images: []
 
 ## Электронная почта
 
-Наш адрес электронной почты: [finec:material-at:odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
+Наш адрес электронной почты: [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
 
 ## Наш адрес
 
