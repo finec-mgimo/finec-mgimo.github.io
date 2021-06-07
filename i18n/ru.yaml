@@ -12,3 +12,7 @@
   translation: "Содержание"
 - id: homepage
   translation: "Финэк МГИМО"
+- id: githublang
+  translation: "ru"
+- id: edit
+  translation: "Редактировать эту страницу на GitHub"
