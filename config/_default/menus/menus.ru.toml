@@ -12,7 +12,7 @@
 
 [[main]]
   name = "О факультете"
-  url = "/program/undergrad/finec-fintech"
+  url = "/about/"
   weight = 10
 
 [[main]]

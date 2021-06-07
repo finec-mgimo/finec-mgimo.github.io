@@ -11,8 +11,8 @@
  url = "/en/program/masters/"
 
 [[main]]
-  name = "About Finec MGIMO"
-  url = "/en/program/undergrad/finec-fintech"
+  name = "About us"
+  url = "/en/about/"
   weight = 10
 
 [[main]]
