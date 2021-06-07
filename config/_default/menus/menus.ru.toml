@@ -1,18 +1,18 @@
 [[docs]]
   name = "Бакалавриат"
   weight = 10
-  identifier = "bak"
-  url = "/program/undergrad/"
+  identifier = "undergrad-id"
+  url = "/program/undergrad/feft"
 
 [[docs]]
   name = "Магистратура"
   weight = 20
-  identifier = "mag"
+  identifier = "masters-id"
   url = "/program/masters/"
 
 [[main]]
   name = "О факультете"
-  url = "/docs/prologue/introduction/"
+  url = "/program/undergrad/feft"
   weight = 10
 
 [[main]]

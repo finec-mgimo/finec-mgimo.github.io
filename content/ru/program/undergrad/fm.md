@@ -1,5 +1,5 @@
 ---
-title: "Бизнес-информатика"
+title: "Менеджмент"
 description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 date: 2020-10-06T08:48:57+00:00
@@ -9,8 +9,8 @@ images: []
 menu:
   docs:
     parent: "undergrad-id"
-weight: 30
+weight: 20
 toc: true
 ---
 
-## Программа обучения Бизнес-информатика
+## Программа обучения Менеджмент

@@ -6,12 +6,15 @@ date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
-menu:
-  docs:
-    parent: "prologue"
 weight: 100
 toc: true
 ---
+
+## Logos
+
+![Finec MGIMO Logo](front_dash.png)
+
+![Finec MGIMO Logo](finec.png)
 
 ## Get started
 
@@ -26,8 +29,6 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 ### Quick Start
 
 {{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< ref "quick-start" >}})
 
 ## Go further
 
@@ -52,7 +53,3 @@ See what others have build with Doks. [Showcase →](https://getdoks.org/showcas
 ## Contributing
 
 Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< ref "how-to-update" >}})

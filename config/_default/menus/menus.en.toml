@@ -1,18 +1,18 @@
-#[[docs]]
-#  name = "Prologue"
-#  weight = 10
-#  identifier = "prologue"
-#  url = "/en/docs/prologue/"
+[[docs]]
+ name = "Undergrad"
+ weight = 10
+ identifier = "undergrad-id"
+ url = "/en/program/undergrad/feft"
 
-#[[docs]]
-#  name = "Help"
-#  weight = 60
-#  identifier = "help"
-#  url = "/en/docs/help/"
+[[docs]]
+ name = "Masters"
+ weight = 20
+ identifier = "masters-id"
+ url = "/en/program/masters/"
 
 [[main]]
-  name = "Docs"
-  url = "/en/docs/prologue/introduction/"
+  name = "About Finec MGIMO"
+  url = "/en/program/undergrad/feft"
   weight = 10
 
 [[main]]
