@@ -8,6 +8,7 @@ images: []
 ---
 
 - Кафедры
+- [Люди](https://finec.mgimo.ru/people/departments/)
 - Программы
 - Интервью
 - Видео
