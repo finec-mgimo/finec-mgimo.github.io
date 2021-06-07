@@ -2,7 +2,7 @@
   name = "Бакалавриат"
   weight = 10
   identifier = "undergrad-id"
-  url = "/program/undergrad/finec-fintech"
+  url = "/program/undergrad/"
 
 [[docs]]
   name = "Магистратура"
