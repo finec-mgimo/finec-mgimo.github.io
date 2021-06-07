@@ -12,3 +12,7 @@
   translation: "On this page"
 - id: homepage
   translation: "Finec MGIMO"
+- id: githublang
+  translation: "en"
+- id: edit
+  translation: "Edit this page on GitHub"
