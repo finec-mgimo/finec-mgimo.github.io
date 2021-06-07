@@ -2,7 +2,7 @@
  name = "Undergrad"
  weight = 10
  identifier = "undergrad-id"
- url = "/en/program/undergrad/feft"
+ url = "/en/program/undergrad/finec-fintech"
 
 [[docs]]
  name = "Masters"
@@ -12,7 +12,7 @@
 
 [[main]]
   name = "About Finec MGIMO"
-  url = "/en/program/undergrad/feft"
+  url = "/en/program/undergrad/finec-fintech"
   weight = 10
 
 [[main]]
