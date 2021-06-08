@@ -79,8 +79,10 @@ body {
   padding-top: 3.5625rem;
 }
 
-p > img {
-  width: 100%;
+p > img,
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .docs-sidebar {
