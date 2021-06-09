@@ -7,9 +7,8 @@ draft: false
 images: []
 ---
 
-<img src="logo/front_dash_cuted.png" alt="Логотипы МГИМО и Финэка МГИМО">
+<div class="home-logo-wrapper"><figure><img src="logo/front_dash_cuted.png" alt="Логотипы МГИМО и Финэка МГИМО"></figure></div>
 
 <br>
 
 - Новое на факультете: продублировать блог и ссылки на ключвые материалы?
-
