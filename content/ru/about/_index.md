@@ -6,9 +6,3 @@ lastmod: 2021-06-07T23:12:27+03:00
 draft: false
 images: []
 ---
-
-- Кафедры
-- [Люди](https://finec.mgimo.ru/people/departments/)
-- Программы
-- Интервью
-- Видео
