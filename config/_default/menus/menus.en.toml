@@ -38,7 +38,18 @@
   post = "v0.1.0"
   weight = 20  
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+  name = "About us"
+  url = "/about/"
+  weight = 10
+
+[[footer]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
+[[footer]]
+  name = "Contacts"
+  url = "/contacts/"
+  weight = 30
+

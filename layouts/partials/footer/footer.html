@@ -1,18 +1,22 @@
 <footer class="footer text-muted">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 order-last order-lg-first">
+      <div class="col-sm-4 col-lg-2 pb-3 order-sm-last footer-logo">
+        <a href="/"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" class="rounded" alt="..."></a>
+      </div>
+      <div class="col-sm-8 col-lg-8 pb-3">
         <ul class="list-inline">
-          <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
+          <li class="list-inline-item">{{ i18n "footerdescription" | safeHTML }}</li>
         </ul>
       </div>
-      <div class="col-lg-8 order-first order-lg-last text-lg-right">
+      <div class="col-sm-4 text-sm-right col-lg-6 pb-3 ">
         <ul class="list-inline">
           {{ range .Site.Menus.footer -}}
-            <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          <li class="list-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
           {{ end -}}
         </ul>
       </div>
+ 
     </div>
   </div>
 </footer>

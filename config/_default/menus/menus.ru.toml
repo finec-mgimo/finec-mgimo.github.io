@@ -38,7 +38,17 @@
   post = "v0.1.0"
   weight = 20  
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+  name = "О факультете"
+  url = "/about/"
+  weight = 10
+
+[[footer]]
+  name = "Наш блог"
+  url = "/blog/"
+  weight = 20
+
+[[footer]]
+  name = "Контакты"
+  url = "/contacts/"
+  weight = 30

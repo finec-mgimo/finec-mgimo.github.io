@@ -16,3 +16,5 @@
   translation: "ru"
 - id: edit
   translation: "Редактировать эту страницу на GitHub"
+- id: footerdescription
+  translation: "Факультет финансовой экономики МГИМО"

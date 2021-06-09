@@ -30,7 +30,8 @@ defaultContentLanguage = "ru"
     contentDir = "content/en"
     weight = 2
 
-
+[params]
+  logo = "/finec-mgimo-footer.png"
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]

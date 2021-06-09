@@ -12,6 +12,9 @@
   font-size: $font-size-sm;
   margin-bottom: 0;
 }
+.footer-logo {
+  padding-top: 10px;
+}
 
 @include media-breakpoint-up(md) {
   .footer li {
