@@ -34,6 +34,12 @@ weight: 20
 
 ## Люди
 
+---
+
+Перенести сюда https://finec.mgimo.ru/people/principals/
+
+---
+
 - <https://mgimo.ru/study/faculty/ffe/kef/employees/>
 - <https://mgimo.ru/study/faculty/ffe/kmen/employees/>
 - <https://mgimo.ru/study/faculty/ffe/kmmbi/employees/>
