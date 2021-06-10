@@ -12,8 +12,13 @@
   font-size: $font-size-sm;
   margin-bottom: 0;
 }
+
 .footer-logo {
   padding-top: 10px;
+}
+
+.footer-logo img {
+  width: 50%;
 }
 
 @include media-breakpoint-up(md) {
