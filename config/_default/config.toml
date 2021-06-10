@@ -31,7 +31,8 @@ defaultContentLanguage = "ru"
     weight = 2
 
 [params]
-  logo = "/finec-mgimo-footer.png"
+  logofinec = "/finec-mgimo-footer.png"
+  logomgimo = "/vector.svg"
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]

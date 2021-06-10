@@ -43,6 +43,16 @@
   padding: 1.5rem 0 0 0;
 }
 
+.page-links .logo-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+.page-links .logo-wrapper > img:nth-child(odd) {
+  margin-bottom: 2rem;
+}
+
 @include media-breakpoint-up(lg) {
   .docs-links h3,
   .page-links h3 {
