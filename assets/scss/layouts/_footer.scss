@@ -17,12 +17,14 @@
   padding-top: 10px;
 }
 
-.footer-logo img {
-  width: 50%;
-}
-
 @include media-breakpoint-up(md) {
   .footer li {
     font-size: $font-size-base;
+  }
+}
+
+@media (max-width: 543px) {
+  .footer-logo img {
+    width: 50%;
   }
 }
