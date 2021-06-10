@@ -75,7 +75,7 @@
 }
 
 .home .navbar {
-  border-bottom: 0;
+  border-bottom: 1px solid $gray-200;
 }
 
 .navbar-form {
@@ -166,7 +166,9 @@
     width: auto !important;
   }
 
-  .algolia-autocomplete .algolia-docsearch-suggestion .algolia-docsearch-suggestion--subcategory-column::after {
+  .algolia-autocomplete
+    .algolia-docsearch-suggestion
+    .algolia-docsearch-suggestion--subcategory-column::after {
     content: "|";
     margin-right: 0.25rem;
   }
