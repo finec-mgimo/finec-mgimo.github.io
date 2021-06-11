@@ -37,7 +37,7 @@ alert = false
 alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/necelentano/finec-mgimo-v2/"
+docsRepo = "https://github.com/epogrebnyak/finec-mgimo-v2/"
 editPage = true
 
 [options]

@@ -1,4 +1,4 @@
-Сайт: https://necelentano.github.io/finec-mgimo-v2/
+Сайт: https://epogrebnyak.github.io/finec-mgimo-v2/
 
 Материалы: https://github.com/finec-mgimo/v2/
 
