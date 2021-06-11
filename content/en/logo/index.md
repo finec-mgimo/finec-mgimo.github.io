@@ -19,10 +19,10 @@ images: []
 Здесь должны быть продублировано содержание https://finec.mgimo.ru/logo/.
 
 Здесь должна быть новая полезная информация из ишью
-https://github.com/necelentano/finec-mgimo-v2/issues/21 (например, ссылка на файл powerpoint)
+https://github.com/epogrebnyak/finec-mgimo-v2/issues/21 (например, ссылка на файл powerpoint)
 
 Вопрос: мы понимаем почему разъезжается верстка
-https://necelentano.github.io/finec-mgimo-v2/logo/
+https://epogrebnyak.github.io/finec-mgimo-v2/logo/
 
 ## Logos
 
