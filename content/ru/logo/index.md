@@ -1,42 +1,42 @@
 ---
 title: "Логотипы"
 description: "Факультет финансовой экономики МГИМО - образовательные программы по экономике, менеджменту и бизнес-информатике на собственном кампусе в Одинцово."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+date: 2021-06-12
+lastmod: 2021-06-12
 draft: false
 images: []
 ---
 
-Это техническая страница, на которой собраны логотипы Финэка и МГИМО.
+На этой странице собраны логотипы Финэка и МГИМО Одинцово.
 
-Это страница не прилинкована к меню сайта, по крайней мере пока.
+## Растровые рисунки
 
-Здесь собраны логотипы в разных форматах, а также дана информация об источниках
-этих файлов - как логотипы нарисованы.
+![Логотип МГИМО-Одинцово и Финэка МГИМО](front_dash.png)
 
-Здесь должны быть продублировано содержание https://finec.mgimo.ru/logo/.
+![Логотип Финэка МГИМО](finec.png)
 
-Здесь должна быть новая полезная информация из ишью
-https://github.com/epogrebnyak/finec-mgimo-v2/issues/21 (например, ссылка на файл powerpoint)
+Файл MS Powerpoint c логотипом - [здесь](finec_logo.pptx) 
 
-Ссылка на логотипы МГИМО: ...
+## Попробовать подцепить рисунок из /static
 
-### Растровые рисунки
+{{< figure src="/static/finec-mgimo-footer.png" title="/static/finec-mgimo-footer.png" >}}
 
-- склеенная картинка (front_dash.png)
-- левая картинка (mgimo_univerity.png)
-- правая картинка (finec_small.png), поменьше белого
+{{< figure src="/finec-mgimo-v2/finec-mgimo-footer.png" title="/finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
-![Логотип ФИНЭК МГИМО Одинцово](front_dash.png)
+{{< figure src="/finec-mgimo-footer.png" title="/finec-mgimo-footer.png" >}}
 
-![Логотип ФИНЭК МГИМО Одинцово](finec.png) - эта картинка станет finec_large.png
+{{< figure src="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" title="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
-### Векторные рисунки
+## Логотипы МГИМО-Одинцово
 
-C надписью
+C надписью:
 
-![Логотип ФИНЭК МГИМО Одинцово](vector-caption.svg)
+![Логотип МГИМО Одинцово](vector-caption.svg)
 
-Без надписи
+Без надписи:
 
-![Логотип ФИНЭК МГИМО Одинцово](vector.svg)
+![Логотип МГИМО Одинцово](vector.svg)
+
+## Логотипы МГИМО
+
+Логотипы МГИМО - [здесь](https://mgimo.ru/about/today/logo/) 
