@@ -25,6 +25,8 @@ images: []
 
 {{< figure src="/finec-mgimo-footer.png" title="/finec-mgimo-footer.png" >}}
 
+{{< figure src="finec-mgimo-footer.png" title="finec-mgimo-footer.png" >}}
+
 {{< figure src="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" title="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
 ## Логотипы МГИМО-Одинцово
