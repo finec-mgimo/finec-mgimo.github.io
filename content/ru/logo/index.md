@@ -23,7 +23,7 @@ images: []
 
 {{< figure src="/finec-mgimo-v2/finec-mgimo-footer.png" title="/finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
-{{< figure src="finec-mgimo-v2/finec-mgimo-footer.png" title="/finec-mgimo-v2/finec-mgimo-footer.png" >}}
+{{< figure src="finec-mgimo-v2/finec-mgimo-footer.png" title="finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
 {{< figure src="/finec-mgimo-footer.png" title="/finec-mgimo-footer.png" >}}
 
