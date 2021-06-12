@@ -7,37 +7,15 @@ draft: false
 images: []
 ---
 
-# Our Logos ENGLISH VERSION
 
-Это техническая страница, на которой собраны логотипы Финэка и МГИМО.
+{{< figure src="/static/finec-mgimo-footer.png" title="/static/finec-mgimo-footer.png" >}}
 
-Это страница не прилинкована к меню сайта, по крайней мере пока.
+{{< figure src="/finec-mgimo-v2/finec-mgimo-footer.png" title="/finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
-Здесь собраны логотипы в разных форматах, а также дана информация об источниках
-этих файлов - как логотипы нарисованы.
+{{< figure src="finec-mgimo-v2/finec-mgimo-footer.png" title="finec-mgimo-v2/finec-mgimo-footer.png" >}}
 
-Здесь должны быть продублировано содержание https://finec.mgimo.ru/logo/.
+{{< figure src="/finec-mgimo-footer.png" title="/finec-mgimo-footer.png" >}}
 
-Здесь должна быть новая полезная информация из ишью
-https://github.com/epogrebnyak/finec-mgimo-v2/issues/21 (например, ссылка на файл powerpoint)
+{{< figure src="finec-mgimo-footer.png" title="finec-mgimo-footer.png" >}}
 
-Вопрос: мы понимаем почему разъезжается верстка
-https://epogrebnyak.github.io/finec-mgimo-v2/logo/
-
-## Logos
-
-### Raster images (png)
-
-![Логотип ФИНЭК МГИМО Одинцово](front_dash.png)
-
-![Логотип ФИНЭК МГИМО Одинцово](finec.png)
-
-### Vector images (svg)
-
-With caption
-
-![Логотип ФИНЭК МГИМО Одинцово](vector-caption.svg)
-
-No caption
-
-![Логотип ФИНЭК МГИМО Одинцово](vector.svg)
+{{< figure src="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" title="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" >}}
