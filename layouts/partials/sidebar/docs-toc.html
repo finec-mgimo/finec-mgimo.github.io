@@ -1,9 +1,5 @@
 {{ if ne .Params.toc false -}}
   <div class="page-links">
-    <div class="logo-wrapper">
-      <img src="{{.Site.BaseURL}}{{ .Site.Params.logomgimo }}" class="rounded" alt="логотип ФИНЭК МГИМО">
-      <img src="{{.Site.BaseURL}}{{ .Site.Params.logofinec }}" class="rounded" alt="логотип ФИНЭК МГИМО">
-    </div>
     <h3>{{ i18n "rightSidebarDocsTitle" }}</h3>
     {{ .TableOfContents }}
   </div>

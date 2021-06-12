@@ -8,6 +8,10 @@
         
 		{{ if ne .Params.toc false -}}
 		<nav class="docs-toc d-none d-xl-block col-xl-3" aria-label="Secondary navigation">
+			<div class="logo-wrapper">
+				<img src="{{.Site.BaseURL}}{{ .Site.Params.logomgimo }}" class="rounded" alt="логотип ФИНЭК МГИМО">
+				<img src="{{.Site.BaseURL}}{{ .Site.Params.logofinec }}" class="rounded" alt="логотип ФИНЭК МГИМО">
+			  </div>
 			{{ partial "sidebar/docs-toc.html" . }}
 		</nav>
         {{ end -}}
