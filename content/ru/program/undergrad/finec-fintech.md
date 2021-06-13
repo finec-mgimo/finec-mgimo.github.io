@@ -38,6 +38,7 @@ toc: true
 Особенность программы - партнерство с ведущей европейской бизнес-школой 
 [Henley Business School](https://www.henley.ac.uk/) (Великобритания),
 имеющей [тройную аккредитацию](https://www.henley.ac.uk/why/accreditations).
+
 Наши студенты могут выбрать трек обучения двух дипломов 
 и после второго курса продолжить двухгодичное образование на программе
 [Masters in Finance and Financial Technology (FinTech)][henley].
