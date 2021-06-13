@@ -29,3 +29,8 @@ images: []
 ---
 
 {{< figure src="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" title="http://localhost:1313/finec-mgimo-v2/finec-mgimo-footer.png" >}}
+
+---
+
+
+<a href="{{ "/" | relLangURL }}" class="header__title__link" alt="Home">
