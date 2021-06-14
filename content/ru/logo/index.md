@@ -15,7 +15,7 @@ images: []
 
 ![Логотип Финэка МГИМО](finec.png)
 
-Файл MS Powerpoint c логотипом - [здесь](finec_logo.pptx) 
+Файл MS Powerpoint c логотипом - [здесь](finec_logo.pptx)
 
 ## Попробовать подцепить рисунок из /static
 
@@ -43,4 +43,4 @@ C надписью:
 
 ## Логотипы МГИМО
 
-Логотипы МГИМО - [здесь](https://mgimo.ru/about/today/logo/) 
+Логотипы МГИМО - [здесь](https://mgimo.ru/about/today/logo/)

@@ -10,7 +10,7 @@ weight: 20
 
 В штате факультета — 38 человек, из них 8 докторов и 27 кандидатов наук.
 
-## Руководство факультета 
+## Руководство факультета
 
 Перенести сюда https://finec.mgimo.ru/people/principals/
 
@@ -25,7 +25,7 @@ weight: 20
 
 - 3 чел
 
-## Сотрудники наших кафедр 
+## Сотрудники наших кафедр
 
 - <https://mgimo.ru/study/faculty/ffe/kef/employees/>
 - <https://mgimo.ru/study/faculty/ffe/kmen/employees/>

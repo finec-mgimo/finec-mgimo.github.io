@@ -7,7 +7,6 @@ draft: false
 images: []
 ---
 
-
 {{< figure src="/static/finec-mgimo-footer.png" title="/static/finec-mgimo-footer.png" >}}
 
 ---
@@ -32,5 +31,4 @@ images: []
 
 ---
 
-
-<a href="{{ "/" | relLangURL }}" class="header__title__link" alt="Home">
+<a href="{{ "/" | relLangURL }}" class="header**title**link" alt="Home">

@@ -17,4 +17,3 @@ images: []
 > [Мы начали блог](/blog/)
 
 <!--div class="home-logo-wrapper"><figure><img src="logo/front_dash_cuted.png" alt="Логотипы МГИМО и Финэка МГИМО"></figure></div-->
-

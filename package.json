@@ -50,5 +50,8 @@
     "standard-version": "^9.1",
     "stylelint": "^13.13",
     "stylelint-config-standard": "^20.0"
+  },
+  "dependencies": {
+    "prettier": "^2.3.1"
   }
 }
