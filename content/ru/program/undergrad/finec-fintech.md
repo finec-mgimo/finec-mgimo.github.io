@@ -71,13 +71,18 @@ toc: true
 - посмотреть наш кампус
 
 ## Руководители программы
+[Саркисян Жаклин Меружановна](https://mgimo.ru/people/sarkisyan-zhaklin/)</br>
 
-- Саркисян
-- Казачков
+![image](https://user-images.githubusercontent.com/77335777/121872210-addad200-cd0d-11eb-88fd-fbbfda8861ec.png)
 
-TODO: ссылки на люди МГИМО
+Заведующая кафедрой, кандидат юридических наук
+***
 
-TODO: фото здесь
+[Казачков Владимир Александрович](https://mgimo.ru/people/kazachkov/)</br>
+
+![image](https://user-images.githubusercontent.com/77335777/121872441-ee3a5000-cd0d-11eb-8f5f-1046812a7748.png)
+
+Доцент, кандидат экономических наук
 
 ## Запись на программу
 
