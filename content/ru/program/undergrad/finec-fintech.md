@@ -76,7 +76,7 @@ toc: true
 ![image](https://user-images.githubusercontent.com/77335777/121872210-addad200-cd0d-11eb-88fd-fbbfda8861ec.png)
 
 Заведующая кафедрой, кандидат юридических наук
-***
+
 
 [Казачков Владимир Александрович](https://mgimo.ru/people/kazachkov/)</br>
 
