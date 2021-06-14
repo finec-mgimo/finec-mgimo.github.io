@@ -53,11 +53,10 @@ toc: true
 
 ![][math] ![][rus] ![][ino]
 
-[math]: https://img.shields.io/badge/Математика-brightgreen
+[math]: https://img.shields.io/badge/Математика-blue
 [rus]: https://img.shields.io/badge/Русский-blue
-[ino]: https://img.shields.io/badge/Иностранный_язык-orange
+[ino]: https://img.shields.io/badge/Иностранный_язык-blue
 
-TODO: подобрать цвета, цвета можно задавать кодом, см https://shields.io/
 
 ### Как подать документы
 
