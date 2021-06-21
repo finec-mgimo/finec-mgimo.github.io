@@ -8,7 +8,7 @@ weight: 20
 toc: true
 ---
 
-![](https://img.shields.io/badge/Баклавриат-Менеджмент-blue) ![](https://img.shields.io/badge/ЕГЭ-Русский_|_Математика_|_Иностранный язык-blue)
+![](https://img.shields.io/badge/Баклавриат-Менеджмент-blue) ![]https://img.shields.io/badge/%D0%95%D0%93%D0%AD-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%7C_%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_%7C_%D0%98%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA-blue)
 ![](https://img.shields.io/badge/Всего_мест-25-blue)
 
 ## О программе
