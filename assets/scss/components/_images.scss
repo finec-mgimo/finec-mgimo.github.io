@@ -19,6 +19,13 @@ figure.wide .figure-caption {
   padding-left: 25%;
 }
 
+.rounded-photo {
+  object-fit: cover;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
 @include media-breakpoint-up(md) {
   figure.wide {
     margin: 2rem -2.5rem;
