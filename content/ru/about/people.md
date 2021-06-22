@@ -12,7 +12,7 @@ weight: 20
 
 ## Руководство факультета
 
-Перенести сюда https://finec.mgimo.ru/people/principals/
+Перенести отсюда https://finec.mgimo.ru/people/principals/
 
 - Погребняк
 - Дворникова
@@ -35,17 +35,3 @@ weight: 20
 <!-- потом убираем-->
 
 См. также - <https://finec.mgimo.ru/people/departments>
-
-## Примеры фото
-
-### Вставка фото как html img
-
----
-
-<img src="https://mgimo.ru/upload/iblock/310/alborova.jpg" alt="Алборова Диана Анатольевна" class="rounded-photo">
-<img src="https://mgimo.ru/upload/iblock/9da/aksenova.jpg" alt="Аксенова ЕленаВладимировна" class="rounded-photo">
-<img src="https://mgimo.ru/upload/iblock/67e/alaverdyan.jpg" alt="Алавердян Анна Арменовна" class="rounded-photo">
-
----
-
-К сожалению дефолтный markdown препроцессор для Hugo – Goldmark, поддерживает классы, атрибуты и идентификаторы только для заголовков. Веротяно придется добавлять картинки как html разметку.
