@@ -21,11 +21,19 @@ weight: 5
 
 Деканат:
 
-- Погребняк Евгений Владмирович
+<a href="https://mgimo.ru/people/pogrebnyak/">
+<img
+    src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
+    alt="Погребняк Евгений Владмирович"
+    title="Погребняк Евгений Владмирович"
+    class="rounded-photo"
+/>
+</a>
 
 <img
     src="/finec-mgimo-v2/images/person/dvornikova.jpg"
     alt="Дворникова Юлия Владимировна"
+    title="Дворникова Юлия Владимировна"
     class="rounded-photo"
 />
 
@@ -35,6 +43,7 @@ weight: 5
   <img
     src="https://mgimo.ru/upload/iblock/858/Vasilyuk.jpg"
     alt="Василюк Татьяна Николаевна"
+    title="Василюк Татьяна Николаевна"
     class="rounded-photo"
   />
 </a>
@@ -43,6 +52,7 @@ weight: 5
   <img
     src="https://mgimo.ru/upload/iblock/bff/Bondarenko.jpg"
     alt="Бондарекно Алексей Валерьевич"
+    title="Бондарекно Алексей Валерьевич"
     class="rounded-photo"
   />
 </a>
@@ -51,6 +61,7 @@ weight: 5
   <img
     src="https://mgimo.ru/upload/iblock/a9b/kozlovskaya.jpg"
     alt="Козловская Елена Александровна"
+    title="Козловская Елена Александровна"
     class="rounded-photo"
   />
 </a>
@@ -75,3 +86,7 @@ weight: 5
 
 - Данилочкина Надежда Григорьевна
 - Флегонтов Виталий Иванович
+
+Not todo:
+
+- специалисты деканата
