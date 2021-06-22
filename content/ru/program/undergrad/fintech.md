@@ -28,15 +28,36 @@ toc: true
 ![](https://img.shields.io/badge/Всего_мест-25-blue) ![](https://img.shields.io/badge/Бюджетные_места-5-brightgreen)
 
 Программа сочетает в себе фундаментальную подготовку в области экономики
-и корпоративных финансов вместе с погружением в сферу финансовых технологий:
-инфраструктуру финансового рынка, платежных систем и развития нового
-цифрового бизнеса.
+и корпоративных финансов вместе с погружением в сферу финансовых технологий.
 
 Выпускники программы получают квалификацию "Бакалавр экономики со знанием иностранных языков".
-и востребованы идутв российских и международных компаниях,
+и востребованы в российских и международных компаниях,
 осуществляющих трансформацию сферы финансов, включая банки и страховые компании.
 
 На программе 25 мест, из них 5 бюджетных мест.
+
+## Партнерство с Henley Business School
+
+Особенность программы — партнерство с ведущей европейской бизнес-школой
+[Henley Business School](https://www.henley.ac.uk/) (Великобритания),
+имеющей [тройную аккредитацию](https://www.henley.ac.uk/why/accreditations).
+
+Наши студенты могут выбрать трек обучения двух дипломов
+и после второго курса продолжить двухгодичное образование на программе
+[Masters in Finance and Financial Technology (FinTech)][henley].
+
+[henley]: https://www.icmacentre.ac.uk/study/masters/msc-finance-and-financial-technology-fintech
+
+Программы ФЭТ (Финэк МГИМО) и FinTech (Henley) имеют следующие
+общие дисциплины:
+
+- Introductory securities and markets (IC101)
+- ...
+
+https://www.icmacentre.ac.uk/study/undergraduate/bsc-finance-fintech#modules
+
+https://github.com/epogrebnyak/finec-mgimo-v2/issues/61
+
 
 ## Изучаемые дисциплины
 
@@ -86,28 +107,6 @@ _Уточнить:_
 Это позволяет выпускникам овладеть иностранным языком на уровне,
 обеспечивающем свободное общение как в общекультурной сфере,
 так и в сфере профессиональной деятельности.
-
-### Партнерство с Henley Business School
-
-Особенность программы — партнерство с ведущей европейской бизнес-школой
-[Henley Business School](https://www.henley.ac.uk/) (Великобритания),
-имеющей [тройную аккредитацию](https://www.henley.ac.uk/why/accreditations).
-
-Наши студенты могут выбрать трек обучения двух дипломов
-и после второго курса продолжить двухгодичное образование на программе
-[Masters in Finance and Financial Technology (FinTech)][henley].
-
-[henley]: https://www.icmacentre.ac.uk/study/masters/msc-finance-and-financial-technology-fintech
-
-Программы ФЭТ (Финэк МГИМО) и FinTech (Henley) имеют следующие
-общие дисциплины:
-
-- Introductory securities and markets (IC101)
-- ...
-
-https://www.icmacentre.ac.uk/study/undergraduate/bsc-finance-fintech#modules
-
-https://github.com/epogrebnyak/finec-mgimo-v2/issues/61
 
 ### Сотрудничество с работодателями
 
