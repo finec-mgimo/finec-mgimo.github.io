@@ -19,18 +19,41 @@ weight: 5
 </a>
 ```
 
-Декан:
+Деканат:
 
 - Погребняк Евгений Владмирович
+
+<img
+    src="/finec-mgimo-v2/images/person/dvornikova.jpg"
+    alt="Дворникова Юлия Владимировна"
+    class="rounded-photo"
+/>
 
 Менеджмент:
 
 <a href="https://mgimo.ru/people/vasilyuk/">
-<img src="https://mgimo.ru/upload/iblock/858/Vasilyuk.jpg" alt="Василюк Татьяна Николаевна" class="rounded-photo">
+  <img
+    src="https://mgimo.ru/upload/iblock/858/Vasilyuk.jpg"
+    alt="Василюк Татьяна Николаевна"
+    class="rounded-photo"
+  />
 </a>
 
-- Бондаренко Алексей Владимирович
-- Козловская Елена Александровна
+<a href="https://mgimo.ru/people/bondarenko-aleksey/">
+  <img
+    src="https://mgimo.ru/upload/iblock/bff/Bondarenko.jpg"
+    alt="Бондарекно Алексей Валерьевич"
+    class="rounded-photo"
+  />
+</a>
+
+<a href="https://mgimo.ru/people/kozlovskaya/">
+  <img
+    src="https://mgimo.ru/upload/iblock/a9b/kozlovskaya.jpg"
+    alt="Козловская Елена Александровна"
+    class="rounded-photo"
+  />
+</a>
 
 ИИ:
 
