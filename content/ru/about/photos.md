@@ -14,6 +14,7 @@ weight: 5
   <img
     src="https://mgimo.ru/upload/iblock/858/Vasilyuk.jpg"
     alt="Василюк Татьяна Николаевна"
+    title="Василюк Татьяна Николаевна"
     class="rounded-photo"
   />
 </a>
@@ -24,8 +25,8 @@ weight: 5
 <a href="https://mgimo.ru/people/pogrebnyak/">
 <img
     src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
-    alt="Погребняк Евгений Владмирович"
-    title="Погребняк Евгений Владмирович"
+    alt="Погребняк Евгений Владимирович"
+    title="Погребняк Евгений Владимирович"
     class="rounded-photo"
 />
 </a>
@@ -51,8 +52,8 @@ weight: 5
 <a href="https://mgimo.ru/people/bondarenko-aleksey/">
   <img
     src="https://mgimo.ru/upload/iblock/bff/Bondarenko.jpg"
-    alt="Бондарекно Алексей Валерьевич"
-    title="Бондарекно Алексей Валерьевич"
+    alt="Бондаренко Алексей Валерьевич"
+    title="Бондаренко Алексей Валерьевич"
     class="rounded-photo"
   />
 </a>
@@ -72,15 +73,23 @@ weight: 5
 
 ИТМБ:
 
-- Притчина Лариса Сергеевна
+- Притчина Лариса Сергеевна (сделано, преенести из ИТМБ)
 - Ерохин Виктор Викторович
 - Павловский Игорь Станиславович
 
 Финтех:
 
+<a href="https://mgimo.ru/people/sarkisyan-zhaklin/">
+<img
+    src="/finec-mgimo-v2/images/person/sarkisyan.jpg"
+    alt="Саркисян Жаклин Меружановна"
+    title="Саркисян Жаклин Меружановна"
+    class="rounded-photo"
+/>
+</a>
+
+- Казачков Владимир Алексеевич (сделано, преенести из ФЭТ)
 - Данилочкина Надежда Григорьевна
-- Саркисян Жаклин Меружановна
-- Казачков Владимир Алексеевич
 
 Экономика фирмы:
 
