@@ -69,13 +69,44 @@ weight: 5
 
 ИИ:
 
-- https://mgimo.ru/people/abramova-anna/
+<a href="https://mgimo.ru/people/abramova-anna/">
+  <img
+    src="https://mgimo.ru/upload/iblock/886/886ee3acf577dc8d005e2ad24615f1ff.jpg"
+    alt="Абрамова Анна Владимировна"
+    title="Абрамова Анна Владимировна"
+    class="rounded-photo"
+  />
+</a>
+
 
 ИТМБ:
 
-- Притчина Лариса Сергеевна (сделано, преенести из ИТМБ)
-- Ерохин Виктор Викторович
-- Павловский Игорь Станиславович
+<a href="https://mgimo.ru/people/pritchina/">
+  <img
+    src="https://mgimo.ru/upload/iblock/4fe/pritchina.jpg"
+    alt="Притчина Лариса Сергеевна"
+    title="Притчина Лариса Сергеевна"
+    class="rounded-photo"
+  />
+</a>
+
+<a href="https://mgimo.ru/people/erokhin/">
+  <img
+    src="https://mgimo.ru/upload/iblock/821/erokhin.jpg"
+    alt="Ерохин Виктор Викторович"
+    title="Ерохин Виктор Викторович"
+    class="rounded-photo"
+  />
+</a>
+
+<a href="https://mgimo.ru/people/pavlovskiy/">
+  <img
+    src="https://mgimo.ru/upload/iblock/94d/pavlovskiy.jpg"
+    alt="Павловский Игорь Станиславович"
+    title="Павловский Игорь Станиславович"
+    class="rounded-photo"
+  />
+</a>
 
 Финтех:
 
@@ -88,13 +119,44 @@ weight: 5
 />
 </a>
 
-- Казачков Владимир Алексеевич (сделано, преенести из ФЭТ)
-- Данилочкина Надежда Григорьевна
+<a href="https://mgimo.ru/people/kazachkov/">
+<img
+    src="https://mgimo.ru/upload/iblock/6f9/kazachkov.jpg"
+    alt="Казачков Владимир Александрович"
+    title="Казачков Владимир Александрович"
+    class="rounded-photo"
+/>
+</a>
+
+<a href="https://mgimo.ru/people/danilochkina/">
+<img
+    src="https://mgimo.ru/upload/iblock/e2a/danilochkina.jpg"
+    alt="Данилочкина Надежда Григорьевна"
+    title="Данилочкина Надежда Григорьевна"
+    class="rounded-photo"
+/>
+</a>
 
 Экономика фирмы:
 
-- Данилочкина Надежда Григорьевна
-- Флегонтов Виталий Иванович
+<a href="https://mgimo.ru/people/danilochkina/">
+<img
+    src="https://mgimo.ru/upload/iblock/e2a/danilochkina.jpg"
+    alt="Данилочкина Надежда Григорьевна"
+    title="Данилочкина Надежда Григорьевна"
+    class="rounded-photo"
+/>
+</a>
+
+<a href="https://mgimo.ru/people/flegontov/">
+<img
+    src="https://mgimo.ru/upload/iblock/03f/flegontov.jpg"
+    alt="Флегонтов Виталий Иванович"
+    title="Флегонтов Виталий Иванович"
+    class="rounded-photo"
+/>
+</a>
+
 
 Not todo:
 
