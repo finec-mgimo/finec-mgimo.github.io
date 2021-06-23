@@ -79,18 +79,17 @@ toc: true
 изучают математические методы, анализ данных и эконометрику.
 
 Наша программа на Финэке МГИМО и программа FinTech (Henley) имеют
-в учебных планах следующие корреспондирующие дисциплины:
+в учебных планах следующие корреспондирующие дисциплины 1 и 2 курса:
 
-- Introductory securities and markets (IC101)
-- ...
+- Introductory Securities and Markets
+- Introductory Finance/Trading Simulation I
+- Introductory Economics for Business and Finance
+- Introductory Quantitative Techniques for Business and Finance
+- Ethics in Investment Management
+- Business in Practice: Accounting for Managers
 
-https://www.icmacentre.ac.uk/study/undergraduate/bsc-finance-fintech#modules
+#### Блок "финтех" 
 
-https://github.com/epogrebnyak/finec-mgimo-v2/issues/61
-
-#### Блок "финтех" (уточнить)
-
-_Уточнить:_
 
 - Цифровые компетенции будущего (разработана совместно с консультационной компанией Accenture)
 - Платежные системы
