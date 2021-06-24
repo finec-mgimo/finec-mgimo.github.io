@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://epogrebnyak.github.io/finec-mgimo-v2/sitemap.xml
+Sitemap: https://finec.mgimo.ru/finec-mgimo-v2/sitemap.xml
