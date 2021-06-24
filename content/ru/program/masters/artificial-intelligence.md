@@ -9,4 +9,4 @@ weight: 20
 toc: true
 ---
 
-## Искуственный интеллект
+Информация о программе: [ai.mgimo.ru](https://ai.mgimo.ru).
