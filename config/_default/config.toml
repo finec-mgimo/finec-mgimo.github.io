@@ -1,4 +1,4 @@
-baseURL = "https://epogrebnyak.github.io/finec-mgimo-v2/"
+baseURL = "https://finec.mgimo.ru/finec-mgimo-v2/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
