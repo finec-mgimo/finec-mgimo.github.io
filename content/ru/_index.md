@@ -23,7 +23,7 @@ images: []
 [![](<https://img.shields.io/badge/Менеджмент_(ФМ)-blue>)][management]
 [![](<https://img.shields.io/badge/Бизнес--информатика_(ИТМБ)-blue>)][itmb]
 [![](https://img.shields.io/badge/Экономика_фирмы_и_ВЭД-brightgreen)][ved]
-[![](https://img.shields.io/badge/Искуственный_интеллект-brightgreen)][ai]
+[![](https://img.shields.io/badge/Искусственный_интеллект-brightgreen)][ai]
 [![](https://img.shields.io/badge/Экономика_ИТ_и_управление_данными-brightgreen)][it]
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
@@ -45,7 +45,7 @@ images: []
 [![](https://img.shields.io/badge/Событийный_менеджмент-brightgreen)][event]
 [![](https://img.shields.io/badge/Executive_MBA-violet)][emba]
 
-- Мы разработали новый блок экономически[ дисциплин для бакалаврской программы
+- Мы разработали  блок экономических дисциплин для бакалаврской программы
   "Административное и финансовое право" Международно-правового факультета МГИМО.
 - Кафедра менеджмента Финэка МГИМО - выпускающая кафедра программы "Событийный менеджмент",
   посвященной индустрии деловых и развлекательных мероприятий.
