@@ -10,20 +10,32 @@
   identifier = "masters-id"
   url = "/program/masters/"
 
+[[docs]]
+  name = "Executive MBA"
+  weight = 30
+  identifier = "executive-id"
+  url = "/program/executive/"
+
+
 [[main]]
-  name = "О факультете"
+  name = "О нас"
   url = "/about/"
   weight = 10
 
 [[main]]
-  name = "Наш блог"
+  name = "Блог"
   url = "/blog/"
   weight = 20
 
 [[main]]
+  name = "Проекты"
+  url = "/projects/"
+  weight = 30
+
+[[main]]
   name = "Контакты"
   url = "/contacts/"
-  weight = 30
+  weight = 40
 
 #[[social]]
 #  name = "Twitter"

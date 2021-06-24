@@ -78,7 +78,6 @@ weight: 5
   />
 </a>
 
-
 ИТМБ:
 
 <a href="https://mgimo.ru/people/pritchina/">
@@ -156,7 +155,6 @@ weight: 5
     class="rounded-photo"
 />
 </a>
-
 
 Not todo:
 

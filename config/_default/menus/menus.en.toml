@@ -10,8 +10,15 @@
  identifier = "masters-id"
  url = "/en/program/masters/"
 
+[[docs]]
+  name = "Executive MBA"
+  weight = 30
+  identifier = "executive-id"
+  url = "/en/program/executive/"
+
+
 [[main]]
-  name = "About us"
+  name = "About"
   url = "/en/about/"
   weight = 10
 
