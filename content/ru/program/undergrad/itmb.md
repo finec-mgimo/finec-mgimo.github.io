@@ -20,7 +20,7 @@ toc: true
 бизнес-информатике в России. В 2020 году программа заняла
 [4 место в России](https://ege.hse.ru/rating/2020/84025342/all/?rlist=&ptype=0&glist=%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=)
 по среднему баллу ЕГЭ поступающих на бюджетные места и
-[11 место](https://ege.hse.ru/rating/2020/84025368/all/?rlist=&ptype=0&glist=%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=&price-order=ge&price-val=).
+[11 место](https://ege.hse.ru/rating/2020/84025368/all/?rlist=&ptype=0&glist=%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=&price-order=ge&price-val=)
 по баллам зачисленных на платные места.
 
 План приема на программу ИТМБ в этому году составляет 25 мест, из них 5 - бюджетные.
@@ -115,6 +115,17 @@ toc: true
 
 [Павловский Игорь Станиславович](https://mgimo.ru/people/pavlovskiy/),
 доцент, кандидат технических наук.
+
+<!--
+a href="https://mgimo.ru/people/erokhin/">
+  <img
+    src="https://mgimo.ru/upload/iblock/821/erokhin.jpg"
+    alt="Ерохин Виктор Викторович"
+    title="Ерохин Виктор Викторович"
+    class="rounded-photo"
+  />
+</a
+-->
 
 ## Интервью и материалы
 

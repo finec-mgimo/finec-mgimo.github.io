@@ -14,20 +14,20 @@ weight: 30
 
 #### Кафедра экономики и финансов
 
-- <https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-ekonomiki-i-finansov/>
-- <https://mgimo.ru/study/faculty/ffe/kef/>
+- [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-ekonomiki-i-finansov/)
+- [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kef/)
 
 #### Кафедра менеджмента
 
-- <https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-menedzhmenta/>
-- <https://mgimo.ru/study/faculty/ffe/kmen/>
+- [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-menedzhmenta/)
+- [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmen/)
 
-#### Кафдера математических методов и бизнес-информатики
+#### Кафедра математических методов и бизнес-информатики
 
-- <https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-matematicheskikh-metodov-i-biznes-informatiki>
-- <https://mgimo.ru/study/faculty/ffe/kmmbi/>
+- [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-matematicheskikh-metodov-i-biznes-informatiki)
+- [на сайте odin.mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmmbi/)
 
 #### Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ
 
-- <https://mgimo.ru/study/faculty/ffe/kafadv/>
-- <https://digitalresearch.mgimo.ru/>
+- [на сайте odin.mgimo.ru](https://mgimo.ru/study/faculty/ffe/kafadv/)
+- [на сайте odin.mgimo.ru](https://digitalresearch.mgimo.ru/)

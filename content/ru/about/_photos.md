@@ -2,23 +2,10 @@
 title: "Фото коллег"
 date: 2021-06-22
 lastmod: 2021-06-22
-draft: false
+draft: true
 images: []
 weight: 5
 ---
-
-В этот документ нужно добавить фото коллег в следующем виде:
-
-```html
-<a href="https://mgimo.ru/people/vasilyuk/">
-  <img
-    src="https://mgimo.ru/upload/iblock/858/Vasilyuk.jpg"
-    alt="Василюк Татьяна Николаевна"
-    title="Василюк Татьяна Николаевна"
-    class="rounded-photo"
-  />
-</a>
-```
 
 Деканат:
 
@@ -155,7 +142,3 @@ weight: 5
     class="rounded-photo"
 />
 </a>
-
-Not todo:
-
-- специалисты деканата
