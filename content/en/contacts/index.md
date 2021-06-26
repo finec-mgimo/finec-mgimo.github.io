@@ -1,36 +1,18 @@
 ---
-title: "Call, come, write"
-description: "Our phone, mail, address"
-date: 2020-06-26
-lastmod: 2020-06-26
+title: "Contacts"
 draft: false
 images: []
 ---
 
-## Phone
+Our email is [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
 
-Dean of the Faculty: <a href="tel:+74956617175">+7 (495) 661-71-75</a>
+We welcome correspondence on academic cooperation and student exchanges,
+new course development, joint research intitiatives and other matters. 
 
-<!--
-Selection committee MGIMO-Odintsovo: <a href="tel:+74956617176"> +7 (495) 661-71-66</a>
--->
+Faculty office: <a href="tel:+74956617175">+7 (495) 661-71-75</a>
 
-## Email
+Location: [3, Novo-Sportivnaya, Odintsovo, Moscow Region 143005](https://yandex.ru/maps/-/CCQdZMwaPA)
 
-Our email address: [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
-
-## Our address
-
-[3, Novo-Sportivnaya st., Odintsovo](https://yandex.ru/maps/-/CCQdZMwaPA)
+Site tour:
 
 {{< youtube twanN25NqR0 >}}
-
-## Familiarization visit
-
-Come see our campus and talk to faculty representatives. 
-Fill out the [form below](https://forms.gle/tRBb3VAGNyV53uAv5) for familiarization visit.
-
-<div align="center">
-<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Familiarization visit</a>
-
-</div>

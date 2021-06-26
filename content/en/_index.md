@@ -1,55 +1,94 @@
 ---
-title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+title: "Факультет финансовой экономики МГИМО"
 draft: false
-images: []
-weight: 100
-toc: true
+toc: false
 ---
 
-## Logos
+At Finec MGIMO we teach economics, management and business IT.
 
-![Finec MGIMO Logo](front_dash.png)
+## Поступление на Финэк МГИМО
 
-![Finec MGIMO Logo](finec.png)
+[econ]: /finec-mgimo-v2/program/undergrad/economics
+[management]: /finec-mgimo-v2/program/undergrad/management
+[itmb]: /finec-mgimo-v2/program/undergrad/itmb
+[ai]: https://ai.mgimo.ru
+[ved]: /finec-mgimo-v2/program/graduate/firm-economics-ved
+[it]: /finec-mgimo-v2/program/graduate/it-economics-and-data-management
+[event]: https://event.mgimo.ru/
+[emba]: /finec-mgimo-v2/program/executive/emba
 
-## Get started
+<a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
+<img
+    src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
+    alt="Погребняк Евгений Владимирович"
+    title="Погребняк Евгений Владимирович"
+    class="rounded-photo"
+/>
+</a>
 
-There are two main ways to get started with Doks:
+В 2021 году факультет финансовой экономики МГИМО
+ведет набор на программы бакалавриата и магистратуры
+по экономике, менеджменту и бизнес-информатике.
+Какая программа Финэка вам подходит?
+[Рассказывает декан факультета финансовой экономики Е.В.Погребняк.](about/interview)
 
-### Tutorial
+| Бакалавриат                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![](<https://img.shields.io/badge/Экономика_(ФЭТ)-blue>)][econ] [![](<https://img.shields.io/badge/Менеджмент_(ФМ)-blue>)][management] [![](<https://img.shields.io/badge/Бизнес--информатика_(ИТМБ)-blue>)][itmb] |
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
+<div></div>
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+| Магистратура                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![](https://img.shields.io/badge/Экономика_фирмы_и_ВЭД-005E7C)][ved] [![](https://img.shields.io/badge/Искусственный_интеллект-005E7C)][ai] [![](https://img.shields.io/badge/Экономика_ИТ_и_управление_данными-005E7C)][it] |
 
-### Quick Start
+| Программы других факультетов с участием Финэк МГИМО                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://img.shields.io/badge/Административное_и_финансовое_право-blue) [![](https://img.shields.io/badge/Событийный_менеджмент-005E7C)][event] [![](https://img.shields.io/badge/Executive_MBA-F93943)][emba] |
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
+<!--
+## Финэк на других факультетах
 
-## Go further
+![](https://img.shields.io/badge/Административное_и_финансовое_право-blue)
+[![](https://img.shields.io/badge/Событийный_менеджмент-005E7C)][event]
+[![](https://img.shields.io/badge/Executive_MBA-F93943)][emba]
 
-Recipes, Reference Guides, Extensions, and Showcase.
+Мы разработали блок экономических дисциплин для бакалаврской программы
+"Административное и финансовое право" Международно-правового факультета МГИМО.
 
-### Recipes
+Кафедра менеджмента Финэка МГИМО - выпускающая кафедра программы
+"Событийный менеджмент", посвященной индустрии деловых и развлекательных мероприятий.
+-->
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
+## Анализ данных - сотрудничество с Google
 
-### Reference Guides
+<img src="/finec-mgimo-v2/images/logo-google.png" class="float-left mr-3 pt-2">
 
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
+[ml]: /finec-mgimo-v2/projects/machine-learning-mgimo-google/
 
-### Extensions
+Совметно с компанией Google мы разрабатываем онлайн-курс
+["Управление проектами анализа данных и машинного обучения"][ml],
+который позволяет стать эффективным заказчиком таких проектов в бизнесе,
+госуправлении и научных исследованиях.
+Курс будет доступен в качестве факультатива во втором семестре
+2021/2022 учебного года.
 
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/add-google-fonts/)
+<!--
 
-### Showcase
+## Разработка ИТ - группа компаний РБК
 
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/neutrino-oscillations/)
+-->
 
-## Contributing
+<!--
+## Новое в блоге
 
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+> [Мы начали блог](/blog/)
+-->
+
+## Кампус МГИМО-Одинцово
+
+Наш ценный актив - собственный кампус в Одинцово, с уютной рабочей
+атмосферой, современным техническим оснащением и собственным спорткомплексом
+с бассейном.
+
+{{< youtube twanN25NqR0 >}}
