@@ -9,3 +9,23 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Henk Verlinde"]
 ---
+
+Что мы сделали 
+
+- логотипы
+- ppt
+
+Первая версия - 
+
+Мы решили попробовать Doks
+
+Скажи привет Doks 👋
+
+вопрос - откуда берутся символы 👋 👉
+
+{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
+
+Откуда берутся
+
+
+Описание на русском. Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
