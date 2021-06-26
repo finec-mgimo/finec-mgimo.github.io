@@ -33,27 +33,36 @@ weight: 30
 Дворникова Юлия Владимировна, заместитель декана факультета финансовой экономики,
 кандидат экономических наук.
 
-<!--
+#### Сотрудники деканата
 
-## Сотрудники деканата
+Специалисты по учебно-методической работе факультета финансовой экономики
 
-TODO VМ: добавить фото и текст
+<img 
+    src="https://mgimo.ru/upload/iblock/479/belosobova%20natalia.png"
+    alt="Белобосова Наталия Сергеевна"
+    title="Белобосова Наталия Сергеевна"
+    class="rounded-photo"
+/> <img 
+    src="https://mgimo.ru/upload/iblock/080/nasirova.jpg"
+    alt="Насырова Светлана Леонидовна"
+    title="Насырова Светлана Леонидовна"
+    class="rounded-photo"
+/> <img 
+    src="https://mgimo.ru/upload/iblock/3a9/o.saveljeva.jpg"
+    alt="Савельева Ольга Александровна"
+    title="Савельева Ольга Александровна"
+    class="rounded-photo"
+/>
 
-- https://mgimo.ru/people/belobosova/
-- https://mgimo.ru/people/nasyrova/
-- https://mgimo.ru/people/saveleva-olga/
-
--->
-
-<!--
-(на сайте МГИМО Ольга Алекснадровна - изменить)
--->
+- [Белобосова Наталия Сергеевна](https://mgimo.ru/people/belobosova/)
+- [Насырова Светлана Леонидовна](https://mgimo.ru/people/nasyrova/)
+- [Савельева Ольга Александровна](https://mgimo.ru/people/saveleva-olga/)
 
 ## Кафедры
 
 На нашем факультете работают четыре кафедры, которые ведут подготовку студентов и исследовательскую работу по трем взаимосвязанным направлениям: экономике, менеджменту и бизнес-информатике.
 
-#### Кафедра экономики и финансов
+### Кафедра экономики и финансов
 
 <a href="https://mgimo.ru/people/sarkisyan-zhaklin/" class="float-left mr-3 pt-2">
 <img
@@ -67,14 +76,14 @@ TODO VМ: добавить фото и текст
 [Саркисян Жаклин Меружановна](https://mgimo.ru/people/sarkisyan-zhaklin/),
 зав. кафедрой экономики и финансов, доктор юридических наук
 
-**О кафедре**:
+##### О кафедре
 
 - [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-ekonomiki-i-finansov/)
 - [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kef/)
 
-[Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kef/employees/)
+##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kef/employees/)
 
-#### Кафедра менеджмента
+### Кафедра менеджмента
 
 <a href="https://mgimo.ru/people/vasilyuk/" class="float-left mr-3 pt-2">
   <img
@@ -87,14 +96,14 @@ TODO VМ: добавить фото и текст
 
 [Василюк Татьяна Николаевна](https://mgimo.ru/people/vasilyuk/), зав. кафедрой менеджмента, доцент, кандидат экономических наук
 
-**О кафедре**:
+##### О кафедре
 
 - [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-menedzhmenta/)
 - [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmen/)
 
-[Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kmen/employees/)
+##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kmen/employees/)
 
-#### Кафедра математических методов и бизнес-информатики
+### Кафедра математических методов и бизнес-информатики
 
 <a href="https://mgimo.ru/people/pritchina/" class="float-left mr-3 pt-2">
   <img
@@ -110,14 +119,14 @@ TODO VМ: добавить фото и текст
 заместитель директора Одинцовского кампуса МГИМО,
 кандидат технических наук, доцент.
 
-**О кафедре**:
+##### О кафедре
 
 - [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-matematicheskikh-metodov-i-biznes-informatiki)
 - [на сайте odin.mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmmbi/)
 
-[Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kmmbi/employees/)
+##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kmmbi/employees/)
 
-#### Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ
+### Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ
 
 <a href="https://mgimo.ru/people/abramova-anna/" class="float-left mr-3 pt-2">
   <img
@@ -130,9 +139,9 @@ TODO VМ: добавить фото и текст
 
 Абрамова Анна Владимировна, зав. кафедрой цифровой экономики и искусственного интеллекта группы компаний АДВ, кандидат экономических наук, доцент
 
-**О кафедре**:
+##### О кафедре
 
 - [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kafadv/)
 - [на сайте digitalresearch.mgimo.ru](https://digitalresearch.mgimo.ru/)
 
-[Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kafadv/employees/)
+##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kafadv/employees/)
