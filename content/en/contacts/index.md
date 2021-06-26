@@ -9,20 +9,20 @@ images: []
 
 English version of Contacts Page.
 
-143007, Московская область, г. Одинцово, ул. Ново-Cпортивная, д.3
+143007, Moscow region, Odintsovo, st. Novo-Sports, 3
 
 +7 495 661-71-22
 
 info@odin.mgimo.ru
 
-Белорусская выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
+Belorusskaya exit to suburban trains, then by train to Odintsovo station, then on foot.
 
-Беговая выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
+Jogging exit to suburban trains, then by train to Odintsovo station, then on foot.
 
-Фили выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
+Or exit to suburban trains, then by train to Odintsovo station, then on foot.
 
-Кунцевская выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
+Kuntsevskaya exit to suburban trains, then by train to Odintsovo station, then on foot.
 
-Парк Победы далее автобусом 339 до станции Дубрава, далее пешком
+Victory Park then by bus 339 to Dubrava station, then on foot.
 
-Славянский бульвар далее автобусом 339 до станции Дубрава, далее пешком
+Slavyansky Boulevard then by bus 339 to Dubrava station, then on foot.
