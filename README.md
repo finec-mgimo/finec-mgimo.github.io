@@ -50,8 +50,5 @@
 - [ ] нужен ли нам телеграм канал или другие медиа
 - [ ] как измерять нашу медиа-эффективность
 
-## Новая структура сайта
 
-- <https://github.com/necelentano/finec-mgimo-v2/issues>
-- <https://necelentano.github.io/finec-mgimo-v2/>
 
