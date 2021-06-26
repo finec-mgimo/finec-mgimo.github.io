@@ -4,7 +4,7 @@ description: "Описание на русском. Introducing Doks, a Hugo the
 lead: "Описание на русском. Вступление в Doks. Doks это тема для Hugo, которая поможет построить современный сайт для документации. Безопасный, быстрый и дружественный для SEO из коробки."
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
-draft: false
+draft: true
 images: ["say-hello-to-doks.png"]
 ---
 
