@@ -50,5 +50,16 @@
 - [ ] нужен ли нам телеграм канал или другие медиа
 - [ ] как измерять нашу медиа-эффективность
 
+## Список новостей
+
+- https://odin.mgimo.ru/nov-pod-mgimo/4040-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-dlya-studentov-kolledzha-mgimo
+- https://odin.mgimo.ru/news/3929-den-otkrytykh-dverej-v-mgimo-odintsovo-2
+- https://odin.mgimo.ru/nov-pod-mgimo/3924-dekan-e-v-pogrebnyak-abiturientam-fakulteta-finansovoj-ekonomiki
+- https://odin.mgimo.ru/nov-pod-mgimo/3842-intervyu-dekana-fakulteta-finansovoj-ekonomiki-e-v-pogrebnyaka
+- https://odin.mgimo.ru/nov-pod-mgimo/3812-programma-finansovyj-menedzhment
+- https://odin.mgimo.ru/nov-pod-mgimo/3809-programma-informatsionnye-tekhnologii-v-mezhdunarodnom-biznese
+- https://odin.mgimo.ru/news/3801-seminar-magiya-i-realnost-mashinnogo-obucheniya-finek-mgimo-i-kompanii-google
+- https://odin.mgimo.ru/all-news?start=368
+- https://odin.mgimo.ru/nov-pod-mgimo/3589-rasshirennyj-sovet-fakulteta-finansovoj-ekonomiki-progolosoval-po-kandidature-dekana-fakulteta
 
 
