@@ -1,28 +1,36 @@
 ---
-title: "Contacts"
-description: "Here you can find our contanct data."
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
+title: "Call, come, write"
+description: "Our phone, mail, address"
+date: 2020-06-26
+lastmod: 2020-06-26
 draft: false
 images: []
 ---
 
-English version of Contacts Page.
+## Phone
 
-143007, Moscow region, Odintsovo, st. Novo-Sports, 3
+Dean of the Faculty: <a href="tel:+74956617175">+7 (495) 661-71-75</a>
 
-+7 495 661-71-22
+<!--
+Selection committee MGIMO-Odintsovo: <a href="tel:+74956617176"> +7 (495) 661-71-66</a>
+-->
 
-info@odin.mgimo.ru
+## Email
 
-Belorusskaya exit to suburban trains, then by train to Odintsovo station, then on foot.
+Our email address: [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
 
-Jogging exit to suburban trains, then by train to Odintsovo station, then on foot.
+## Our address
 
-Or exit to suburban trains, then by train to Odintsovo station, then on foot.
+[3, Novo-Sportivnaya st., Odintsovo](https://yandex.ru/maps/-/CCQdZMwaPA)
 
-Kuntsevskaya exit to suburban trains, then by train to Odintsovo station, then on foot.
+{{< youtube twanN25NqR0 >}}
 
-Victory Park then by bus 339 to Dubrava station, then on foot.
+## Familiarization visit
 
-Slavyansky Boulevard then by bus 339 to Dubrava station, then on foot.
+Come see our campus and talk to faculty representatives. 
+Fill out the [form below](https://forms.gle/tRBb3VAGNyV53uAv5) for familiarization visit.
+
+<div align="center">
+<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Familiarization visit</a>
+
+</div>
