@@ -28,9 +28,14 @@
   weight = 20
 
 [[main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 30
+
+[[main]]
   name = "Contacts"
   url = "/en/contacts/"
-  weight = 30
+  weight = 40
 
 #[[social]]
 #  name = "Twitter"
