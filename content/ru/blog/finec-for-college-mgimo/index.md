@@ -1,6 +1,6 @@
 ---
 title: "День открытых дверей Факультета финансовой экономики для студентов Колледжа МГИМО"
-lead: "Вопросы и ответы о бакалаврских программах, реализуемых на факультете финансовой экономики."
+lead: "Рассказать о факультете соседям по кампусу - ответственно вдвойне!"
 slug: finec-for-college-mgimo
 date: 2021-03-24
 draft: false
@@ -60,13 +60,22 @@ draft: false
 
 Вы можете продолжить знакомство с Факультетом финансовой экономики на [Дне открытых дверей](https://odin.mgimo.ru/news/4020-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-2) в субботу 3 апреля или прийти на одно из [открытых занятий факультета](https://odin.mgimo.ru/news/4032-nedelya-otkrytykh-zanyatij-fakulteta-finansovoj-ekonomiki) с 5 по 10 апреля.
 
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_01.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_02.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_03.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_04.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_05.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_06.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_07.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_08.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_09.jpg)
-![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_10.jpg)
+{{< img src="dod-ffe-college-24-03-21_01.jpg" alt="Т.Н.Василюк" caption="<em>Татьяна Николаевна Василюк проводит викторину по менеджменту</em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_02.jpg" alt="Александра Антонова" caption="<em>Александра Антонова</em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_03.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_04.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_05.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_06.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_07.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_08.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_09.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+
+{{< img src="dod-ffe-college-24-03-21_10.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
