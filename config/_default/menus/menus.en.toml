@@ -17,20 +17,20 @@
   url = "/en/program/executive/"
 
 
-[[main]]
-  name = "About"
-  url = "/en/about/"
-  weight = 10
+# [[main]]
+#   name = "About"
+#   url = "/en/about/"
+#   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "/en/blog/"
-  weight = 20
+# [[main]]
+#   name = "Blog"
+#   url = "/en/blog/"
+#   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 30
+# [[main]]
+#   name = "Projects"
+#   url = "/projects/"
+#   weight = 30
 
 [[main]]
   name = "Contacts"
