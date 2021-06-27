@@ -1,11 +1,11 @@
 [[docs]]
- name = "Undergrad"
+ name = "Undergraduate"
  weight = 10
  identifier = "undergrad-id"
  url = "/en/program/undergrad/finec-fintech"
 
 [[docs]]
- name = "Masters"
+ name = "Graduate"
  weight = 20
  identifier = "masters-id"
  url = "/en/program/masters/"
@@ -51,12 +51,12 @@
   weight = 20  
 
 [[footer]]
-  name = "About us"
+  name = "About us (RUS)"
   url = "/about/"
   weight = 10
 
 [[footer]]
-  name = "Blog"
+  name = "Blog (RUS)"
   url = "/blog/"
   weight = 20
 
@@ -64,4 +64,3 @@
   name = "Contacts"
   url = "/contacts/"
   weight = 30
-
