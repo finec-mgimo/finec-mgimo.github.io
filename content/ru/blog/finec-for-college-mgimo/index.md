@@ -70,4 +70,3 @@ images: []
 ![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_08.jpg)
 ![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_09.jpg)
 ![alt](https://odin.mgimo.ru/images/news4463/dod-ffe-college-24-03-21_10.jpg)
-
