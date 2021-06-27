@@ -60,22 +60,22 @@ draft: false
 
 Вы можете продолжить знакомство с Факультетом финансовой экономики на [Дне открытых дверей](https://odin.mgimo.ru/news/4020-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-2) в субботу 3 апреля или прийти на одно из [открытых занятий факультета](https://odin.mgimo.ru/news/4032-nedelya-otkrytykh-zanyatij-fakulteta-finansovoj-ekonomiki) с 5 по 10 апреля.
 
-{{< img src="dod-ffe-college-24-03-21_01.jpg" alt="Т.Н.Василюк" caption="<em>Татьяна Николаевна Василюк проводит викторину по менеджменту</em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_01.jpg" caption="Татьяна Николаевна Василюк проводит викторину по менеджменту" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_02.jpg" alt="Александра Антонова" caption="<em>Александра Антонова</em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_02.jpg" caption="Александра Антонова" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_03.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_03.jpg" caption="Владимир Димтриевич Казачков рассказывает о программе по экономике" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_04.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_04.jpg" caption="Светлана Леонидовна Ушенко (кафедра менеджмента) и Евгений Владирович Погребняк" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_05.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_05.jpg" caption="Е.В. Погребняк о структуре учебного плана Финэка" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_06.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+<!--{{< figure src="dod-ffe-college-24-03-21_06.jpg" width=100% >}} -->
 
-{{< img src="dod-ffe-college-24-03-21_07.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_07.jpg" caption="Студенты колледжа МГИМО" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_08.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_08.jpg" caption="Студенты колледжа МГИМО" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_09.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_09.jpg" caption="Декан Финэка Е.В.Погребняк" width=100% >}}
 
-{{< img src="dod-ffe-college-24-03-21_10.jpg" alt="Василюк" caption="<em>Татьяна Николаевна Василюк проводит </em>" class="border-0" >}}
+{{< figure src="dod-ffe-college-24-03-21_10.jpg" caption="Димитрий Бычков" width=100% >}}
