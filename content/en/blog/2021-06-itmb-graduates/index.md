@@ -20,9 +20,9 @@ draft: false
 
 Ссылка по теме: [Мониторинг транзитных перевозок с использованием навигационных пломб](https://www.youtube.com/watch?v=OxlKFuJxMow)
 
-<img src="andronov.png" alt="Андронов" class="border-0 rounded-circle float-right mr-3 pt-2">
+<img src="gusev.png" alt="Андронов" class="border-0 rounded-circle float-right mr-3 pt-2">
 
-Никита Андронов поставил перед собой сложную задачу оценить эффекты и риски
+Владимир Гусев поставил перед собой сложную задачу оценить эффекты и риски
 от возможного перехода к системам общего интеллекта (AGI) в коммерческом банке, в случае их появления.
 
 Ссылка по теме: [An executive primer on artificial general intelligence](https://www.mckinsey.com/business-functions/operations/our-insights/an-executive-primer-on-artificial-general-intelligence#)
