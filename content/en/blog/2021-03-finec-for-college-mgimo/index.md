@@ -78,10 +78,3 @@ draft: false
 Вы можете продолжить знакомство с Факультетом финансовой экономики на [Дне открытых дверей](https://odin.mgimo.ru/news/4020-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-2) в субботу 3 апреля или прийти на одно из [открытых занятий факультета](https://odin.mgimo.ru/news/4032-nedelya-otkrytykh-zanyatij-fakulteta-finansovoj-ekonomiki) с 5 по 10 апреля.
 
 <!--{{< figure src="dod-ffe-college-24-03-21_06.jpg" width=100% >}} -->
-
-
-
-
-
-
-
