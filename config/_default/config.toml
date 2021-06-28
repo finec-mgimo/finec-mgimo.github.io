@@ -92,7 +92,10 @@ rel  = "sitemap"
   contributor = "contributors"
 
 [permalinks]
-  blog = "/blog/:title/"
+  blog = "/blog/:slug/"
+
+#[permalinks]
+#  post = "/:slug/"
 
 [module]
   [[module.mounts]]
