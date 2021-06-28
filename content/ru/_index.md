@@ -64,7 +64,7 @@ images: []
 
 ## Анализ данных - сотрудничество с Google
 
-<img src="/images/logo-google.png" class="float-left mr-3 pt-2">
+<img src="/images/logo-google.png" alt="Google" class="float-left mr-3 pt-2">
 
 [ml]: /projects/machine-learning-mgimo-google/
 
