@@ -26,14 +26,14 @@ toc: true
 
 [Погребняк Евгений Владимирович](https://mgimo.ru/people/pogrebnyak/), декан факультета финансовой экономики, кандидат экономических наук.
 
-[econ]: /finec-mgimo-v2/program/undergrad/economics
-[management]: /finec-mgimo-v2/program/undergrad/management
-[itmb]: /finec-mgimo-v2/program/undergrad/itmb
+[econ]: /program/undergrad/economics
+[management]: /program/undergrad/management
+[itmb]: /program/undergrad/itmb
 [ai]: https://ai.mgimo.ru
-[ved]: /finec-mgimo-v2/program/graduate/firm-economics-ved
-[it]: /finec-mgimo-v2/program/graduate/it-economics-and-data-management
+[ved]: /program/graduate/firm-economics-ved
+[it]: /program/graduate/it-economics-and-data-management
 [event]: https://event.mgimo.ru/
-[emba]: /finec-mgimo-v2/program/executive/emba
+[emba]: /program/executive/emba
 
 ## Бакалавриат
 

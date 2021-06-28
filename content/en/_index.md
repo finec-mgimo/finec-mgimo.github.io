@@ -38,14 +38,14 @@ cooperation initiatives.
 Our current programs are in Russian, yet are looking forward 
 to offer more content in English and other languages.
 
-[econ]: /finec-mgimo-v2/program/undergrad/economics
-[management]: /finec-mgimo-v2/program/undergrad/management
-[itmb]: /finec-mgimo-v2/program/undergrad/itmb
+[econ]: /program/undergrad/economics
+[management]: /program/undergrad/management
+[itmb]: /program/undergrad/itmb
 [ai]: https://ai.mgimo.ru
-[ved]: /finec-mgimo-v2/program/graduate/firm-economics-ved
-[it]: /finec-mgimo-v2/program/graduate/it-economics-and-data-management
+[ved]: /program/graduate/firm-economics-ved
+[it]: /program/graduate/it-economics-and-data-management
 [event]: https://event.mgimo.ru/
-[emba]: /finec-mgimo-v2/program/executive/emba
+[emba]: /program/executive/emba
 
 
 | Undergraduate Programs                                                                                                                                                                                                         |

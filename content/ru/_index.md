@@ -10,14 +10,14 @@ images: []
 
 ## Поступление на Финэк МГИМО
 
-[econ]: /finec-mgimo-v2/program/undergrad/economics
-[management]: /finec-mgimo-v2/program/undergrad/management
-[itmb]: /finec-mgimo-v2/program/undergrad/itmb
+[econ]: /program/undergrad/economics
+[management]: /program/undergrad/management
+[itmb]: /program/undergrad/itmb
 [ai]: https://ai.mgimo.ru
-[ved]: /finec-mgimo-v2/program/graduate/firm-economics-ved
-[it]: /finec-mgimo-v2/program/graduate/it-economics-and-data-management
+[ved]: /program/graduate/firm-economics-ved
+[it]: /program/graduate/it-economics-and-data-management
 [event]: https://event.mgimo.ru/
-[emba]: /finec-mgimo-v2/program/executive/emba
+[emba]: /program/executive/emba
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
 <img
@@ -64,9 +64,9 @@ images: []
 
 ## Анализ данных - сотрудничество с Google
 
-<img src="/finec-mgimo-v2/images/logo-google.png" class="float-left mr-3 pt-2">
+<img src="/images/logo-google.png" class="float-left mr-3 pt-2">
 
-[ml]: /finec-mgimo-v2/projects/machine-learning-mgimo-google/
+[ml]: /projects/machine-learning-mgimo-google/
 
 Совместно с компанией Google мы разрабатываем онлайн-курс
 ["Управление проектами анализа данных и машинного обучения"][ml],

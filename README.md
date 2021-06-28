@@ -3,7 +3,7 @@
 
 ## Cсылки
 
-- Сайт: https://epogrebnyak.github.io/finec-mgimo-v2/
+- Сайт: https://epogrebnyak.github.io/
 - Материалы: https://github.com/finec-mgimo/v2/
 - Основа: https://epogrebnyak.gitlab.io/doks-howto
 

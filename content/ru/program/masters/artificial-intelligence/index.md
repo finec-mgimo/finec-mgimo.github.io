@@ -39,7 +39,7 @@ toc: true
 
 Можно использвоать тэг img
 
-<img src="/finec-mgimo-v2/program/masters/artificial-intelligence/ai-program.jpg" alt="AI Program">
+<img src="/program/masters/artificial-intelligence/ai-program.jpg" alt="AI Program">
 
 Можно использвоать shortcode img, но для этого должен быть Page Bundle
 

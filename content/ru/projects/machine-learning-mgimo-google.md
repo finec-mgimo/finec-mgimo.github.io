@@ -18,7 +18,7 @@ images: []
 
 -->
 
-<img src="/finec-mgimo-v2/images/logo-google.png" class="float-left mr-3 pt-2">
+<img src="/images/logo-google.png" class="float-left mr-3 pt-2">
 
 Факультет финансовой экономики МГИМО при поддержке компании Google
 разрабатывает онлайн-курс "Управление проектами анализа данных и машинного обучения",

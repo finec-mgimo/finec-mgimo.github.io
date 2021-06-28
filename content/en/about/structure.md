@@ -23,7 +23,7 @@ weight: 30
 
 <div class="float-left mr-3 pt-2">
 <img 
-    src="/finec-mgimo-v2/images/person/dvornikova.jpg"
+    src="/images/person/dvornikova.jpg"
     alt="Дворникова Юлия Владимировна"
     title="Дворникова Юлия Владимировна"
     class="rounded-photo"
@@ -57,7 +57,7 @@ TODO VМ: добавить фото и текст
 
 <a href="https://mgimo.ru/people/sarkisyan-zhaklin/" class="float-left mr-3 pt-2">
 <img
-    src="/finec-mgimo-v2/images/person/sarkisyan.jpg"
+    src="/images/person/sarkisyan.jpg"
     alt="Саркисян Жаклин Меружановна"
     title="Саркисян Жаклин Меружановна"
     class="rounded-photo"

@@ -7,9 +7,9 @@ draft: false
 slug: "movies-in-mgimo-odintsovo"
 ---
 
-[econ]: /finec-mgimo-v2/program/undergrad/economics
-[management]: /finec-mgimo-v2/program/undergrad/management
-[itmb]: /finec-mgimo-v2/program/undergrad/itmb
+[econ]: /program/undergrad/economics
+[management]: /program/undergrad/management
+[itmb]: /program/undergrad/itmb
 
 {{< figure src="top.jpeg" caption="<em>Кадр из фильма «Откуда берутся деньги (Oeconomia)?»</em>" width=100% >}}
 

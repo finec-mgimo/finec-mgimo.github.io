@@ -123,7 +123,7 @@ toc: true
 
 <a href="https://mgimo.ru/people/sarkisyan-zhaklin/" class="float-left mr-3 pt-2">
 <img
-    src="/finec-mgimo-v2/images/person/sarkisyan.jpg"
+    src="/images/person/sarkisyan.jpg"
     alt="Саркисян Жаклин Меружановна"
     title="Саркисян Жаклин Меружановна"
     class="rounded-photo"
