@@ -3,7 +3,6 @@ title: "Admonitions and icons"
 draft: false
 ---
 
-
 ## Бэджи программ
 
 [econ]: /program/undergrad/economics
@@ -12,7 +11,7 @@ draft: false
 
 [![](https://img.shields.io/badge/ФЭТ-2000-blue)][econ]
 [![](https://img.shields.io/badge/ФМ-2000-blue)][management]
-[![](https://img.shields.io/badge/ИТМБ-2000-blue)][itmb] 
+[![](https://img.shields.io/badge/ИТМБ-2000-blue)][itmb]
 
 ## Блоки и выноски
 
@@ -30,8 +29,6 @@ draft: false
 :white_check_mark:
 :bulb:
 :paperclip:
-
-
 
 ---
 
