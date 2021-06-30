@@ -50,10 +50,6 @@
   padding-top: 20px;
 }
 
-.page-links .logo-wrapper > img:nth-child(odd) {
-  margin-bottom: 0.5rem;
-}
-
 @include media-breakpoint-up(lg) {
   .docs-links h3,
   .page-links h3 {
