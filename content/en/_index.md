@@ -7,7 +7,7 @@ toc: false
 ### Welcome from Finec MGIMO Dean
 
 At Finec MGIMO we teach economics, management and business IT
-at bachelor and graduate level. 
+at undergraduate and masters levels. 
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
 <img
@@ -18,22 +18,21 @@ at bachelor and graduate level.
 />
 </a>
 
-We are a small, yet dynamic department located at Odintsovo
-MGIMO campus. We see the campus as a MGIMO hub for technology initiatives, 
-including broader use of machine learning in social sciences. 
+We are located at MGIMO Odintsovo campus, which is 
+becoming our university hub for technology initiatives, 
+including broad use of machine learning in social sciences,
+study of financial sector innovations, event and media, and 
+seamless digitally-enabled international trade. 
 
-As an example, jointly with Google we are creating an open course on data analysis project management. The course will be offered Spring 2022.
-
-We run this website from [Github repo](https://github.com/finec-mgimo), 
-check it out for more documentation and code projects, like 
-our own Telegram bot.
+We run this website from [a Github repo](https://github.com/finec-mgimo), 
+check it out for more curriculum documentation, code and data projects.
 
 Please [reach us](/contacts) if you have any questions 
-about Finec MGIMO: student affairs (admissions, transfers or
+about student affairs (admissions, transfers or
 academic exchanges), joint research or other academic 
 cooperation initiatives.
 
-## Our Degree Programs
+## Degree Programs
 
 Our current programs are in Russian, yet are looking forward 
 to offer more content in English and other languages.
@@ -60,7 +59,11 @@ to offer more content in English and other languages.
 
 | Joint Programs at MGIMO                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://img.shields.io/badge/Administrative_and_Financial_law-blue) [![](https://img.shields.io/badge/Event_Management-005E7C)][event] [![](https://img.shields.io/badge/Executive_MBA-F93943)][emba] |
+| ![](https://img.shields.io/badge/Administrative_and_Financial_law-blue) [![](https://img.shields.io/badge/Event_Management-005E7C)][event] 
+<!--
+[![](https://img.shields.io/badge/Executive_MBA-F93943)][emba] 
+-->
+|
 
 ## Odintsovo Campus
 
