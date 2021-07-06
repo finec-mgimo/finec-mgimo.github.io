@@ -45,9 +45,9 @@ toc: true
 
 Наши студенты могут выбрать трек обучения двух дипломов
 и после второго курса продолжить двухгодичное образование на программе
-[Masters in Finance and Financial Technology (FinTech)][henley].
+[BSc Finance (FinTech)][henley].
 
-[henley]: https://www.icmacentre.ac.uk/study/masters/msc-finance-and-financial-technology-fintech
+[henley]: https://www.icmacentre.ac.uk/study/undergraduate/bsc-finance-fintech#modules
 
 ## Изучаемые дисциплины
 
