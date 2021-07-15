@@ -19,23 +19,24 @@
         </li>
       {{ end -}}
       {{ if .Site.IsMultiLingual }}
-    <li class="lang-switcher">
-      <ul>
-        {{ range .Site.Languages }}
-        {{ if eq . $.Site.Language }}
-        <li class="current-lang"><span>{{ .LanguageName }}</span>
-          {{ end }}
-          {{ end }}
+        <li class="lang-switcher">
           <ul>
-            {{ range $.Translations }}
-            <li><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ range .Site.Languages }}
+            {{ if eq . $.Site.Language }}
+            <li class="current-lang"><span>{{ .LanguageName }}</span>
+              {{ end }}
+              {{ end }}
+              <ul>
+                {{ range $.Translations }}
+                <li><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                {{ end }}
+              </ul>
+            </li>
           </ul>
-            {{ end }}
         </li>
-      </ul>
-    </li>
     {{ end }}
     </ul>
+    <!-- ------ -->
     <div class="collapse navbar-collapse order-4 order-md-1">
       <ul class="navbar-nav main-nav mr-auto order-5 order-md-2">
         {{- $current := . -}}
