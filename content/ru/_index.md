@@ -35,7 +35,7 @@ images: []
 
 - Как получить консультацию о поступлении на Финэк и договориться о визите на факультет? Используйте форму ниже для быстрого ответа:
 
-<br><div align="center">
+<div align="center">
 <a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Задайте вопрос о поступлении</a>
 </div>
 
