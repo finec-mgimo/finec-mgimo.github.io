@@ -7,7 +7,7 @@ images: []
 Our email is [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
 
 We welcome correspondence on academic cooperation and student exchanges,
-new course development, joint research intitiatives and other matters. 
+new course development, joint research intitiatives and other matters.
 
 Faculty office: <a href="tel:+74956617175">+7 (495) 661-71-75</a>
 
