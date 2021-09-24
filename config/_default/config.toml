@@ -24,8 +24,8 @@ defaultContentLanguage = "ru"
     ## Homepage
     title = "Finec MGIMO"
     titleSeparator = "-"
-    titleAddition = "Go to Finec MGIMO"
-    description = "Finec MGIMO official website. Admission to the Faculty of Financial Economics of MGIMO."
+    titleAddition = "About Finec MGIMO"
+    description = "Faculty of Financial Economics at MGIMO University Odinstovo Campus"
     languageName = "EN"
     contentDir = "content/en"
     weight = 2
