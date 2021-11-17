@@ -15,7 +15,6 @@ There were four PhD student presentations and a PhD program overview.
  
 - [Pedro Monteiro's Google site](https://sites.google.com/view/pedromonteiro)
 
-
 #### Maimuna Akter: Death, Destruction, and Manipulation
 
 - [Maimuna Akter's paper](https://drive.google.com/file/d/1HVM8-0Ez_OPYpJU8uAj2NHfYE7i7mKx7/view?usp=sharing)
@@ -34,11 +33,13 @@ There were four PhD student presentations and a PhD program overview.
 #### Douglas Cumming, FAU PhD program overview
 
 Douglas Cumming is DeSantis Distinguished Professor of Finance and Entrepreneurship and
-FAU PhD program director.
+[FAU PhD program director](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/).
 
-#### About seminar
+- [Current PhD Students](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/current-phd-students/)
 
-Financial Economics and Quantitative Finance workshop series runs to help to navigate and to produce financial research, large-scale data analysis and to apply machine learning in economics and finance. 
+#### About FEQF seminar
+
+Financial Economics and Quantitative Finance (FEQF) workshop series runs to help to navigate and to produce financial research, large-scale data analysis and to apply machine learning in economics and finance. 
 
 The workshop series is a joint initiative between Center for Mathematical Finance (CMF), which offes open class training in quantitative finance and Financial Economics Department (Finec) at MGIMO.
 
