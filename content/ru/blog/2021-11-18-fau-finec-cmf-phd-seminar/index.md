@@ -4,7 +4,7 @@ lead: Invited session from Florida Atlantic University PhD in Finance Program
 date: 2021-11-08
 lastmod: 2021-11-08
 draft: false
-slug: "fau-finec-cmf-phd-seminar"
+slug: "fau-phd-seminar"
 ---
 
 It was our pleasure to host an invited session from Florida Atlantic University PhD in Finance program with following presentations (videos to be loaded soon).
@@ -17,7 +17,7 @@ There were four PhD student presentations and a PhD program overview.
 
 #### Maimuna Akter: Death, Destruction, and Manipulation
 
-- [Maimuna Akter's paper](https://drive.google.com/file/d/1HVM8-0Ez_OPYpJU8uAj2NHfYE7i7mKx7/view?usp=sharing)
+- [Paper link](https://drive.google.com/file/d/1HVM8-0Ez_OPYpJU8uAj2NHfYE7i7mKx7/view?usp=sharing)
 - [Maimuna Akter's Google site](https://sites.google.com/fau.edu/maimunaakter)
 
 #### Robert Reardon: COVID-19 and Entrepreneurial Processes in U.S. Equity Crowdfunding
