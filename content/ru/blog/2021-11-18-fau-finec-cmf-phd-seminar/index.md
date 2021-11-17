@@ -4,7 +4,7 @@ lead: Invited session from Florida Atlantic University PhD in Finance Program
 date: 2021-11-08
 lastmod: 2021-11-08
 draft: false
-slug: "fau-finec-mgimo-phd-seminar"
+slug: "fau-finec-cmf-phd-seminar"
 ---
 
 It was our pleasure to host an invited session from Florida Atlantic University PhD in Finance program with following presentations (videos to be loaded soon).
