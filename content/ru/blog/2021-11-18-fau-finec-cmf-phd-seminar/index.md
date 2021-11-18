@@ -1,5 +1,5 @@
 ---
-title: Invited session from Florida Atlantic University PhD in Finance Program
+title: Invited session with Florida Atlantic University PhD in Finance Program
 lead: Financial Economics and Quantitative Finance Workshop 
 date: 2021-11-18
 lastmod: 2021-11-18
@@ -7,10 +7,10 @@ draft: false
 slug: "fau-phd-seminar"
 ---
 
-It was our pleasure to host an invited session from Florida Atlantic University PhD in Finance program with following presentations.
-There were four PhD candidate presentations and a PhD program overview by Douglas Cumming.
+It was our pleasure to host an invited session with Florida Atlantic University PhD in Finance program.
+There were four PhD candidate presentations and a PhD program overview by professor Douglas Cumming.
 
-Videos loading soon - please come back to check. 
+More videos loading soon! 
 
 #### Pedro Monteiro: Corporate Governance Mechanisms and the Impact of Share Repurchases on Bondholders
  
@@ -33,7 +33,7 @@ Videos loading soon - please come back to check.
 - [Paper link](https://drive.google.com/file/d/1_BKQ4w4CRnF9j8eFMkV071re-7NBbmUW/view)
 - [Masim Suleymanov's Google site](https://sites.google.com/view/masimsuleymanov)
 
-#### Douglas Cumming, FAU PhD program overview
+#### Douglas Cumming, FAU PhD Program Overview
 
 Douglas Cumming is DeSantis Distinguished Professor of Finance and Entrepreneurship and
 [FAU PhD program director](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/).
