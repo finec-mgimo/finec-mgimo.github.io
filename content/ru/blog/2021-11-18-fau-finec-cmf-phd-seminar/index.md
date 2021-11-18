@@ -1,19 +1,22 @@
 ---
-title: Financial Economics and Quantitative Finance Workshop with Florida Atlantic University
-lead: Invited session from Florida Atlantic University PhD in Finance Program
-date: 2021-11-08
-lastmod: 2021-11-08
+title: Invited session from Florida Atlantic University PhD in Finance Program
+lead: Financial Economics and Quantitative Finance Workshop 
+date: 2021-11-18
+lastmod: 2021-11-18
 draft: false
 slug: "fau-phd-seminar"
 ---
 
-It was our pleasure to host an invited session from Florida Atlantic University PhD in Finance program with following presentations (videos to be loaded soon).
+It was our pleasure to host an invited session from Florida Atlantic University PhD in Finance program with following presentations.
+There were four PhD candidate presentations and a PhD program overview by Douglas Cumming.
 
-There were four PhD student presentations and a PhD program overview.
+Videos loading soon - please come back to check. 
 
 #### Pedro Monteiro: Corporate Governance Mechanisms and the Impact of Share Repurchases on Bondholders
  
 - [Pedro Monteiro's Google site](https://sites.google.com/view/pedromonteiro)
+
+{{< youtube e9vbAVMGrOs >}}
 
 #### Maimuna Akter: Death, Destruction, and Manipulation
 
