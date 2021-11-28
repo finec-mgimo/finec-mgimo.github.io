@@ -39,8 +39,8 @@ There were four PhD candidate presentations and a PhD program overview by profes
 
 #### Douglas Cumming, FAU PhD Program Overview
 
-Douglas Cumming is DeSantis Distinguished Professor of Finance and Entrepreneurship and
-[FAU PhD program director](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/).
+[Douglas Cumming](https://sites.google.com/view/douglascumming) is DeSantis Distinguished Professor of Finance and Entrepreneurship and
+[FAU PhD program](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/) director.
 
 {{< youtube t_PbkrK9FjU >}}
 
