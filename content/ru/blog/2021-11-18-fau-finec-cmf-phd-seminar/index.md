@@ -20,27 +20,35 @@ More videos loading soon!
 
 #### Maimuna Akter: Death, Destruction, and Manipulation
 
+{{< youtube HxooXVhfIUI >}}
+
 - [Paper link](https://drive.google.com/file/d/1HVM8-0Ez_OPYpJU8uAj2NHfYE7i7mKx7/view?usp=sharing)
 - [Maimuna Akter's Google site](https://sites.google.com/fau.edu/maimunaakter)
 
 #### Robert Reardon: COVID-19 and Entrepreneurial Processes in U.S. Equity Crowdfunding
+
+{{< youtube yGoasroHyCY >}}
 
 - [SSRN paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934088)
 - [Robert Reardon's Google site](https://sites.google.com/view/robertsreardon)
 
 #### Masim Suleymanov: Does Government Contracting Impact Venture Capital Investment Outcomes?
 
+{{< youtube WxTWWjG3fds >}}
+
 - [Paper link](https://drive.google.com/file/d/1_BKQ4w4CRnF9j8eFMkV071re-7NBbmUW/view)
 - [Masim Suleymanov's Google site](https://sites.google.com/view/masimsuleymanov)
 
 #### Douglas Cumming, FAU PhD Program Overview
+
+{{< youtube t_PbkrK9FjU >}}
 
 Douglas Cumming is DeSantis Distinguished Professor of Finance and Entrepreneurship and
 [FAU PhD program director](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/).
 
 - [Current PhD Students](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/current-phd-students/)
 
-#### About FEQF seminar
+#### About workshop series
 
 Financial Economics and Quantitative Finance (FEQF) workshop series runs to help to navigate and to produce financial research, large-scale data analysis and to apply machine learning in economics and finance. 
 
