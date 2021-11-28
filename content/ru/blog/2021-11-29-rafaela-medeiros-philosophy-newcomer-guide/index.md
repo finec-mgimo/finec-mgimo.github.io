@@ -1,8 +1,8 @@
 ---
 title: Philosophy of Science – Newcomer Survival Guide  
 lead: Is Kuhn-Popper debate relevant for your inner compass?
-date: 2021-11-29
-lastmod: 2021-11-29
+date: 2021-11-28
+lastmod: 2021-11-28
 draft: false
 slug: "rafaela-medeiros-philosophy-interview"
 ---
