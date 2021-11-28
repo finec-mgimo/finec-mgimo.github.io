@@ -13,10 +13,10 @@ There were four PhD candidate presentations and a PhD program overview by profes
 More videos loading soon! 
 
 #### Pedro Monteiro: Corporate Governance Mechanisms and the Impact of Share Repurchases on Bondholders
- 
-- [Pedro Monteiro's Google site](https://sites.google.com/view/pedromonteiro)
 
 {{< youtube e9vbAVMGrOs >}}
+ 
+- [Pedro Monteiro's Google site](https://sites.google.com/view/pedromonteiro)
 
 #### Maimuna Akter: Death, Destruction, and Manipulation
 
