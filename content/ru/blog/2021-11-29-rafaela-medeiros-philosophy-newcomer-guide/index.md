@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Science – Newcomer Survival Guide by Dr Rafaela Medeiros
+title: Philosophy of Science – Newcomer Survival Guide by DrRafaela Medeiros
 lead: Is Kuhn-Popper debate relevant for your inner compass?
 date: 2021-11-28
 lastmod: 2021-11-28
@@ -14,7 +14,10 @@ Dr. Medeiros research interests are public policy, elections, social science met
 
 {{< youtube 9fAkQ0o_N8E >}}
  
-At Finec MGIMO we believe in long-term value of humanities as well as structured thinking and reasoning skills that philosophy provides. We are happy to have Dr. Medeiros to share her 
-insights and passion about Philosophy of Science and practicality of learning philosopy for today's students, including domains like economics, finance, management and business technology.
+<p>
 
-Look for "yes" and "no" of a question if philosophy of science relevant today, the great four of the discipline (Hume, Kant, Popper and Kuhn) and implications of Popper-Kuhn debate on pluralism of science in the 20th century and why it is relevant. Also great reading suggestions and firm advice on importance of your inner compass for professional and personal decisions.
+At Finec MGIMO we believe in long-term value of humanities as well as structured thinking and reasoning skills that philosophy provides. We are happy to have Dr. Medeiros to share her 
+insights and passion about Philosophy of Science and practicality of learning philosopy for today's students.
+
+In the interview look for "yes" and "no" of whether philosophy of science is relevant today, the great four of the discipline (Hume, Kant, Popper and Kuhn), implications of Popper-Kuhn debate in the 20th century and what are humans bad at as a species. Also check out great  reading suggestions from Rafaela and her solid advice on importance of your inner compass
+and ways to calibrate it.
