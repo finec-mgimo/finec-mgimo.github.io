@@ -6,7 +6,7 @@ toc: false
 
 ### Welcome from Finec MGIMO Dean
 
-At Finec MGIMO we teach economics, management and business IT
+At Finec MGIMO we teach economics, management and business information technology
 at undergraduate and masters levels.
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
@@ -18,13 +18,14 @@ at undergraduate and masters levels.
 />
 </a>
 
-
 Please [reach us](/contacts) if you have any questions
 about student affairs (admissions, transfers or
 academic exchanges), joint research or other academic
 cooperation initiatives.
 
-## Recent event
+## Recent events online
+
+- **November 29, 2021.** [Philosophy of Science – Newcomer Survival Guide by Dr Rafaela Medeiros](https://finec.mgimo.ru/blog/rafaela-medeiros-philosophy-interview/)
 
 - **November 18, 2021.** [Joint PhD seminar with Florida Atlantic University and Center for Mathematic Finance (CMF).](https://finec.mgimo.ru/blog/fau-phd-seminar/)
 
