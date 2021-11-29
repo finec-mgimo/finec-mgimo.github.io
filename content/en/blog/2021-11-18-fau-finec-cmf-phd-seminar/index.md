@@ -8,7 +8,7 @@ slug: "fau-phd-seminar"
 ---
 
 It was our pleasure to host an invited session with Florida Atlantic University PhD in Finance program.
-There were four PhD candidate presentations and a PhD program overview by professor Douglas Cumming.
+There were four PhD candidate presentations and [FAU PhD program overview][fau] by Professor Douglas Cumming.
 
 #### Pedro Monteiro: Corporate Governance Mechanisms and the Impact of Share Repurchases on Bondholders
 
@@ -40,16 +40,16 @@ There were four PhD candidate presentations and a PhD program overview by profes
 #### Douglas Cumming, FAU PhD Program Overview
 
 [Douglas Cumming](https://sites.google.com/view/douglascumming) is DeSantis Distinguished Professor of Finance and Entrepreneurship and
-[FAU PhD program](https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/) director.
+[FAU PhD program][fau] director.
+
+[fau]: https://business.fau.edu/masters-phd/phd-program/traditional-phd/concentrations/finance/
 
 {{< youtube t_PbkrK9FjU >}}
 
 #### About workshop series
 
-Financial Economics and Quantitative Finance (FEQF) workshop series runs to help to navigate and to produce financial research, large-scale data analysis and to apply machine learning in economics and finance.
+Financial Economics and Quantitative Finance (FEQF) workshop series runs to help to navigate and to produce financial research and to apply machine learning in economics and finance.
 
-The workshop series is a joint initiative between Center for Mathematical Finance (CMF), which offes open class training in quantitative finance and Financial Economics Department (Finec) at MGIMO.
+The workshop series is a joint initiative between Center for Mathematical Finance (CMF), which offers open class training in quantitative finance, and Financial Economics Department (Finec) at MGIMO.
 
-Workshop advisors are Eugene Lukash (Moscow State University and CMF),
-Evgeny Pogrebnyak (Finec MGIMO and CMF)
-and Andrew Zlotnik (HSE University and CMF).
+Workshop advisors are Eugene Lukash (Moscow State University and CMF), Evgeny Pogrebnyak (Finec MGIMO and CMF) and Andrew Zlotnik (HSE University and CMF).
