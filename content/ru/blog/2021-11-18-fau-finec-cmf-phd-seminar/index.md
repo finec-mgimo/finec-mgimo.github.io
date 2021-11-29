@@ -1,6 +1,6 @@
 ---
 title: Invited session with Florida Atlantic University PhD in Finance Program
-lead: Financial Economics and Quantitative Finance Workshop 
+lead: Financial Economics and Quantitative Finance Workshop
 date: 2021-11-18
 lastmod: 2021-11-18
 draft: false
@@ -15,7 +15,7 @@ There were four PhD candidate presentations and a PhD program overview by profes
 - [Pedro Monteiro's Google site](https://sites.google.com/view/pedromonteiro)
 
 {{< youtube e9vbAVMGrOs >}}
- 
+
 #### Maimuna Akter: Death, Destruction, and Manipulation
 
 - [Paper link](https://drive.google.com/file/d/1HVM8-0Ez_OPYpJU8uAj2NHfYE7i7mKx7/view?usp=sharing)
@@ -46,10 +46,10 @@ There were four PhD candidate presentations and a PhD program overview by profes
 
 #### About workshop series
 
-Financial Economics and Quantitative Finance (FEQF) workshop series runs to help to navigate and to produce financial research, large-scale data analysis and to apply machine learning in economics and finance. 
+Financial Economics and Quantitative Finance (FEQF) workshop series runs to help to navigate and to produce financial research, large-scale data analysis and to apply machine learning in economics and finance.
 
 The workshop series is a joint initiative between Center for Mathematical Finance (CMF), which offes open class training in quantitative finance and Financial Economics Department (Finec) at MGIMO.
 
 Workshop advisors are Eugene Lukash (Moscow State University and CMF),
-Evgeny Pogrebnyak (Finec MGIMO and CMF) 
+Evgeny Pogrebnyak (Finec MGIMO and CMF)
 and Andrew Zlotnik (HSE University and CMF).

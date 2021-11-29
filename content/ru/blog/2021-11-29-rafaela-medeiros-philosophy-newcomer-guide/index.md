@@ -1,23 +1,20 @@
 ---
 title: Philosophy of Science – Newcomer Survival Guide by DrRafaela Medeiros
-lead: Is Kuhn-Popper debate relevant for your inner compass?
-date: 2021-11-28
-lastmod: 2021-11-28
+lead: Is the Kuhn-Popper debate relevant for your inner compass?
+date: 2021-11-29
+lastmod: 2021-11-29
 draft: false
 slug: "rafaela-medeiros-philosophy-interview"
 ---
 
-Interview with Rafaela Medeiros, sociologist, researcher at 
-Laboratory of Studies on Politics, Elections and Media (LEPEM) of UFC University in Fortaleza, Brasil, PhD In Business from EBAPE-FGV Business School, Brazil.
-     
-Dr. Medeiros research interests are public policy, elections, social science methods, causal inference and data science. She has presented her research at APSA, IPSA and EGAP and has worked as a Consultant for UNDP at the Brazilian Ministry of Social Development. She is also the founder of Women in Machine Learning and Data Science Chapter in Rio (WiMLDS-Rio). She practices open water swimming and likes outdoor activities.   
+At Finec MGIMO we believe in long-term value of humanities as well as structured thinking and reasoning skills that philosophy provides. We are happy to have Dr. Rafaella Medeiros to share her insights and passion about Philosophy of Science and practicality of learning philosophy for today's students.
+
+In the interview we discuss both the "yes" and "no" of whether philosophy of science is relevant today, peruse the Big Four authors of the discipline (Hume, Kant, Popper and Kuhn), investigate implications of the Kuhn-Popper debate for the 20th century and talk a bit about what humans are bad at as a species. Check out reading suggestions from Rafa and her solid advice on the importance of your inner compass and ways to calibrate it.
 
 {{< youtube 9fAkQ0o_N8E >}}
- 
+
 <p>
 
-At Finec MGIMO we believe in long-term value of humanities as well as structured thinking and reasoning skills that philosophy provides. We are happy to have Dr. Medeiros to share her 
-insights and passion about Philosophy of Science and practicality of learning philosopy for today's students.
+Rafaela Medeiros is sociologist with a PhD In Business from EBAPE-Fundação Getúlio Vargas. Dr. Medeiros research interests are public policy, elections, causal inference and data science.
 
-In the interview look for "yes" and "no" of whether philosophy of science is relevant today, the great four of the discipline (Hume, Kant, Popper and Kuhn), implications of Popper-Kuhn debate in the 20th century and what are humans bad at as a species. Also check out great  reading suggestions from Rafaela and her solid advice on importance of your inner compass
-and ways to calibrate it.
+She has worked as a Consultant for UNDP at the Brazilian Ministry of Social Development, the National Institute of Applied Economics (IPEA/Brazil) and founded the Women in Machine Learning and Data Science Chapter in Rio (WiMLDS-Rio).
