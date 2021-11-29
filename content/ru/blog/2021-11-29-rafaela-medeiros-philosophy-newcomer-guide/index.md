@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Science – Newcomer Survival Guide by DrRafaela Medeiros
+title: Philosophy of Science – Newcomer Survival Guide by Dr Rafaela Medeiros
 lead: Is the Kuhn-Popper debate relevant for your inner compass?
 date: 2021-11-29
 lastmod: 2021-11-29
