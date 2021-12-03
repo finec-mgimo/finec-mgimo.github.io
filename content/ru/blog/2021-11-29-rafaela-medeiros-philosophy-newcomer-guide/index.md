@@ -15,6 +15,12 @@ In the interview we discuss both the "yes" and "no" of whether philosophy of sci
 
 <p>
 
+Do not miss the by-minute guide to the interview:
+  
+[![minutes example](https://user-images.githubusercontent.com/9265326/144545368-7f292683-206d-450e-a8d9-0c7763a2250b.png)](https://www.youtube.com/watch?v=9fAkQ0o_N8E)
+  
+#### About our guest
+  
 Rafaela Medeiros is sociologist with a PhD In Business from EBAPE-Fundação Getúlio Vargas. Dr. Medeiros research interests are public policy, elections, causal inference and data science.
 
 She has worked as a Consultant for UNDP at the Brazilian Ministry of Social Development, the National Institute of Applied Economics (IPEA/Brazil) and founded the Women in Machine Learning and Data Science Chapter in Rio (WiMLDS-Rio).
