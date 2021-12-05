@@ -9,11 +9,26 @@ slug: "rafaela-medeiros-philosophy-interview"
 
 At Finec MGIMO we believe in long-term value of humanities as well as structured thinking and reasoning skills that philosophy provides. We are happy to have Dr. Rafaela Medeiros to share her insights and passion about Philosophy of Science and practicality of learning philosophy for today's students.
 
-In the interview we discuss both the "yes" and "no" of whether philosophy of science is relevant today, peruse the Big Four authors of the discipline (Hume, Kant, Popper and Kuhn), investigate implications of the Kuhn-Popper debate for the 20th century and talk a bit about what humans are bad at as a species. Check out reading suggestions from Rafa and her solid advice on the importance of your inner compass and ways to calibrate it.
-
 {{< youtube 9fAkQ0o_N8E >}}
 
 <p>
+
+In this interview:
+
+- we discuss both the "yes" and "no" of whether philosophy of science is relevant today
+  ([0:36](https://www.youtube.com/watch?v=9fAkQ0o_N8E&t=186s)),
+- peruse the Big Four authors of the discipline – Hume, Kant, Popper and Kuhn
+  ([8:45](https://www.youtube.com/watch?v=9fAkQ0o_N8E&t=525s)),
+- investigate implications of the Kuhn-Popper debate for the 20th century
+  ([22:05](https://www.youtube.com/watch?v=9fAkQ0o_N8E&t=1325s)), and
+- talk a bit about [what humans are bad at as a species](https://www.youtube.com/watch?v=9fAkQ0o_N8E&t=465s).
+
+Also check out reading suggestions from Rafa
+([26:45](https://www.youtube.com/watch?v=9fAkQ0o_N8E&t=1606s)),
+and her solid advice on the importance of your inner compass and ways to calibrate it
+([33:00](https://www.youtube.com/watch?v=9fAkQ0o_N8E&t=2080s)).
+
+#### About our guest
 
 Rafaela Medeiros is sociologist with a PhD In Business from EBAPE-Fundação Getúlio Vargas. Dr. Medeiros research interests are public policy, elections, causal inference and data science.
 
