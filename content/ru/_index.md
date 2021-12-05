@@ -68,7 +68,7 @@ images: []
 
 <!--[![](https://img.shields.io/badge/Executive_MBA-F93943)][emba] -->
 
-## Анализ данных - сотрудничество с Google
+## Анализ данных — сотрудничество с Google
 
 <img src="/images/logo-google.png" alt="Google" class="float-left mr-3 pt-2">
 
