@@ -2,7 +2,7 @@
 title: "Экономика IT и управление данными"
 date: 2020-15-06
 lastmod: 2020-15-06
-draft: false
+draft: true
 images: []
 menu:
   docs:

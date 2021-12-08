@@ -1,6 +1,6 @@
 ---
 title: "Экономика фирмы и ВЭД"
-draft: false
+draft: true
 images: []
 menu:
   docs:
