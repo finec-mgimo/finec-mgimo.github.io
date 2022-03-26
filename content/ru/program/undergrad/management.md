@@ -1,6 +1,6 @@
 ---
 title: "Менеджмент (ФМ)"
-draft: false
+draft: true
 menu:
   docs:
     parent: "undergrad-id"
