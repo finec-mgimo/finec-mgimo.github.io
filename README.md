@@ -1,9 +1,16 @@
-# v2
-Материалы для сайта Финэк МГИМО
+# Материалы для сайта Финэк МГИМО
+
+## Как запустть
+
+```
+git clone https://github.com/finec-mgimo/finec-mgimo.github.io finec
+cd finec
+npm install
+npm run
+```
 
 ## Cсылки
 
-- Сайт: https://epogrebnyak.github.io/
 - Материалы: https://github.com/finec-mgimo/v2/
 - Основа: https://epogrebnyak.gitlab.io/doks-howto
 
@@ -25,30 +32,13 @@
 
 ## Публикации
 
-- исправить и улучшить базовые материалы о факультете
+- исправить базовые материалы о факультете
 - блог факультета
-- новое оформление сайта
+- наши телеграмм каналы
 
-# В блог 
-
-- конференции кафедр
-- семинар "Магия и реальность машинного бучения"
-- выступление на митапе
-- просмотр документального фильма
-- соревнования по программированию
-- блог пост про то как развивался Causal Inference caйт, как пример
- 
 # Идеи
 
-- как сделать голосовалки 
 - проанализировать результаты Google аналитики на текущем сайте finec.mgimo.ru
-
-## TODO
-
-- [ ] что полезно и интересно нашим читателям
-- [ ] что новое мы можем сказать для читателей
-- [ ] нужен ли нам телеграм канал или другие медиа
-- [ ] как измерять нашу медиа-эффективность
 
 ## Список новостей
 
@@ -61,5 +51,3 @@
 - https://odin.mgimo.ru/news/3801-seminar-magiya-i-realnost-mashinnogo-obucheniya-finek-mgimo-i-kompanii-google
 - https://odin.mgimo.ru/all-news?start=368
 - https://odin.mgimo.ru/nov-pod-mgimo/3589-rasshirennyj-sovet-fakulteta-finansovoj-ekonomiki-progolosoval-po-kandidature-dekana-fakulteta
-
-
