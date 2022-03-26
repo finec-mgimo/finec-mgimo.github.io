@@ -21,7 +21,10 @@ images: []
 
 ## Наш адрес
 
-[г. Одинцово, ул. Ново-Cпортивная, д.3](https://yandex.ru/maps/-/CCQdZMwaPA)
+143007, Московская область, г. Одинцово,  
+ул. Ново-Cпортивная, д.3
+
+[ссылка на карту](https://yandex.ru/maps/-/CCQdZMwaPA)
 
 {{< youtube twanN25NqR0 >}}
 
