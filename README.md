@@ -1,6 +1,6 @@
 # Материалы для сайта Финэк МГИМО
 
-## Как запустть
+## Как запустить
 
 ```
 git clone https://github.com/finec-mgimo/finec-mgimo.github.io finec
