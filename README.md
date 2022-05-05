@@ -6,7 +6,7 @@
 git clone https://github.com/finec-mgimo/finec-mgimo.github.io finec
 cd finec
 npm install
-npm run
+npm run server
 ```
 
 ## Cсылки
