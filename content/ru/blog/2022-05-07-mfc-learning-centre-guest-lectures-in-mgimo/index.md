@@ -1,7 +1,7 @@
 ---
 title: Учебный центр МФЦ провел гостевые лекции по финансовым рынкам
-date: 2022-05-07
-lastmod: 2022-05-07
+date: 2022-05-17
+lastmod: 2022-05-17
 draft: false
 slug: "mfc-learning-centre-guest-lectures"
 ---
