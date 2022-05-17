@@ -10,7 +10,7 @@ slug: "mfc-learning-centre-guest-lectures"
 
 <center>
   
-![Лекция](image1.jpg "Вариант инвестирования: ОФЗ на ИИС")
+![Лекция](image.jpg "Вариант инвестирования: ОФЗ на ИИС")
 
 </center>
 
