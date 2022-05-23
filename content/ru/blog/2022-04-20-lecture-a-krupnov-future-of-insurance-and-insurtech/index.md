@@ -12,6 +12,8 @@ slug: "a-krupnov-lecture-insurance-insurtech-future"
 
 А.Крупнов также ведет профильный телеграмм-канал ["Цифровые финансы и страхование"](https://t.me/krupnov_a).
 
+{{<youtube DiWocuszDRI>}}
+
 Для участия в мероприятии необходимо пройти короткую [регистрацию](https://docs.google.com/forms/d/e/1FAIpQLSeRl9GYMnshAd8Y_pzumDRbYyAA9MM6-GEHDNl6_KtjW2yQ4w/viewform).
 
 Больше информации о поступлении в магистратуру "Цифровые финансы" вы можете узнать [здесь](http://pk.odin.mgimo.ru/master/cf.html).
