@@ -16,8 +16,8 @@ images: []
 [bac-badge]: https://img.shields.io/badge/-Бакалавриат-2892D7
 [mag-badge]: https://img.shields.io/badge/-Магистратура-1EB3A1
 [econ-badge]: https://img.shields.io/badge/Экономика-ФЭТ-2892D7
-[t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
 [bi-badge]: https://img.shields.io/badge/Бизнес--информатика-ИТМБ-2892D7
+[t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
 
@@ -33,6 +33,24 @@ images: []
 </a>
 
 В 2022 году факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике и туризму.
+
+<!--table>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/-Бакалавриат-2892D7"></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Экономика-ФЭТ-2892D7">
+<img src="https://img.shields.io/badge/Бизнес--информатика-ИТМБ-2892D7">
+<img src="https://img.shields.io/badge/Туризм-ТиГ-2892D7">
+</td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/-Магистратура-1EB3A1"></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1">
+<img src="https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1">
+</td>
+</tr>
+</table-->
 
 <center>
 
