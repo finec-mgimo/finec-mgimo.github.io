@@ -42,16 +42,15 @@ Our current programs are in Russian, yet are looking forward to offer more in En
 [event]: https://event.mgimo.ru/
 [emba]: /program/executive/emba
 
-| Undergraduate Programs                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------- |
+| Undergraduate Programs                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![](https://img.shields.io/badge/Economics-blue)][econ] [![](https://img.shields.io/badge/Management-blue)][management] [![](https://img.shields.io/badge/Business_IT-blue)][itmb] |
 
 <div></div>
 
-| Graduate Programs |
-| ----------------- |
+| Graduate Programs                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![](https://img.shields.io/badge/Firm_Economics_and_Foreign_Trade-005E7C)][ved] [![](https://img.shields.io/badge/Artificial_Intelligence-005E7C)][ai] [![](https://img.shields.io/badge/IT_Economics_and_Data_Management-005E7C)][it] |
-
 
 ## Odintsovo Campus
 

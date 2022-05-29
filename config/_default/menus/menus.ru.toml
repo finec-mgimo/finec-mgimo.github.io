@@ -10,14 +10,8 @@
   identifier = "masters-id"
   url = "/program/masters/"
 
-#[[docs]]
-#  name = "Executive MBA"
-#  weight = 30
-#  identifier = "executive-id"
-#  url = "/program/executive/"
-
 [[main]]
-  name = "О нас"
+  name = "Факультет"
   url = "/about/"
   weight = 10
 
