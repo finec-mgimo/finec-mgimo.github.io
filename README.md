@@ -26,21 +26,14 @@ npm run server
 ## Типы материалов
 
 - события
-- куда поступить (наши программы)
+- наши программы 
 - интервью и выступления декана
-- кто мы такие (who we are) - кафедры и люди
-
-## Публикации
-
-- исправить базовые материалы о факультете
+- кафедры и люди
 - блог факультета
-- наши телеграмм каналы
+- учебные материалы и мини-лекции
+- возможности для студентов
 
-# Идеи
-
-- проанализировать результаты Google аналитики на текущем сайте finec.mgimo.ru
-
-## Список новостей
+## Список новостей (архив)
 
 - https://odin.mgimo.ru/nov-pod-mgimo/4040-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-dlya-studentov-kolledzha-mgimo
 - https://odin.mgimo.ru/news/3929-den-otkrytykh-dverej-v-mgimo-odintsovo-2
