@@ -51,7 +51,7 @@ images: []
 ![Бакалавриат][bac-badge]
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
-[![][t-badge]][tourism]  
+[![][t-badge]][tourism]
 ![Магистратура][mag-badge]
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
@@ -69,7 +69,7 @@ images: []
 ### Консультация по поступлению
 
 <div class="float-left mr-3 pt-2">
-<img 
+<img
     src="/images/person/dvornikova.jpg"
     alt="Дворникова Юлия Владимировна"
     title="Дворникова Юлия Владимировна"
