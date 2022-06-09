@@ -11,7 +11,7 @@ toc: true
 ## Туризм и индустрия гостеприимства
 
 [bac-badge]: https://img.shields.io/badge/-Бакалавриат-2892D7
-[t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7  
+[t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
 
 ![бакалавриат][bac-badge] ![туризм][t-badge]
 
@@ -31,4 +31,4 @@ toc: true
  
 Подробнее на сайте <https://tourism.mgimo.ru/ba/>
   
-</center>  
+</center>

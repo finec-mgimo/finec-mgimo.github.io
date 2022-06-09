@@ -10,7 +10,11 @@ slug: "krupnov-lecture-insurance-insurtech-future"
 [mag-badge]: https://img.shields.io/badge/-Магистратура-1EB3A1
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 
+<center>
+
 ![][mag-badge] [![][econ-badge-mag]][digital]
+
+</center>
 
 20 апреля 2022 года в рамках [новой программы магистратуры "Цифровые финансы"][digital] состоялась открытая лекция Андрея Крупнова "Будущее страхования и insurtech: почему отрасль не менялась 300 лет и почему радикально меняется сейчас".
 
