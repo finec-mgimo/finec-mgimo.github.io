@@ -8,7 +8,6 @@
   "browserslist": [
     "defaults"
   ],
-  "homepage": "https://hel8er.github.io/finec-mgimo.github.io",
   "scripts": {
     "init": "rimraf .git && git init -b main",
     "create": "hugo new",
