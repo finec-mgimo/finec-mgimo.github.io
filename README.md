@@ -1,5 +1,11 @@
 # Материалы для сайта Финэк МГИМО
 
+## Необходимы
+
+- git
+- [node](https://nodejs.org/en/download/) (управлять темой Doks)
+- code (редактор VS Code)
+
 ## Как запустить
 
 ```
@@ -9,14 +15,11 @@ npm install
 npm run server
 ```
 
-## Cсылки
-
-- Материалы: https://github.com/finec-mgimo/v2/
-- Основа: https://epogrebnyak.gitlab.io/doks-howto
+Основа этого шаблона: https://epogrebnyak.gitlab.io/doks-howto
 
 ## Сайты
 
-- https://finec.mgimo.ru/ и https://github.com/finec-mgimo/finec-mgimo.github.io
+- https://finec.mgimo.ru/ и https://github.com/finec-mgimo/finec-mgimo.github.io (это репо)
 - https://mgimo.ru/study/faculty/ffe/
 - https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki
 - новости факультета финансовой эконмоики на сайте https://odin.mgimo.ru/all-news
@@ -34,6 +37,8 @@ npm run server
 - возможности для студентов
 
 ## Список новостей (архив)
+
+Это архивные новости, необходимо их переработать в рамках [ишью 89](https://github.com/finec-mgimo/finec-mgimo.github.io/issues/89)
 
 - https://odin.mgimo.ru/nov-pod-mgimo/4040-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-dlya-studentov-kolledzha-mgimo
 - https://odin.mgimo.ru/news/3929-den-otkrytykh-dverej-v-mgimo-odintsovo-2
