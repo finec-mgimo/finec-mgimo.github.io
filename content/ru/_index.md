@@ -23,10 +23,11 @@ images: []
 
 ## Новости и события на факультете
 
-- **3 июня 2022**: Завершается прием заявок в акселератор MGIMO Ventures ([accelerator.mgimo.ru](https://accelerator.mgimo.ru)).
+- **14 июня 2022**: Открытие акселератора MGIMO Ventures ([accelerator.mgimo.ru](https://accelerator.mgimo.ru)).
 
-- **2-3 июня 2022**: Конференция "Программные решения в бизнес-аналитике" c участием РБК, Glowbyte и Банка России ([itmgimo.ru](https://itmgimo.ru/)).
-
+- **Выпуск 2022 года (госэкзамены и защита выпускных работ)**: фото в [Телеграмм-канале](https://t.me/finec_mgimo) 
+  и [на нашем сайте](https://finec.mgimo.ru/blog/graduates-2022/) . 
+ 
 <!--
 Скоро:
 
