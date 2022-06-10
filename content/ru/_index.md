@@ -25,8 +25,8 @@ images: []
 
 - **14 июня 2022**: Открытие акселератора MGIMO Ventures ([accelerator.mgimo.ru](https://accelerator.mgimo.ru)).
 
-- **Выпуск 2022 года (госэкзамены и защита выпускных работ)**: фото в [Телеграмм-канале](https://t.me/finec_mgimo) 
-  и [на нашем сайте](https://finec.mgimo.ru/blog/graduates-2022/) . 
+- **Выпуск 2022 года - госэкзамены и защита выпускных работ**: фото [в нашем Телеграмм-канале](https://t.me/finec_mgimo) 
+  и [на сайте](https://finec.mgimo.ru/blog/graduates-2022/). 
  
 <!--
 Скоро:
