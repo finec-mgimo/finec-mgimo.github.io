@@ -9,7 +9,7 @@ module.exports = {
       content: [
         './layouts/**/*.html',
         './content/**/*.md',
-        './assets/js/**/*.md',
+        './assets/js/**/*.js',
       ],
       safelist: [
         'lazyloaded',
