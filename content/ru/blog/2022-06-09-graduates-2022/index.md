@@ -6,7 +6,6 @@ draft: false
 slug: "graduates-2022"
 ---
 
-
 {{< carousel items="1" full-height="515" height="425" unit="px" duration="4000" >}}
 
 ## Магистратура
