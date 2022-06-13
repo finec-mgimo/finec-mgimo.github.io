@@ -10,7 +10,7 @@
 
 ## Для авторов и редакторов
 
-- Работа с документацией на Github отличается от привычных систем управления сайтом (например, Joomla), не пугайтесь  
+- Работа с документацией на Github отличается от привычных систем управления сайтом (например, Joomla), не пугайтесь
 - Тексты сайта находятся в https://github.com/finec-mgimo/finec-mgimo.github.io/tree/main/content/ru, попробуйте полистать их
 - Ход работ мы стараемся отслеживать в ["ишьюс"](https://github.com/finec-mgimo/finec-mgimo.github.io/issues), особенно метка `Content editing`
 - Есть много работ для корректоров, но для этого надо освоится с системой Github.
@@ -43,7 +43,7 @@ npm run server
 ## Типы материалов
 
 - события
-- наши программы 
+- наши программы
 - интервью и выступления декана
 - кафедры и люди
 - блог факультета
@@ -63,3 +63,7 @@ npm run server
 - https://odin.mgimo.ru/news/3801-seminar-magiya-i-realnost-mashinnogo-obucheniya-finek-mgimo-i-kompanii-google
 - https://odin.mgimo.ru/all-news?start=368
 - https://odin.mgimo.ru/nov-pod-mgimo/3589-rasshirennyj-sovet-fakulteta-finansovoj-ekonomiki-progolosoval-po-kandidature-dekana-fakulteta
+
+## Документация для разработчиков
+
+- [Дополнительные компоненты](docs/shortcodes.md)
