@@ -28,7 +28,6 @@ toc: true
     alt="Абрамова Анна Владимировна"
     title="Абрамова Анна Владимировна"
     class="rounded-photo"
-    style="width: 150px; height: 150px;"
   />
 </a>
 
