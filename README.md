@@ -31,15 +31,6 @@ npm run server
 ```
 Основа этого шаблона: https://epogrebnyak.gitlab.io/doks-howto
 
-## Сайты
-
-- https://finec.mgimo.ru/ и https://github.com/finec-mgimo/finec-mgimo.github.io (это репо)
-- https://mgimo.ru/study/faculty/ffe/
-- https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki
-- новости факультета финансовой эконмоики на сайте https://odin.mgimo.ru/all-news
-- https://english.mgimo.ru/structure/schools/school-of-financial-economy
-- [`site:https://odin.mgimo.ru/nov-pod-mgimo/ погребняк`](https://github.com/finec-mgimo/v2/edit/main/README.md)
-
 ## Типы материалов
 
 - события
