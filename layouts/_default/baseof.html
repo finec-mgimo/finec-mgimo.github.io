@@ -13,6 +13,8 @@
     {{ .Scratch.Add "class" " list" -}}
   {{ end -}}
   <body class="{{ .Scratch.Get "class" }}">
+    {{ template "_internal/google_analytics.html" . }}
+    {{ partial "analytics.html" . }}
     {{ partial "header/header.html" . }}
     <div class="wrap container" role="document">
       <div class="content">
@@ -26,6 +28,5 @@
       {{ partial "footer/alert.html" . }}
     {{ end }}
     {{ partial "footer/script-footer.html" . }}
-    {{ partial "analytics.html" . }}
   </body>
 </html>
