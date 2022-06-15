@@ -24,7 +24,7 @@ toc: true
 
 <a href="https://mgimo.ru/people/abramova-anna/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/886/886ee3acf577dc8d005e2ad24615f1ff.jpg"
+    src="abramova.jpg"
     alt="Абрамова Анна Владимировна"
     title="Абрамова Анна Владимировна"
     class="rounded-photo"
