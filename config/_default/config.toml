@@ -35,6 +35,7 @@ defaultContentLanguage = "ru"
 [params]
   logofinec = "/finec-mgimo-footer.png"
   logomgimo = "/MGIMO_Odin-ru-cuted.png"
+  linkmgimo = "https://odin.mgimo.ru/"
   yandexMetrika = ""
 # add redirects/headers
 [outputs]
