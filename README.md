@@ -15,11 +15,11 @@
 - Ход работ мы стараемся отслеживать в ["ишьюс"](https://github.com/finec-mgimo/finec-mgimo.github.io/issues), особенно метка `Content editing`
 - Есть много работ для корректоров, но для этого надо освоится с системой Github.
 
-## Установка
+## Вам потребуются
 
-- git
-- [node](https://nodejs.org/en/download/) (управлять темой Doks)
-- code (редактор VS Code)
+1. git, чтобы работать с системой контроля версий
+2. [node](https://nodejs.org/en/download/), чтобы управлять шаблоном Doks для Hugo 
+3. также понадобится текстовый редактор, такой как VSCode
 
 ## Как запустить
 
@@ -29,7 +29,6 @@ cd finec
 npm install
 npm run server
 ```
-Основа этого шаблона: https://epogrebnyak.gitlab.io/doks-howto
 
 ## Типы материалов
 
