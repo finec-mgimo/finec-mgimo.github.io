@@ -21,7 +21,7 @@
 2. [node](https://nodejs.org/en/download/), чтобы управлять шаблоном Doks для Hugo 
 3. также понадобится текстовый редактор, такой как VSCode
 
-## Как запустить
+## Как запустить сервер локально 
 
 ```
 git clone https://github.com/finec-mgimo/finec-mgimo.github.io finec
