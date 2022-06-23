@@ -38,7 +38,7 @@ alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/
 
 # Edit Page
 docsRepo = "https://github.com/finec-mgimo/finec-mgimo.github.io"
-editPage = true
+editPage = false
 
 [options]
 lazySizes = true
