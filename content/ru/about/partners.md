@@ -17,8 +17,11 @@ toc: true
 
 Работодатели участвуют в совершенствовании учебных планов, проведении практик и стажировок студентов, а также в гостевых мероприятиях на факультете.
 
+
+
 ## Корпоративные визиты
 
+{{< carousel data-file-name="partners" items="1" full-height="515" height="425" unit="px" duration="4000" >}}
 <!-- insert carousel here as described https://github.com/finec-mgimo/finec-mgimo.github.io/blob/main/docs/shortcodes.md
 
 Use links to photos at https://odin.mgimo.ru/ or copy severla photos here.
