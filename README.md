@@ -12,8 +12,8 @@
 
 - Работа с документацией на Github отличается от привычных систем управления сайтом (например, Joomla), не пугайтесь
 - Тексты сайта находятся в https://github.com/finec-mgimo/finec-mgimo.github.io/tree/main/content/ru, попробуйте полистать их
-- Ход работ мы стараемся отслеживать в ["ишьюс"](https://github.com/finec-mgimo/finec-mgimo.github.io/issues), особенно метка `Content editing`
-- Есть много работ для корректоров, но для этого надо освоится с системой Github.
+- Ход работ мы стараемся отслеживать в ["ишьюс"](https://github.com/finec-mgimo/finec-mgimo.github.io/issues)
+
 
 ## Вам потребуются
 
