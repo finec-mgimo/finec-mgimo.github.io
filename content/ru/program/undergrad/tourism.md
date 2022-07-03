@@ -13,7 +13,7 @@ toc: true
 [bac-badge]: https://img.shields.io/badge/Бакалавриат-tourism.mgimo.ru-2892D7
 [t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
 
-[![бакалавриат][bac-badge]](<(https://tourism.mgimo.ru/ba)>) ![туризм][t-badge]
+[![бакалавриат][bac-badge]](https://tourism.mgimo.ru/ba/) ![туризм][t-badge]
 
 <!-- FIXME: сохранить локально, уменьшить размер файла -->
 
