@@ -5,7 +5,7 @@ date: 2021-06-07
 lastmod: 2021-07-04
 draft: false
 images: []
-weight: 40
+weight: 12
 ---
 
 [econ]: /program/undergrad/economics
