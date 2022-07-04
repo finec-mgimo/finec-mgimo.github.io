@@ -75,7 +75,7 @@ images: []
 
 <div class="float-left mr-3 pt-2">
 <img
-    src="/images/person/dvornikova.jpg"
+    src="/images/person/dvornikova2.jpg"
     alt="Дворникова Юлия Владимировна"
     title="Дворникова Юлия Владимировна"
     class="rounded-photo"
