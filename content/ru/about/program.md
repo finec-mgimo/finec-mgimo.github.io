@@ -1,66 +1,123 @@
 ---
-title: "Наши программы"
-description: "Мы готовим бакалавров и магистров экономики, менеджмента и бизнес-информатики."
+title: "Наши программы бакалавриата и магистратуры"
+description: "Мы готовим бакалавров и магистров экономики, менеджмента, туризма и бизнес-информатики."
 date: 2021-06-07
-lastmod: 2021-06-07
-draft: true
+lastmod: 2021-07-04
+draft: false
 images: []
 weight: 40
 ---
 
+[econ]: /program/undergrad/economics
+[itmb]: /program/undergrad/itmb
+[tourism]: /program/undergrad/tourism
+[ai]: https://ai.mgimo.ru
+[digital]: /program/masters/digital-finance
+[event]: https://event.mgimo.ru/
+[bac-badge]: https://img.shields.io/badge/-Бакалавриат-2892D7
+[mag-badge]: https://img.shields.io/badge/-Магистратура-1EB3A1
+[econ-badge]: https://img.shields.io/badge/Экономика-ФЭТ-2892D7
+[bi-badge]: https://img.shields.io/badge/Бизнес--информатика-ИТМБ-2892D7
+[t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
+[econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
+[bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
+
 ## Программы бакалавриата
 
-В 2021 году мы ведем прием на три программы бакалавриата:
+В 2022 году мы ведем прием на три программы бакалавриата:
 
-<!-- Здесь ссылки на приемную комиссию, мы их поменяем на ссылки на разделы -->
+- "Финансовая экономика и финансовые технологии" (направление подготовки "Экономика");
+- "Информационные технологии в международном бизнесе" (направление подготовки "Бизнес-информатика");
+- "Туризм и индустрия гостеприимства" (направление подготовки "Туризм").
 
-- Экономика - ["Финансовая экономика и финансовые технологии"](http://pk.odin.mgimo.ru/bakalavriat/efi/index.html)
+### Экономика - "Финансовая экономика и финансовые технологии"
 
-  - [ОПОП](https://odin.mgimo.ru/sveden/files/002214.pdf)
-  - [Учебный план](https://odin.mgimo.ru/sveden/files/002419.pdf)
-  - [Аннотации](https://odin.mgimo.ru/sveden/files/002395.pdf)
+![][econ-badge]
 
-- Менеджмент - ["Финансовый менеджмент"](http://pk.odin.mgimo.ru/bakalavriat/fim.html)
+- [Страница программы на сайте факультета][econ]
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002214.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002419.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002395.pdf)
+- [Приемная комиссия](http://pk.odin.mgimo.ru/bakalavriat/efi/index.html)
 
-  - [ОПОП](https://odin.mgimo.ru/sveden/files/002221.pdf)
-  - [Учебный план](https://odin.mgimo.ru/sveden/files/002222.pdf)
-  - [Аннотации](https://odin.mgimo.ru/sveden/files/002269.pdf)
+### Бизнес-информатика - "Информационные технологии в международном бизнесе"
 
-- Бизнес-информатика- ["Информационные технологии в международном бизнесе"](http://pk.odin.mgimo.ru/bakalavriat/itmb.html)
+![][bi-badge]
 
-  - [ОПОП](https://odin.mgimo.ru/sveden/files/002226.pdf)
-  - [Учебный план](https://odin.mgimo.ru/sveden/files/002227.pdf)
-  - [Аннотации](https://odin.mgimo.ru/sveden/files/002400.pdf)
+- [Страница программы на сайте факультета][itmb]
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002226.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002227.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002400.pdf)
+- [Приемная комиссия](http://pk.odin.mgimo.ru/bakalavriat/itmb.html)
+
+### Туризм - "Туризм и индустрия гостеприимства"
+
+![][t-badge]
+
+- [Страница программы на сайте факультета][tourism]
+- [Собственная страница программы](https://tourism.mgimo.ru/ba/)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002622.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002623.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002632.docx)
 
 ## Программы магистратуры
 
-У нас три магистерские программы - одна по экономике и две по бизнес-информатике.
+В 2022 году мы принимаем студентов на две магистерские программы:
 
-Экономика:
+- "Цифровые финансы" (направление подготовки "Экономика");
+- "Искусственный интеллект" (направление подготовки "Бизнес-информатика").
 
-- ["Экономика фирмы и внешнеэкономическая деятельность"][ved]
-  - [ОПОП](https://odin.mgimo.ru/sveden/files/002564.pdf)
-  - [Учебный план](https://odin.mgimo.ru/sveden/files/002445.pdf)
-  - [Аннотации](https://odin.mgimo.ru/sveden/files/002414.pdf)
+### Экономика - "Цифровые финансы"
 
-Бизнес-информатика:
+![][econ-badge-mag]
 
-- ["Искусственный интеллект"][ai]
+- [digitalfinance.mgimo.ru](https://digitalfinance.mgimo.ru/)
+- [Страница программы на сайте факультета][digital]
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002732.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002791.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002733.pdf)
 
-  - [ОПОП](https://odin.mgimo.ru/sveden/files/002253.pdf)
-  - [Учебный план](https://odin.mgimo.ru/sveden/files/002446.pdf)
-  - [Аннотации](https://odin.mgimo.ru/sveden/files/002416.pdf)
+### Бизнес-информатика - "Искусственный интеллект"
 
-- ["Экономика ИТ и упавление данными"][it]
-  - [ОПОП](https://odin.mgimo.ru/sveden/files/002383.pdf)
-  - [Учебный план](https://odin.mgimo.ru/sveden/files/002462.pdf)
-  - [Аннотации](https://odin.mgimo.ru/sveden/files/002384.pdf)
+- [ai.mgimo.ru](https://ai.mgimo.ru)
+- [Страница программы на сайте факультета][ai]
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002253.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002446.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002416.pdf)
 
-Кафедра менеджмента Финэка МГИМО также
-является выпускающей кафедрой магистерской программы
-["Событийный менеджмент"][event].
+## Программы предыдущих годов набора
 
-[ai]: https://ai.mgimo.ru
-[ved]: http://pk.odin.mgimo.ru/master/efi.html
-[it]: http://pk.odin.mgimo.ru/master/eitud.html
-[event]: https://event.mgimo.ru/
+### Менеджмент - "Финансовый менеджмент" (баклавриат)
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002221.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002222.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002269.pdf)
+
+### Менеджмент - "Управление внешнеэкономической деятельностью (УВЭД)" (бакалавриат)
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/001680.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/001392.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/001681.pdf)
+
+### Менеджмент - "Международный бизнес (совместно с MIUC)" (бакалавриат)
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/001670.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/001672.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002115.pdf)
+
+### Экономика - "Экономика фирмы и внешнеэкономическая деятельность" (магистратура)
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002564.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002445.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002414.pdf)
+
+### Бизнес-информатика - "Экономика ИТ и упавление данными" (магистратура)
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/002383.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/002462.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/002384.pdf)
+
+## Другие программы
+
+- Кафедра менеджмента Финэка МГИМО является выпускающей кафедрой магистерской программы
+  ["Событийный менеджмент"][event].
