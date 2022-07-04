@@ -37,11 +37,11 @@ images: []
 
 <center>
 
-**Бакалавриат:** <!-- ![Бакалавриат][bac-badge] -->
+[![Бакалавриат][bac-badge]](program/undergrad/)
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
 [![][t-badge]][tourism]  
-**Магистратура:** <!-- ![Магистратура][mag-badge] -->
+[![Магистратура][mag-badge]](program/masters/)
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
 
