@@ -37,11 +37,11 @@ images: []
 
 <center>
 
-**Бакалавриат:** <!-- ![Бакалавриат][bac-badge] -->
+[![Бакалавриат][bac-badge]](program/undergrad/)
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
 [![][t-badge]][tourism]  
-**Магистратура:** <!-- ![Магистратура][mag-badge] -->
+[![Магистратура][mag-badge]](program/masters/)
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
 
@@ -75,7 +75,7 @@ images: []
 
 <div class="float-left mr-3 pt-2">
 <img
-    src="/images/person/dvornikova.jpg"
+    src="/images/person/dvornikova2.jpg"
     alt="Дворникова Юлия Владимировна"
     title="Дворникова Юлия Владимировна"
     class="rounded-photo"
