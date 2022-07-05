@@ -33,7 +33,7 @@ lqipWidth = "20x"
 # footer = "Факультет финансовой экономики МГИМО"
 
 # Alert
-alert = false
+alert = true
 alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
