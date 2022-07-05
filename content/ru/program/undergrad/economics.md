@@ -164,7 +164,7 @@ toc: true
 </a>
 
 [Саркисян Жаклин Меружановна](https://mgimo.ru/people/sarkisyan-zhaklin/),
-зав. кафедрой экономики и финансов, доктор юридических наук
+зав. кафедрой экономики и финансов, доктор экономических наук
 
 <a href="https://mgimo.ru/people/kazachkov/" class="float-left mr-3 pt-2">
 <img
