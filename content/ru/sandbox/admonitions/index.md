@@ -19,6 +19,7 @@ draft: false
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
+
 ## Пиктограммы
 
 :ru:
