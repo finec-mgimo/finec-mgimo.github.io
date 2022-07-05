@@ -1,5 +1,5 @@
 ---
-title: "Искуcственный интеллект"
+title: "Искусственный интеллект"
 draft: false
 images: []
 menu:

@@ -53,17 +53,28 @@ toc: true
 
 ## Открытые лекции программы "Цифровые финансы"
 
-- [Андрей Крупнов: "Будущее страхования и insurtech - Почему отрасль не менялась 300 лет и почему радикально меняется сейчас"](https://finec.mgimo.ru/blog/krupnov-lecture-insurance-insurtech-future/)
+- [М.Поляков: "Маркетплейс как игрок рекламного рынка."](https://mgimo.ru/about/news/announce/polyakov-digital-platforms/)
 - [Мария Маракуева: "Банковские риски — как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
+- [Андрей Крупнов: "Будущее страхования и insurtech - почему отрасль не менялась 300 лет и почему радикально меняется сейчас?"](https://finec.mgimo.ru/blog/krupnov-lecture-insurance-insurtech-future/)
 
 ## Контакты
 
-Телефоны:
+По вопросам поступления вы можете связаться с нами по электронной почте
+[finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
+или переговорить по телефону.
 
-- <a href="tel:+74956617175">+7 (495) 661-71-75</a> - деканат Факультета финансовой экономики
-- <a href="tel:+79690755590">+7 (969) 075-55-90</a> - Дворникова Юлия Владимировна, заместитель декана факультета финансовой экономики МГИМО, соруководитель программы (звонки 10:00-19:00)
+**Деканат факультета финансовой экономики МГИМО**: <a href="tel:+74956617175">+7 (495) 661-71-75</a>.
 
-Электронная почта - [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
+<div class="float-left mr-3 pt-2">
+<img
+    src="/images/person/dvornikova2.jpg"
+    alt="Дворникова Юлия Владимировна"
+    title="Дворникова Юлия Владимировна"
+    class="rounded-photo"
+/>
+</div>
+
+**Дворникова Юлия Владимировна**, заместитель декана факультета финансовой экономики МГИМО, куратор набора на бакалаврские программы: <a href="tel:+79690755590">+7 (969) 075-55-90</a> (звонки 10:00-19:00).
 
 <!--
 
@@ -101,15 +112,5 @@ toc: true
 - Углубленное изучение иностранных языков с учетом профессиональной специфики.
 
 -->
-
-<!--
-## Создай свою траекторию обучения
-
-<div data-tf-widget="UmaEXv38" data-tf-iframe-props="title=New typeform" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-
-## Публикации о цифровых финансах
-
-- [IFC: Digital Finance](https://www.ifc.org/wps/wcm/connect/Industry_EXT_Content/IFC_External_Corporate_Site/Financial+Institutions/Priorities/Digital+Finance/)
-- [Forbes: The Digital CFO: Why Finance Is At The Center Of Technological Change](https://www.forbes.com/sites/jeffthomson/2021/04/30/the-digital-cfo-why-finance-is-at-the-center-of-technological-change/?sh=67e6beba4b76)
 
 -->
