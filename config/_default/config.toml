@@ -8,8 +8,6 @@ enableRobotsTXT = true
 paginate = 7
 rssLimit = 10
 
-googleAnalytics = "G-FT4YJWWBMK"
-
 defaultContentLanguage = "ru"
 
 [languages]
@@ -37,6 +35,7 @@ defaultContentLanguage = "ru"
   logomgimo = "/MGIMO_Odin-ru-cuted.png"
   linkmgimo = "https://odin.mgimo.ru/"
   yandexMetrika = "89232698"
+  gaMeasurementId = "G-FT4YJWWBMK"
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
