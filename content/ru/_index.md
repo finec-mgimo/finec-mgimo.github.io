@@ -21,20 +21,6 @@ images: []
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
 
-<!--
-
-## Новости и события на факультете
-
-- **14 июня 2022**: Открытие акселератора MGIMO Ventures ([accelerator.mgimo.ru](https://accelerator.mgimo.ru)).
-
-- **Выпуск 2022 года — госэкзамены и защита выпускных работ**: фото [в нашем Телеграмм-канале](https://t.me/finec_mgimo)
-  и [на сайте](https://finec.mgimo.ru/blog/graduates-2022/).
-
-Скоро:
-
-- круглый стол "Digital CFO" (22 июня) и открытая лекция Максима Полякова "Маркетплейсы как площадки рекламного рынка" (6 июля) на новой магистерской программе "Цифровые финансы".
--->
-
 <center>
 
 [![Бакалавриат][bac-badge]](program/undergrad/)

@@ -6,7 +6,13 @@ draft: false
 slug: "digital-cfo-roundtable"
 ---
 
-Круглый стол магистратуры "Цифровые финансы" Финэка МГИМО (набор 2022 года).
+[digital]
+
+Круглый стол магистратуры ["Цифровые финансы"][digital] Финэка МГИМО (набор 2022 года).
+
+[![][econ-badge-mag]][digital]
+[digital]: /program/masters/digital-finance
+[econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 
 Дата: 13 июля 2022 года, 18-00
 
@@ -45,3 +51,4 @@ slug: "digital-cfo-roundtable"
 Приглашаются абитуриенты магистерской программы "Цифровые финансы", а также студенты и преподаватели. Для участия необходимо [зарегистрироваться](https://docs.google.com/forms/d/e/1FAIpQLSdTbeQ3aTncwYZil2nZ0zfR2mSi7UtnefrjqdvH7iPVgebGcQ/viewform).
 
 Программа "Цифровые финансы" Финэка МГИМО: <https://digitalfinance.mgimo.ru/>.
+
