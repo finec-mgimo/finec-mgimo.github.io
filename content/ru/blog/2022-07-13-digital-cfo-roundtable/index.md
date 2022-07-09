@@ -6,13 +6,12 @@ draft: false
 slug: "digital-cfo-roundtable"
 ---
 
-[digital]
-
-Круглый стол магистратуры ["Цифровые финансы"][digital] Финэка МГИМО (набор 2022 года).
-
-[![][econ-badge-mag]][digital]
 [digital]: /program/masters/digital-finance
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
+
+[![][econ-badge-mag]][digital]
+
+Круглый стол магистратуры ["Цифровые финансы"][digital] Финэка МГИМО (набор 2022 года).
 
 Дата: 13 июля 2022 года, 18-00
 
@@ -43,12 +42,11 @@ slug: "digital-cfo-roundtable"
 - Олег Мазуров, основатель OMY! SportTech UG (Германия), руководитель Sistema Capital (АФК Система) в 2012-2015 и CEO Allianz Investments (Allianz SE) в 2004-2011
 - Ольга Чумаченко, директор учебного центра аудиторской компании Юникон
 
-Соруководители магистерской программы "Цифровые финансы":
+Соруководители магистерской программы ["Цифровые финансы"][digital]:
 
 - Н.Г. Данилочкина, д.э.н., профессор кафедры экономики и финансов
 - Ю.В. Дворникова, к.э.н., зам.декана факультета финансовой экономики МГИМО
 
-Приглашаются абитуриенты магистерской программы "Цифровые финансы", а также студенты и преподаватели. Для участия необходимо [зарегистрироваться](https://docs.google.com/forms/d/e/1FAIpQLSdTbeQ3aTncwYZil2nZ0zfR2mSi7UtnefrjqdvH7iPVgebGcQ/viewform).
+Приглашаются абитуриенты магистерской программы ["Цифровые финансы"][digital], а также студенты и преподаватели. Для участия необходимо [зарегистрироваться](https://docs.google.com/forms/d/e/1FAIpQLSdTbeQ3aTncwYZil2nZ0zfR2mSi7UtnefrjqdvH7iPVgebGcQ/viewform).
 
 Программа "Цифровые финансы" Финэка МГИМО: <https://digitalfinance.mgimo.ru/>.
-
