@@ -1,6 +1,9 @@
 .carousel {
   position: relative;
 }
+.banners {
+  margin: 25px 0;
+}
 .carousel ul {
   overflow: auto;
   display: flex;
@@ -43,6 +46,9 @@
   top: 430px;
   padding: 5px;
 }
+.carousel ul li > .banners-link {
+  top: 350px;
+}
 .carousel ol {
   position: absolute;
   top: 385px;
@@ -51,6 +57,9 @@
   left: 46%;
   transform: translateX(-50%);
   z-index: 9;
+}
+.banners ol {
+  display: none;
 }
 .carousel ol li {
   list-style: none;

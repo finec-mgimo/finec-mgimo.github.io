@@ -21,12 +21,14 @@ images: []
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
 
+{{< banner-carousel data-file-name="banners" items="1" height="450" unit="px" duration="4000" >}}
+
 <center>
 
 [![Бакалавриат][bac-badge]](program/undergrad/)
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
-[![][t-badge]][tourism]  
+[![][t-badge]][tourism]
 [![Магистратура][mag-badge]](program/masters/)
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
