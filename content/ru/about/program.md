@@ -140,12 +140,12 @@ weight: 12
 
 ## Информация о подавших заявления о приеме (2022)
 
-- [ОД-Информ (Бюджетное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Budjetnoe).xls)
-- [ОД-Информ (Договорное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Dogovornoe).xls)
-- [ОД-Фин (Бюджетное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe).xls)
-- [ОД-Фин (Договорное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Dogovornoe).xls)
-- [ОД-Тур (Договорное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Tyr(Dogovornoe).xls)
+- [ОД-Информ (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Budjetnoe).xls>)
+- [ОД-Информ (Договорное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Dogovornoe).xls>)
+- [ОД-Фин (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe).xls>)
+- [ОД-Фин (Договорное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Dogovornoe).xls>)
+- [ОД-Тур (Договорное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Tyr(Dogovornoe).xls>)
 
 ### Информация о подавших заявления о приеме в рамках особой квоты (2022)
 
-- [ОД-Фин (Бюджетное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe)-Kvota.xls)
+- [ОД-Фин (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe)-Kvota.xls>)
