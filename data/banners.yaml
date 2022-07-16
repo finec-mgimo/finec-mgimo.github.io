@@ -1,0 +1,10 @@
+images:
+  - image: /images/index-banners/1.jpg
+    content_link: "/blog/graduates-2022/"
+    content_text: "Выпускники 2022 года"
+  - image: /images/index-banners/2.jpg
+    content_link: "about/partners/"
+    content_text: "Визит студентов в S8 Capital"
+  - image: /images/index-banners/3.jpg
+    content_link: "https://mgimo.ru/about/news/departments/vr-supersonic/"
+    content_text: "VR-тренинг от Supersonic VR"

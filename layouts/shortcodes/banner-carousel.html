@@ -1,0 +1,31 @@
+{{ .Scratch.Set "data-file-name" (.Get "data-file-name") }}
+{{ .Scratch.Set "height" (.Get "height") }}
+{{ .Scratch.Set "unit" (.Get "unit") }}
+{{ .Scratch.Set "ordinal" .Ordinal }}
+{{ .Scratch.Set "items" (.Get "items") }}
+<div id="carousel{{ .Ordinal }}" class="carousel banners" duration="{{ .Get `duration` }}">
+  <ul>
+    {{ $file := $.Scratch.Get "data-file-name" }}
+      {{ range $index, $slide := (index .Site.Data $file).images }}
+        <li id="c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.Scratch.Get "items" }}); padding-bottom: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};">
+          <img src="{{ $slide.image }}" alt="{{ $slide.content_text }}" height="{{ $.Scratch.Get "height" }}" />
+          <div class="banners-link">
+            <div>
+              <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ $slide.content_link }}" role="button">
+                {{ $slide.content_text }}
+              </a>
+            </div>
+          </div>
+        </li>
+      {{ end }}
+  </ul>
+    <ol>
+      {{ range $index, $page := (index .Site.Data $file).images }}
+        <li>
+          <a href="#c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1 }}"></a>
+        </li>
+      {{ end }}
+    </ol>
+    <div class="prev">&lsaquo;</div>
+    <div class="next">&rsaquo;</div>
+</div>
