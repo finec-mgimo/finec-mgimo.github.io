@@ -21,8 +21,6 @@ images: []
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
 
-{{< banner-carousel data-file-name="banners" items="1" height="450" unit="px" duration="4000" >}}
-
 <center>
 
 [![Бакалавриат][bac-badge]](program/undergrad/)
@@ -79,6 +77,18 @@ images: []
 <a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Задайте вопрос о поступлении на Финэк</a>
 
 </div>
+
+## События факультета
+
+<!-- Файлы:
+
+/data/banners.yaml
+/images/index-banners/*
+
+-->
+
+{{< banner-carousel data-file-name="banners" items="1" height="450" unit="px" duration="4000" >}}
+
 
 ## Кампус МГИМО-Одинцово
 
