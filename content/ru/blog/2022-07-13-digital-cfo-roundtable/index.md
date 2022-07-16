@@ -1,7 +1,7 @@
 ---
 title: "Digital CFO: как ускорить цифровизацию финансовых подразделений?"
-date: 2022-07-09
-lastmod: 2022-07-09
+date: 2022-07-13
+lastmod: 2022-07-16
 draft: false
 slug: "digital-cfo-roundtable"
 ---
@@ -9,11 +9,18 @@ slug: "digital-cfo-roundtable"
 [digital]: /program/masters/digital-finance
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 
+<center>
+
 [![][econ-badge-mag]][digital]
 
-Круглый стол магистратуры ["Цифровые финансы"][digital] Финэка МГИМО (набор 2022 года).
+</center>
 
-Дата: 13 июля 2022 года, 18-00
+13 июля 2022 года прошел круглый стол магистратуры Финэка МГИМО ["Цифровые финансы"][digital] (набор 2022 года). Ведущий – Е.В.Погребняк, декан факультета финансовой экономики МГИМО.
+Видеозапись доступна в нашем YouTube-канале.
+
+{{< youtube EjS7SpadOqg >}}
+
+## Участники
 
 <img
     src="/images/person/epogrebnyak2.jpg"
@@ -21,9 +28,93 @@ slug: "digital-cfo-roundtable"
     title="Погребняк Евгений Владимирович"
     class="rounded-photo float-right mr-1"
 />
-Ведущий – Е.В. Погребняк, декан факультета финансовой экономики МГИМО.
 
-Темы:
+<img
+    src="gianluca-bisceglie.png"
+    alt="Gianluca Bisceglie"
+    title="Gianluca Bisceglie"
+    class="rounded-photo float-left mr-1"
+/>
+
+<img
+    src="pyotr-dorozhkin.png"
+    alt="Пётр Дорожкин"
+    title="Пётр Дорожкин"
+    class="rounded-photo float-right mr-1"
+/>
+
+<img
+    src="larisa-efremova.png"
+    alt="Лариса Ефремова"
+    title="Лариса Ефремова"
+    class="rounded-photo float-left mr-1"
+/>
+
+<img
+    src="aleksey-kalashnikov.png"
+    alt="Алексей Калашников"
+    title="Алексей Калашников"
+    class="rounded-photo float-right mr-1"
+/>
+
+<img
+    src="juliya-lelina.png"
+    alt="Юлия Лелина"
+    title="Юлия Лелина"
+    class="rounded-photo float-left mr-1"
+/>
+
+<img
+    src="oleg-mazurov.png"
+    alt="Олег Мазуров"
+    title="Олег Мазуров"
+    class="rounded-photo float-right mr-1"
+/>
+
+<img
+    src="irina-odinaeva.png"
+    alt="Ирина Одинаева"
+    title="Ирина Одинаева"
+    class="rounded-photo float-left mr-1"
+/>
+
+<img
+    src="olga-chumachenko.png"
+    alt="Ольга Чумаченко"
+    title="Ольга Чумаченко"
+    class="rounded-photo float-right mr-1"
+/>
+
+---
+
+- **Gianluca Bisceglie**, онлайн-сервис финансовых вычислений Visyond
+- **Пётр Дорожкин**, руководитель Управления финансовой эффективности, Банк ВТБ
+- **Лариса Ефремова**, старший партнер, аудит, компания Юникон
+- **Алексей Калашников**, финансовый директор автомобильного дивизиона группы компаний "Ориент" (Узбекистан)
+- **Юлия Лелина**, старший преподаватель кафедры экономики и финансов Финэка МГИМО и директор по аудиту и автоматизации бизнес-процессов компании "Авиа-центр"
+- **Олег Мазуров**, основатель OMY! SportTech UG (Германия), руководитель Sistema Capital (АФК Система) в 2012-2015 и CEO Allianz Investments (Allianz SE) в 2004-2011
+- **Ирина Одинаева**, управляющий директор департамента финансовых услуг ООО "АксТим" (ex-Accenture в России), стратегического партнера компании "Столото" по цифровизации
+- **Ольга Чумаченко**, директор учебного центра аудиторской компании Юникон
+
+### Соруководители магистерской программы ["Цифровые финансы"][digital]:
+
+<img
+    src="https://mgimo.ru/upload/iblock/e2a/danilochkina.jpg"
+    alt="Данилочкина Надежда Григорьевна"
+    title="Данилочкина Надежда Григорьевна"
+    class="rounded-photo float-left mr-1"
+/>
+**Н.Г. Данилочкина**, д.э.н., профессор кафедры экономики и финансов
+
+<img
+    src="/images/person/dvornikova2.jpg"
+    alt="Дворникова Юлия Владимировна"
+    title="Дворникова Юлия Владимировна"
+    class="rounded-photo float-left mr-1"
+/>
+**Ю.В. Дворникова**, к.э.н., зам.декана факультета финансовой экономики МГИМО
+
+# Темы обсуждения
 
 - Как меняется сфера влияния современного финансового директора?
 - Затраты, точность, скорость – поддается ли качество работы финансового блока измерению?
@@ -38,114 +129,8 @@ slug: "digital-cfo-roundtable"
 1. Какова ситуация и значимые тренды в цифровизации финансового блока сейчас? Что поменяется в ближайшее время?
 2. Чему и как учить? Каких компетенций не хватает специалистам, которых сейчас нанимают компании?
 
-## Приглашенные участники:
-
-<img
-    src="Gianluca-Bisceglie.png"
-    alt="Gianluca Bisceglie"
-    title="Gianluca Bisceglie"
-    class="rounded-photo float-left mr-1"
-/>
-
-**Gianluca Bisceglie**, онлайн-сервис финансовых вычислений Visyond
-
----
-
-<img
-    src="pyotr-dorozhkin.png"
-    alt="Пётр Дорожкин"
-    title="Пётр Дорожкин"
-    class="rounded-photo float-right mr-1"
-/>
-
-**Пётр Дорожкин**, руководитель Управления финансовой эффективности, Банк ВТБ
-
----
-
-<img
-    src="larisa-efremova.png"
-    alt="Лариса Ефремова"
-    title="Лариса Ефремова"
-    class="rounded-photo float-left mr-1"
-/>
-**Лариса Ефремова**, старший партнер, аудит, компания Юникон
-
----
-
-<img
-    src="aleksey-kalashnikov.png"
-    alt="Алексей Калашников"
-    title="Алексей Калашников"
-    class="rounded-photo float-right mr-1"
-/>
-**Алексей Калашников**, финансовый директор автомобильного дивизиона группы компаний "Ориент" (Узбекистан)
-
----
-
-<img
-    src="juliya-lelina.png"
-    alt="Юлия Лелина"
-    title="Юлия Лелина"
-    class="rounded-photo float-left mr-1"
-/>
-**Юлия Лелина**, старший преподаватель кафедры экономики и финансов Финэка МГИМО и директор по аудиту и автоматизации бизнес-процессов компании "Авиа-центр"
-
----
-
-<img
-    src="oleg-mazurov.png"
-    alt="Олег Мазуров"
-    title="Олег Мазуров"
-    class="rounded-photo float-right mr-1"
-/>
-**Олег Мазуров**, основатель OMY! SportTech UG (Германия), руководитель Sistema Capital (АФК Система) в 2012-2015 и CEO Allianz Investments (Allianz SE) в 2004-2011
-
----
-
-<img
-    src="irina-odinaeva.png"
-    alt="Ирина Одинаева"
-    title="Ирина Одинаева"
-    class="rounded-photo float-left mr-1"
-/>
-**Ирина Одинаева**, управляющий директор департамента финансовых услуг ООО "АксТим" (ex-Accenture в России), стратегического партнера компании "Столото" по цифровизации
-
----
-
-<img
-    src="olga-chumachenko.png"
-    alt="Ольга Чумаченко"
-    title="Ольга Чумаченко"
-    class="rounded-photo float-right mr-1"
-/>
-**Ольга Чумаченко**, директор учебного центра аудиторской компании Юникон
-
----
-
-### Соруководители магистерской программы ["Цифровые финансы"][digital]:
-
----
-
-<img
-    src="https://mgimo.ru/upload/iblock/e2a/danilochkina.jpg"
-    alt="Данилочкина Надежда Григорьевна"
-    title="Данилочкина Надежда Григорьевна"
-    class="rounded-photo float-left mr-1"
-/>
-**Н.Г. Данилочкина**, д.э.н., профессор кафедры экономики и финансов
-
----
-
-<img
-    src="/images/person/dvornikova2.jpg"
-    alt="Дворникова Юлия Владимировна"
-    title="Дворникова Юлия Владимировна"
-    class="rounded-photo float-right mr-1"
-/>
-**Ю.В. Дворникова**, к.э.н., зам.декана факультета финансовой экономики МГИМО
-
----
+<!--
 
 Приглашаются абитуриенты магистерской программы ["Цифровые финансы"][digital], а также студенты и преподаватели. Для участия необходимо [зарегистрироваться](https://docs.google.com/forms/d/e/1FAIpQLSdTbeQ3aTncwYZil2nZ0zfR2mSi7UtnefrjqdvH7iPVgebGcQ/viewform).
 
-Программа "Цифровые финансы" Финэка МГИМО: <https://digitalfinance.mgimo.ru/>.
+-->
