@@ -89,7 +89,6 @@ images: []
 
 {{< banner-carousel data-file-name="banners" items="1" height="450" unit="px" duration="4000" >}}
 
-
 ## Кампус МГИМО-Одинцово
 
 Факультет расположен на собственном кампусе МГИМО в Одинцово
