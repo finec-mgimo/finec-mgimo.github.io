@@ -38,7 +38,7 @@ weight: 12
 
 ## Программы бакалавриата
 
-### "Финансовая экономика и финансовые технологии"
+### Финансовая экономика и финансовые технологии
 
 (направление подготовки "Экономика")
 
@@ -50,11 +50,11 @@ weight: 12
 - [Аннотации](https://odin.mgimo.ru/sveden/files/002395.pdf)
 - [Приемная комиссия](http://pk.odin.mgimo.ru/bakalavriat/efi/index.html)
 
-### Бизнес-информатика — "Информационные технологии в международном бизнесе"
+### Информационные технологии в международном бизнесе
 
 (направление подготовки "Бизнес-информатика")
 
-![][bi-badge]
+[![][bi-badge]][itmb]
 
 - [Страница программы на сайте факультета][itmb]
 - [ОПОП](https://odin.mgimo.ru/sveden/files/002226.pdf)
@@ -62,11 +62,11 @@ weight: 12
 - [Аннотации](https://odin.mgimo.ru/sveden/files/002400.pdf)
 - [Приемная комиссия](http://pk.odin.mgimo.ru/bakalavriat/itmb.html)
 
-### Туризм — "Туризм и индустрия гостеприимства"
+### Туризм и индустрия гостеприимства
 
 (направление подготовки "Туризм")
 
-![][t-badge]
+[![][t-badge]][tourism]
 
 - [Страница программы на сайте факультета][tourism]
 - [Собственная страница программы](https://tourism.mgimo.ru/ba/)
@@ -76,9 +76,11 @@ weight: 12
 
 ## Программы магистратуры
 
-### Экономика — "Цифровые финансы"
+### Цифровые финансы
 
-![][econ-badge-mag]
+(направление подготовки "Экономика")
+
+[![][econ-badge-mag]][digital]
 
 - [digitalfinance.mgimo.ru](https://digitalfinance.mgimo.ru/)
 - [Страница программы на сайте факультета][digital]
@@ -86,7 +88,9 @@ weight: 12
 - [Учебный план](https://odin.mgimo.ru/sveden/files/002791.pdf)
 - [Аннотации](https://odin.mgimo.ru/sveden/files/002733.pdf)
 
-### Бизнес-информатика — "Искусственный интеллект"
+### Искусственный интеллект
+
+(направление подготовки "Бизнес-информатика")
 
 [![][bi-badge-mag]][ai]
 
@@ -140,12 +144,12 @@ weight: 12
 
 ## Информация о подавших заявления о приеме (2022)
 
-- [ОД-Информ (Бюджетное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Budjetnoe).xls)
-- [ОД-Информ (Договорное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Dogovornoe).xls)
-- [ОД-Фин (Бюджетное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe).xls)
-- [ОД-Фин (Договорное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Dogovornoe).xls)
-- [ОД-Тур (Договорное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Tyr(Dogovornoe).xls)
+- [ОД-Информ (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Budjetnoe).xls>)
+- [ОД-Информ (Договорное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Dogovornoe).xls>)
+- [ОД-Фин (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe).xls>)
+- [ОД-Фин (Договорное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Dogovornoe).xls>)
+- [ОД-Тур (Договорное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Tyr(Dogovornoe).xls>)
 
 ### Информация о подавших заявления о приеме в рамках особой квоты (2022)
 
-- [ОД-Фин (Бюджетное)](https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe)-Kvota.xls)
+- [ОД-Фин (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe)-Kvota.xls>)
