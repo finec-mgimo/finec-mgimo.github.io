@@ -3,12 +3,25 @@
 {{ .Scratch.Set "unit" (.Get "unit") }}
 {{ .Scratch.Set "ordinal" .Ordinal }}
 {{ .Scratch.Set "items" (.Get "items") }}
-<div id="carousel{{ .Ordinal }}" class="carousel banners" duration="{{ .Get `duration` }}">
+<div
+  id="carousel{{ .Ordinal }}"
+  class="carousel banners"
+  duration="{{ .Get `duration` }}"
+  style="max-height: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};"
+>
   <ul>
     {{ $file := $.Scratch.Get "data-file-name" }}
       {{ range $index, $slide := (index .Site.Data $file).images }}
-        <li id="c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.Scratch.Get "items" }}); padding-bottom: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};">
-          <img src="{{ $slide.image }}" alt="{{ $slide.content_text }}" height="{{ $.Scratch.Get "height" }}" />
+        <li
+          id="c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1}}"
+          style="min-width: calc(100%/{{ $.Scratch.Get "items" }} + 1px); padding-bottom: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};"
+        >
+          <img
+            src="{{ $slide.image }}"
+            alt="{{ $slide.content_text }}"
+            height="{{ $.Scratch.Get "height" }}"
+            style="height: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};"
+          />
           <div class="banners-link">
             <div>
               <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ $slide.content_link }}" role="button">

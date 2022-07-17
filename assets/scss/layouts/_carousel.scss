@@ -3,6 +3,7 @@
 }
 .banners {
   margin: 25px 0;
+  width: 100%;
 }
 .carousel ul {
   overflow: auto;
@@ -60,6 +61,10 @@
 }
 .banners ol {
   display: none;
+}
+.banners ul li > img {
+  object-fit: cover;
+  width: 100%;
 }
 .carousel ol li {
   list-style: none;
