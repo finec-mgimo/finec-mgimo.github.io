@@ -19,7 +19,7 @@ slug: "digital-cfo-roundtable"
     src="/images/person/epogrebnyak2.jpg"
     alt="Погребняк Евгений Владимирович"
     title="Погребняк Евгений Владимирович"
-    class="rounded-photo float-right mr-1"
+    class="rounded-photo float-right mr-1 mb-1"
 />
 Ведущий – Е.В. Погребняк, декан факультета финансовой экономики МГИМО.
 
@@ -44,80 +44,81 @@ slug: "digital-cfo-roundtable"
     src="Gianluca-Bisceglie.png"
     alt="Gianluca Bisceglie"
     title="Gianluca Bisceglie"
-    class="rounded-photo float-left mr-1"
+    class="rounded-photo mr-1 mb-1"
 />
+<img
+    src="pyotr-dorozhkin.png"
+    alt="Пётр Дорожкин"
+    title="Пётр Дорожкин"
+    class="rounded-photo mr-1 mb-1"
+/>
+<img
+    src="larisa-efremova.png"
+    alt="Лариса Ефремова"
+    title="Лариса Ефремова"
+    class="rounded-photo mr-1 mb-1"
+/>
+<img
+    src="aleksey-kalashnikov.png"
+    alt="Алексей Калашников"
+    title="Алексей Калашников"
+    class="rounded-photo mr-1 mb-1"
+/>
+<img
+    src="juliya-lelina.png"
+    alt="Юлия Лелина"
+    title="Юлия Лелина"
+    class="rounded-photo mr-1 mb-1"
+/>
+<img
+    src="oleg-mazurov.png"
+    alt="Олег Мазуров"
+    title="Олег Мазуров"
+    class="rounded-photo mr-1 mb-1"
+/>
+<img
+    src="irina-odinaeva.png"
+    alt="Ирина Одинаева"
+    title="Ирина Одинаева"
+    class="rounded-photo mr-1 mb-1"
+/>
+<img
+    src="olga-chumachenko.png"
+    alt="Ольга Чумаченко"
+    title="Ольга Чумаченко"
+    class="rounded-photo mr-1 mb-1"
+/>
+
+---
 
 **Gianluca Bisceglie**, онлайн-сервис финансовых вычислений Visyond
 
 ---
 
-<img
-    src="pyotr-dorozhkin.png"
-    alt="Пётр Дорожкин"
-    title="Пётр Дорожкин"
-    class="rounded-photo float-right mr-1"
-/>
-
 **Пётр Дорожкин**, руководитель Управления финансовой эффективности, Банк ВТБ
 
 ---
 
-<img
-    src="larisa-efremova.png"
-    alt="Лариса Ефремова"
-    title="Лариса Ефремова"
-    class="rounded-photo float-left mr-1"
-/>
 **Лариса Ефремова**, старший партнер, аудит, компания Юникон
 
 ---
 
-<img
-    src="aleksey-kalashnikov.png"
-    alt="Алексей Калашников"
-    title="Алексей Калашников"
-    class="rounded-photo float-right mr-1"
-/>
 **Алексей Калашников**, финансовый директор автомобильного дивизиона группы компаний "Ориент" (Узбекистан)
 
 ---
 
-<img
-    src="juliya-lelina.png"
-    alt="Юлия Лелина"
-    title="Юлия Лелина"
-    class="rounded-photo float-left mr-1"
-/>
 **Юлия Лелина**, старший преподаватель кафедры экономики и финансов Финэка МГИМО и директор по аудиту и автоматизации бизнес-процессов компании "Авиа-центр"
 
 ---
 
-<img
-    src="oleg-mazurov.png"
-    alt="Олег Мазуров"
-    title="Олег Мазуров"
-    class="rounded-photo float-right mr-1"
-/>
 **Олег Мазуров**, основатель OMY! SportTech UG (Германия), руководитель Sistema Capital (АФК Система) в 2012-2015 и CEO Allianz Investments (Allianz SE) в 2004-2011
 
 ---
 
-<img
-    src="irina-odinaeva.png"
-    alt="Ирина Одинаева"
-    title="Ирина Одинаева"
-    class="rounded-photo float-left mr-1"
-/>
 **Ирина Одинаева**, управляющий директор департамента финансовых услуг ООО "АксТим" (ex-Accenture в России), стратегического партнера компании "Столото" по цифровизации
 
 ---
 
-<img
-    src="olga-chumachenko.png"
-    alt="Ольга Чумаченко"
-    title="Ольга Чумаченко"
-    class="rounded-photo float-right mr-1"
-/>
 **Ольга Чумаченко**, директор учебного центра аудиторской компании Юникон
 
 ---
@@ -130,18 +131,21 @@ slug: "digital-cfo-roundtable"
     src="https://mgimo.ru/upload/iblock/e2a/danilochkina.jpg"
     alt="Данилочкина Надежда Григорьевна"
     title="Данилочкина Надежда Григорьевна"
-    class="rounded-photo float-left mr-1"
+    class="rounded-photo mr-1 mb-1"
 />
-**Н.Г. Данилочкина**, д.э.н., профессор кафедры экономики и финансов
-
----
-
 <img
     src="/images/person/dvornikova2.jpg"
     alt="Дворникова Юлия Владимировна"
     title="Дворникова Юлия Владимировна"
-    class="rounded-photo float-right mr-1"
+    class="rounded-photo mr-1 mb-1"
 />
+
+---
+
+**Н.Г. Данилочкина**, д.э.н., профессор кафедры экономики и финансов
+
+---
+
 **Ю.В. Дворникова**, к.э.н., зам.декана факультета финансовой экономики МГИМО
 
 ---
