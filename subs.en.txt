@@ -1,0 +1,1325 @@
+
+00:00
+good afternoon, dear listeners, colleagues,
+friends, I am the dean of the faculty of financial economics pogrebnyak evgeny
+, today I represent my colleagues, the authors of the digital
+finn program of the digital finance master's program,
+which for the first time this year is presented at our faculty,
+a very rich program is dedicated to three vectors of development of
+finance and companies in this sector  finn tech this is digital transformation
+changing the financial function changing how the finance
+department and treasury work planning and economic departments in
+corporations, this third direction seems to me the
+most under-researched or not fully disclosed and very important because these
+
+00:01
+changes in the finances of an enterprise
+occur in  for all companies, it doesn’t matter if this is the
+financial sector or other sectors of the economy, and based on the relevance of
+this task for the digital finance sector, we organized our current
+round table, which is dedicated to the profession of a
+digital financial director digital sifu and today we want to learn from
+practitioners about the relevance of this task in
+different industries in different combos in different industries in
+different companies in different types of business how the
+profession of financial director is changing is there really a new
+digital component this is our first question how it is seen from different
+companies and the second is  how can we better organize the training of students
+so that they can better fit into the new reality
+
+00:02
+and become such agents of change in enterprises so that they already come with
+some new skills that are in demand in companies and their career, their
+professional growth would be  thanks to this, even more quickly,
+
+
+I would like to give the floor to our foreign guest,
+our friend john kibby housing gianluca na financier by education engineer by
+other education worked in the telecommunications sector in private
+investment funds in italy and the middle east and is the founder of a start-up
+in the field of financial in addition to this,
+Gianluca is actively consulting now, I would
+
+00:03
+like to ask him about the existence of such a profession, does digital exist?
+
+00:04
+fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa
+
+00:05
+fa risk for without center banner and this is s beater &amp; free soul [music]
+
+00:06
+
+00:07
+at [music] sports palace im without index top [music] people &amp; blogs for
+
+00:08
+context next time he is sponge yes yes yes yes yes yes from calls
+herself and maria buy for infants and work on the story is no way here is your
+
+00:09
+
+00:10
+image other projects [music] for mobile media queries in process users
+
+00:11
+in excel and never heard of writing problems  Gianluca from and about
+it hides models and runaways and excel here using excel at my life of a
+brief solved the models of the model our next speech from our
+colleagues from the nikon auditing company and he is
+Larisa Efremova Olga  Chumachenko, and in preparation for this speech, it
+sounded very important and very important for me that the
+need to digitalize the financial function is never at all, yes, it’s
+not not not yesterday not tomorrow, but it is in 2022 that a
+
+00:12
+very interesting case will be happy to listen to you well now by connecting
+colleagues, it’s nice to hear everyone, it’s a pity that we
+don’t really see everyone. 2022 has
+become a very important digitalization system for us for Russia,
+which is connected with federal law
+125a in the Russian Federation on January 1, 22; accounting for rent, this
+standard was prepared on the basis of f-16  that
+is, for the first time in Russia, in order to reflect
+some operations on financial and operating leases, they cannot
+simply be taken from someone’s contract from some invoice invoice,
+
+00:13
+etc., but it will be necessary to make calculations for exactly what we need
+digitalization for now we are on  example,
+we will show what calculations will need to be done and the second moment
+for the first time in Russia  But in our
+Russian standard, emphasis is placed on the mandatory use in Russia of the
+international standard for calculating reserves for expected
+credit losses, this is mc under 9, directly
+in the victory standard itself, this is indicated
+if earlier registered with the lessor if the accounting is based on the
+balance sheet of the lessor, then this is a fixed
+asset  a profitable investment is reflected in
+income in the form of just for the flesh,
+there are no problems if the ball on the balance sheet of the
+lessee then reflects interest and the total cost of all lease
+payments is reflected in the same way on the
+balance sheet, then from January 1, 22
+
+00:14
+, everything has changed dramatically, what is happening now in accordance with
+25 we must the moment at the earliest date to
+qualify the contract is it a financial lease or operating paying attention
+specifically to the lessor there are certain functions the
+principles of financial rent I will literally list a few others you
+will see there in the presentation, first of all, if
+at the end of the lease contract the right to
+own  responsibility for the leased property passes to the
+lessee this is a financial tape the second moment if the tenant has the right
+to purchase the leased asset at the end of the
+contract at a cost much lower than the
+market value this is also a financial lease if the lease term
+takes up a significant part of the period of
+
+00:15
+use of the equipment then this is also a financial lease here in IFRS and  in
+Russian legislation, the word is significant, and if we turn to and with
+ready-made standards, then more than 75 percent are written there, we will also
+adhere to this if it is necessary to conclude an agreement when we press about
+discounting cash flows, we will see that the discounting cost
+is practically equal to the cost where the market
+object of lease  this is also a financial
+tape, practically this is again all with us
+or zentsov or from Russia Gamovskoe's views are
+written more than 90 percent well, and the tenant has the
+right to extend the contract at a cost much lower than
+if he had simply accepted this contract zero and this subject l  I just
+bought leasing and that it comes from tires for the first time
+we understand the concept of such discounting of cash flows the
+
+00:16
+effective rate was not previously in Russian standards and this is only
+true with the help of anti-technologies when we determined that this
+financial lease from the lessor is reflected in the balance sheet as  net
+investment in rent and income is in the
+form of interest if these indicators are not met, the signs that you list,
+then this is an operating lease and income is recognized evenly over the entire
+lease term, but the cost of all all lease payments and here we are
+returning the same value of net investment in rent yes  we have a
+gross investment that includes all leasing flows,
+plus for the first time again in Russian legislation there is a non-guaranteed
+liquidation value, this is the cost at which we can
+sell the leased asset at the end
+of the lease agreement, for example, at the end of the
+
+00:17
+agreement, the cost of a truck will be cost 100,000 why not guaranteed
+yet unknown sell and or not we take the net gross investment
+in the lease discounted at the effective rate and find the net investment in the
+lease that is, the question arises what is a fictitious rate
+what is discounting and what is cash flow and all this is done with
+With the help of special programs , our requirements for the application of
+encef 9 arise, we must definitely conduct a
+test for the depreciation of net investments in
+rent. This is a whole topic that is very interesting. simulate
+what is the expected credit loss and will pay the client will not pay us when he
+pays what amount what kind of losses
+
+00:18
+we will incur and so on there is a possibility of
+bankruptcy or not and as a rule this is the
+minimum you need to do a divorce but all companies do this at least quarterly
+h  then it happens with the lessee the lessee’s o rn
+it is very important no matter what operating or financial lease
+there will always be the right to use the
+assets and liabilities in the balance sheet where the
+liabilities are not in vain it is 16 on the basis of
+which facebook 25 was prepared in Europe was accepted for 10 years why
+because  even if this operating lease,
+as a rule, these were aircraft, then all the
+same, the obligations had to be reflected, and
+from this immediately all the cavenants for
+obtaining credit funds from us, to put
+it mildly, flew away from it, so for a very long time this
+
+00:19
+standard was adopted in just two words, I want to say it can be
+excluded not to apply this standard here there are three cases when you can not
+apply, but these cases, as a rule, they practically do not fit, because
+now, even in Russian legislation, it happens when the economic form is over the
+content , once very many years ago, ten years ago it was necessary to register a
+special real estate lease agreement state bodies  and therefore, in order not to
+register it, companies entered into an agreement for 11 months and extended it
+for ten years, and now the companies also have to say
+that it’s not the only one for months, I fall under
+exceptions for it, the application of this
+standard will not work, so you and I should see if  optional if
+we can extend the rights or about after all and so
+
+00:20
+on under what conditions and anyway we accept the right to use the axioms
+because the exception does not fit the second
+moment the cost of the standard is reflected is
+300 thousand I draw your attention to 300000 this should be the cost
+initially these residuals with us  300
+thousand and the cost, let's say an ATM, it
+cost a million, that means the exception is also
+not suitable, and if there is an exception on the simplified system
+3, but here you also need to look if the
+ownership of the property is transferred if it is subleased, the exception
+cannot be applied, so we have come to the conclusion
+that a large  part must apply for 25
+and we are with you  we start with the fact that we
+determine the obligations of the guy
+with the contract and we don’t see it, take the
+numbers ready from the invoice, we can’t we
+have to calculate all this with you, that is, we must
+determine at the sight of the present value of future foam, here
+
+00:21
+such a moment arises if this is a financial lease  there and the solution
+is calculated very quickly, and if we allow the building
+to use the building in our case, well,
+let's say we took it for five years, and the building itself has
+been used for 50 years, or there is 30
+effective rate, as a rule, there is no effective rate in the
+contract and no one orders you and also  cost must be calculated fair
+.  that is, it’s also unrealistic for me to hire an appraiser so
+that we can give examples here, you can apply the rate using the
+statistical bulletin of the Bank of Russia, that is, under what conditions
+is a loan issued for exactly these terms with such and such
+requirements, and so on we apply this rate  we discount lease payments and
+rent and find the lease obligations, we found the lease obligations,
+well done, but you and I need to determine
+
+00:22
+all the rights to use the asset, and it
+also adds, in addition to the lease obligation, the advance payments that you
+paid earlier, the costs associated with the acquisition of the leased asset
+, well  let's say we bought some kind of mill and we need to
+bring it to a state in order to use
+it, that is, the adjustment of this machine, the
+estimated obligation to dismantle,
+for example, the simplest example is a drilling rig we leased a parkour or a
+well, we need to do the installation of this rig and that's just the
+last moment  it's still to bring the recovery  The change in the environment
+before you started this indicates that there is a formation,
+first of all, of an obligation that is associated with discounting cash
+flows and then the right to use assets and liabilities
+lives their own lives separately because we extinguish obligations depending on
+
+00:23
+our lease payments, that is, the lease payment  is divided into two parts
+, repayment of the principal debt and interest
+that we will pay, and depreciation the right to use if the
+ownership of this asset is transferred, then by the term of use if the
+ownership is not transferred by the term of the contract, I want to focus your
+attention on what is really with the input from this standard which  have
+been waiting for a long time which really shows the economic essence of the
+investment essence of the financial lease, this has led to the fact that
+now many companies are installing various of these technologies in order
+for these lease payments to be immediately calculated  but purely investments in
+rent, that is, grain companies and for the right to use, first obligations,
+
+00:24
+then the right to use from other companies, and since
+most of our country is still engaged in
+renting, this standard is important for everyone
+if there are any questions, I’m ready for
+them  answer now or later in the chat, as you like,
+aware of the wedding is a very interesting case
+for the fact that which shows that before the digital endorse something in
+finance, you need to understand how it works even before digitalization, what
+Gianluca was talking about understands the meaning and
+final value of what we are doing to me it seems a great illustration here is
+our theses I know that olga has a presentation on how I will teach it
+olga chumachenko is ready yes colleagues good
+afternoon you know again I would like to start the presentation with the fact
+that we have a great opportunity to show how
+
+00:25
+much the specialty that is now in demand will be it is
+announced and dedicated to this specialty our master's program in
+here is everything that we have heard now, seen in the presentation, in
+fact, this is all being done, this is all being implemented,
+including by young specialists who come to our company with knowledge of
+finance, of course, she is very interested in specialists who
+will have knowledge in order to then in practice  colleagues, tell me
+please, I can show my presentation right now, the organizers are fine,
+let's say straight out that we
+have a common task, this is the answer to the question of
+
+00:26
+how we need and what to teach our young specialist what competencies are in
+demand in this case in our company we are the largest logical Russian  company
+let's talk about it [music] first, based on and relying on the
+presentation of vladimir, of course, this is the ability to
+conduct an analysis based on empirical means, this means that it is necessary
+that a young specialist had deep knowledge of basic deep
+knowledge of financial tax accounting master's  programs they include such
+sections such courses but this is not enough because a developed soskin
+with which is focused primarily on the development strategy of this company in
+which you work and given the main trend associated with the
+digitalization of financial departments,
+what kind of knowledge, in our opinion, is most in
+demand, of course, this is primarily
+
+00:27
+advanced  the level of knowledge is one s.a. you need to strive to ensure that
+you have this knowledge you have two years to complete the training and
+practically it is necessary because this is the main basic level for the work of
+financial acquisition of course now there are such global changes in
+accounting and you need to understand some reasons why these  treason
+is being introduced, such pragmatics exist at the
+current moment when implementing, of
+course, we must understand that if there is a
+cowardly specificity, that is, we expect that a specialist who comes to us could
+clearly realize that those changes that
+you take into account are taking place, they still
+have industry specifics, do not forget the earth and we  we would recommend
+
+00:28
+just the same through the prism of what federal standards exist for very much
+accounting Russian and international financial reporting standards
+here are the issues of convergence where we are now what are our main problems
+all this is very much in demand in many large companies in the audit
+industry and of course  we expect from young professionals the
+ability to conduct a qualitative analysis based on the obtained
+financial indicators, that is, not only to understand what they
+are, but also to understand that on their
+basis it is possible to carry out very high-quality
+financial accounting caught up with tax accounting of course tax accounting
+financial accounting are closely interconnected and short  I will say that
+you know financial accounting, so you need
+to understand at least the basic basis for
+tax accounting, it is very important to develop
+
+00:29
+yourself the so-called very popular large company sap skills, well, firstly,
+you need to be able to work in a team, the basic principles and orpheus of
+teamwork, what is focus, the result is
+very important time is needed  to understand
+when I would say so time management is the
+basis for the development of a young specialist corporate culture the
+concept of subordination, all these
+seemingly important principles are generally understandable,
+but they are important for an employer when he decides to
+cooperate with a young  specialists as a young specialist to achieve the
+required level of competence, but let's say straight out that we all
+now live in an era of great change and only continuous acquisition of new
+knowledge in order to improve professional chicks can be two
+
+00:30
+ways - self-education and let the area in exile which program helps to reach the
+required level  then competencies knowledge of
+excel knowledge of 1c, attention to the
+relevance of the complex issues of introducing new Russian
+accounting standards in the twentieth year, of course, you need
+to understand the issues related to the introduction of new and IFRS
+financial analysis and those issues that I considered in the owl skills section
+on my part, I’ll probably be glad now  to answer questions if they have
+colleagues, in
+
+00:31
+fact, continuous professional development gives us the opportunity through self-education advanced training courses to reach this level in order for us to have some kind of rapid introduction of
+digitalization in the financial  division olives questions
+quite a big thank you, it seems to me a very specific, clearly formulated
+request for highly qualified employees and indeed this
+adaptation understanding of subordination
+understanding of how teams work in 1 of their corporate cultures really
+only through practice we can instill we will be glad to develop cooperation with
+you and by the way with  clients of your auditing company in order for our
+students to take root there, thank you very much for marrying the speech, I want
+to give the floor to Yulia Yanina, this is our
+colleague, a teacher, a person who is already facing
+
+00:32
+our specific bachelor's my and master's programs, we have experience teaching
+in the master's program  the economy go here Yulia asked him to share but
+such practical considerations as Yulia looks to you but
+digitalization seems to be based on your practical experience as a financial
+professional and well, what can we give new to ours students
+good afternoon everyone can’t hear yes yes harmless on this I loved yes
+hello from the crimea if july can include a presentation because I have
+
+00:33
+a small technical problem here there was a blockage thanks I completely
+agree with the previous speaker with olga in general, now there is a big
+trend  on the automation of everyone on their knees, including
+financial services, the next slide answers the question posed by the
+profession in general, a financier, we can safely say that financiers and
+specialists with knowledge of finance can work in different industries, ranging
+from banking and somewhere to automation in IT information
+companies  in companies, this profession will always be in demand; it changes
+in response to what is happening in the world. financial specialists help
+
+00:34
+companies calculate rice and, by reducing the number of
+costs, increase the payback of the product and,
+most importantly, pay your losses at least to see what is in general.
+means the profession of a financier at the
+current moment, that is, that personnel
+services are requesting in search of such a specialist, first of all,
+our students would have to understand club bachelors of
+magistracy who come to learn how to read financial statements how to
+compile them know and analog accounting regulatory framework federal laws
+relating to this area of also be able to have skills have skills
+financial modeling i.e. predict business development
+
+00:35
+calculate different indicators possible risks identify know the office
+program even better if a specialist knows how to program at least at a basic
+level their data needs to be visualized somehow in order to see the dynamics and
+react in time, the business reacted to certain
+situations that occur in business, as well as
+financiers who are involved in this direction in general, in principle, should
+have great erudition in the field of economics to know the
+specifics of the business with which it works, that is, the market
+and in general how the business works, all the schemes,
+and our financial services always understand very thoroughly the
+
+00:36
+details of the business, that is, financiers understand all attacked
+no  business, in order to be able to communicate with different departments both
+from a financial point of view and from a non-automation point of view, that is,
+communication skills, initiative skills should be manifested by such
+specialists, that is, such general general skills that, in general, are
+typical for many, the next slide is now based on  trends that are
+generally taking place in the world and in Russia, in general, four
+directions for the development of this profession can be distinguished: this is a
+financier economist analyst we have a manager and a financier engineer
+
+00:37
+here it is interesting that the line between them is very thin and
+often there is a combination of such specialists, but as I said and
+as Olga also said  that we have, but the
+financial sector is very extensive, that is, you
+have to delve into various different
+details, for example, a financier economist, he analyzes financial indicators,
+respectively, we must give such
+knowledge to our listeners, that is, you know how to
+analyze the financial indicators of the
+market, evaluate the value of a company's financial instruments and assets,
+predict I macro economically they show [music] and the
+economist he develops a strategy since
+
+00:38
+these companies improve the furnace company the
+analyst looks at various indicators
+analyzes the risks of the father an interesting
+direction of the financial engineer here is
+this communication specialist here with our changes in information technology of
+huge automation which is now happening financial engineer to design new
+financial instruments and  products, that is, he analyzes financial markets,
+trends, looks for some optimal sources of financing for corporations, and
+in general, financial markets have recently undergone huge car  dynamic
+changes such new information financial technologies as
+blockchain crowd finca appeared and then electronic payments with all these
+products i.e. the development of new similar
+products is occupied by a financial engineer a financial manager analyzes this
+
+00:39
+risk the company needs to raise capital assesses the value of the
+business organizes control over investments and
+the financial manager takes part in the
+preparation of the company's budget system
+participates in the modeling of the financial
+evaluation of the effectiveness of investment projects,
+that is, the financier must keep pace with automation in step with the times and
+here the next slide please now there is a huge transformation, including the
+financial sector and, for example, according
+to RBC development research  The financial
+industry is heading in such directions as innovation in digital currencies i.e.
+
+00:40
+blockchain technology is causing a number of huge changes aimed at the aaa
+space i.e. over the past b  the number of transactions
+related to cryptocurrency will noticeably increase, we are forming some such
+credit card platforms as an additional incentive , another direction is without
+contact, that is, according to the central bank, for example, in
+2023, the turnover of cash and will decrease a big push to
+abandon real money cinnamon go to remotely change  your childish experience of
+communication with the requirements [music] very service me it's only me or
+
+00:41
+echo probably only you sometimes interrupting understandable maybe
+she can please you list technology finn read and agree
+two words students here's what you what you in them but maybe that  -somehow
+unexpectedly or vice versa once you
+communicate with students what you need to know about our students
+well what you need to know about our students our students still lack
+basic no skills exactly financial
+instruments people often come to the registry ben
+
+00:42
+add that master of education yes yes Yes yes, we start from the base,
+how it is built, how to analyze it [music] and
+financial indicators in general, that is, in my opinion, undergraduate students
+in the master's program are not enough well [music]
+all all the guys are always proactive, they work very well at lectures and at
+
+00:43
+seminars, that is, now  a portrait of a modern student is very, very put
+everyone is interested in his knowledge, they work out completely all the tasks
+that are set for them, that is , they work, you can say students who
+would be interested in us presentation of trends and our current
+
+00:44
+understanding of what students know and should learn
+thank you very much I would like to pass the
+floor to Irina the same to be honest several times I didn’t really
+shudder, but noted for myself the
+speeches of previous colleagues references to the study of
+large consulting companies  derov information, irina just represents such a
+major player in the market of the acc steam company, this is accenture
+accenture in russia, besides this company, accenture is a
+
+00:45
+strategic and long-term partner of the company; visits to offsite events and
+the question itself is rather not the same as
+for the rest yes how do you see the digitalization of the financial function
+have you seen live digital financial directors
+what they are now what they will be in the future and what we can give students
+yes thank you very much knees really really  interesting questions, and
+julia, I can ask you, in fact, all the largest companies here in
+russia all over the world have long and persistently
+moved towards the fact that finances become digital and the
+role of the safe, which, well, probably,
+will also be important for students from such a financier who is rather
+close to an accountant. there counter  they are olating
+
+00:46
+who, at the reporting date, prepares a report,
+shows yes, there are some indicators, let’s say, of the past, yes,
+moves towards the fact that the CFO becomes a business partner,
+becomes a strategic one and your cheese for business allows business to
+make certain decisions and the gap between traditional finances  if you
+look at the slide in the left corner and call it a legend file from this is what
+in fact all the large corporations are already
+moving towards and here Russia is everywhere in the world
+it is huge and it is here that when possessing prior construction and digital
+finance this is what we call intelligence files the ability to make informed
+decisions quickly arises much faster that's what
+you can work on in order to build digital finance here on this slide there
+
+00:47
+are several let's say even a few parameters on which the
+organization of work is up to 1 frame and yes, what is called the body of the
+hay state and here are other colleagues too
+they talked about it yes that is a fact  Technically, the
+financial service now consists not only of financiers and accountants,
+here we need specialists predictive analysts dat ass on this you are modelers,
+that is, those who know how to build predictive models who know how to evaluate
+business cases and give business advice, for example, a folder not to invest
+in a particular project, that is  Let's just say that the
+interest for the same applicants is that what the
+financial service does is much wider than what is much wider than accounting is
+much wider than reporting, this is natural,
+but the analysis of what business goes to and what it does
+naturally is the appropriate discipline, these are the appropriate
+
+00:48
+appropriate roles and the study of relevant data
+materials, as for  well, yes, of course, digital financially based on data is
+clear to everyone, and it is data and the construction of data that work with
+this data allows us to make such decisions, give business advice, and
+so on, all this naturally allows us to do technology, yes, it eats  if
+traditional financial systems are based on
+some kind of legacy systems on traditional patience systems, then now
+aromatization is also used, even
+yesterday robotization is used when robots are used to
+release lists of routine steps and locate people for more complex tasks,
+not routine yes, this is the use of artificial intelligence  and machine
+learning is just the same for compiling effective models, this
+
+00:49
+is really ready, what a colleague said cryptocurrencies quantum
+technologies, etc. as for the process of
+building the organizational structure of the financial function, if earlier in
+traditional finance there were so -called wells, now finance is
+much closer business courts use candle approaches when all
+different departments work in one common team in order to
+quickly  make decisions faster to give business results, that’s all these
+areas, in fact, yes, this is what applicants should study in order to
+have a full range of skills and yes, in order to work in a modern
+
+00:50
+digital financial service, but probably like this, in short, a great way to
+it seems to me that for our students, take some square and
+then look at which next step you will go to, each step will be progress in work,
+work and career, I will add that most companies do this,
+and in particular from 8 capital to which in any 0 and quite a lot
+invested  efforts in building data warehouses in building all the
+tools so that you can make informed decisions as well
+as all the key players in the market, so let's say where to apply this
+knowledge it is absolutely definitely there in this demand the need is what
+all the largest clients are working on in our market I will
+
+00:51
+perfectly cover a beautiful excellent prospect for tr
+I want to give the floor to the representative of investors to the
+representative of the bank if peter is with us peter I’m here yes how do you
+manage to get out of the black square of the black square for a
+long time yes now not black excellent
+petr dorozhkin representative of vtb bank a man with a
+long and  productive careers within the financial sector, but besides this
+, a person who comes to the audience communicates with students
+
+00:52
+teaches at a Russian economic school and knows, knows [music]
+the needs of students, not only in ours in ours but also in others in
+other universities besides this  I asked Peter to tell me, but
+from the perspective of digitalization from the side of the investor and from the
+side of the bank, and I again have the same question of
+how to learn this what is happening in the
+financial sector in terms of digitalization
+and the second question is how to learn this thank you Eugene thank you for
+inviting me to this event, let me first  I will briefly introduce
+myself  it would be clear what I'm going to talk about
+my name is petr paths in the vtb group i am responsible with long-term financial
+
+00:53
+planning for what western banks would call finance strategies, that is, for the
+formation of long-term financial goals of the
+organization with this sight so that they justify the goals set by the
+shareholders  which put the regulator so on,
+besides the fact that I work in finance, I work in one of the most, let's
+say, those intensive areas in the finger divisions of the turkey
+before separation, which do not just work with
+friends in the digitalization of information technology more often, namely,
+probably with knowledge-intensive and part  lessons
+imagine when it comes to planning a bank in any company then as a rule
+highlights short-term planning long-term planning
+what you need we need a budget he can business plan in this case usually
+
+00:54
+people have food very process intensive very process intensive
+process such a pun  then eats you just need to have
+business partners, business or numbers in
+the stem system, everything neatly folded, calculated, consolidated, we got the
+result in my case, everything is more difficult
+because you can take into account a lot of factors how the
+economy will develop how the banking system will develop
+how to maximize return on capital if necessary how to compare
+algorithms and techniques here down the bottom-up which is used in forecasting
+this is the context of the visit what I do of course I take interns every year
+almost every you replenish the team, that is,
+they have the opportunity to communicate with the hammer to the
+
+00:55
+young rising generation in view of this, I answer  questions who would
+build an answer as follows, saying digitalization, let's first
+think a little bit about the context that the
+game is happening outside the window and
+how we can act with what is happening outside the window as
+a whole, and what is happening outside the window is the
+following, I will be a little more specific, we have our own ball  So
+I’ll try, I’ll try, I’ll try, they’ll try to talk
+in the first place in the light of the events that are happening in our world
+, companies are shortening the planning horizon, that is, if earlier
+companies talked more about strategy about what
+will happen in five years in 10-15 now they are talking about what will happen
+next  year on the one hand to the truth on because the goal is to
+survive this year how to live this year on the other hand, there is
+
+00:56
+still a great risk that we will lose the long-term goal and
+having taken some actions during this year, having chosen the right path
+or adjusting the minimum union,
+we will not be able to adjust later  to speak on the right trajectory, the
+first second trend that is now present is, unfortunately, or parts of
+import substitution, how is it what kind of impact does pineapple
+have, we have certain software products west of them, these
+program laws, products must somehow not
+just be replaced unfortunately, we are now
+refusing situations when we  forced to
+maneuver between the functionality of convenient
+Western products and familiarity, let’s
+say with the system implemented there and, let’s say, certain features of
+domestic products that are still not mature enough at some points,
+
+00:57
+and of course, an important trend, an important detail, the context is the
+budget, given that it won’t be possible to earn much this year
+at least  As far as banks have a budget and cut
+that this is what, as a rule, customers who allocate investor money they want
+from those small investments that cannot do anything from that porridge or
+from those activated their expenses
+to get the maximum, unfortunately, the cost of
+automation is not digitalization of the financial
+department here  can hardly be attributed because they have a long horizon a
+long payback horizon what follows from this context what
+difficulties they have what trends we have in the framework of the
+digitalization of the financial function at least I do not see the
+
+00:58
+number one difficulty planning how long-term it is
+short-term activision with  working with colleagues it becomes more complicated
+before we had conditionally 5 counterparties
+now we have about ten counterparties everyone wants their own cut everyone wants
+their own word of this model the number of outs that this model
+has it also grows that is earlier if you set all the strategic goals you
+wanted all the implementation of the detailing just a
+multiplier on the target profit for now you need June because  but Mecca and
+some of the g parameters of their scenario magician,
+that is, calculate for us and for several options what will happen if and to be
+if and what will happen if this all imposes certain
+requirements since childhood on those software products those requirements for
+civilization that  which we share, of
+
+00:59
+course, of course, they are naturally complicated by the financial director, he
+significantly develops, the functionality increases, he moves absolutely
+correctly yes, that is, earlier on top of the
+account, now it is also himself and the main person for information security,
+which is not what it means that
+when more is added within the financial department one digital product, it is
+forced to integrate with a much larger number of systems and
+this leads to an increase in financial costs,
+and you are just a single person and increases the risk of errors
+with this very integration, which
+is important the very previous paragraph about the fact that
+now it is very difficult to prove that
+investments  at the pace they are somehow  - something at least
+
+01:00
+somehow extremely well, in general, I would say that there is the
+following problem now within the country and within
+business very much attention to the field of information technology they say
+that predators 2 oil is probably true but let's not forget about what
+to go  the bed itself, it cannot work without a customer, and here, between the
+customer, us as a customer and as performers, there is a certain
+vector and a gap, these are people who,
+on the one hand, need to know the financial aspects of the
+other side, know the IT aspects , unfortunately, in this area now there are
+certain  lack of personnel, partly these personnel left, partial these
+personnel were for the rights of men and were promoted and,
+
+01:01
+let's say, they may not be completely managed with work as well as we
+would like, and here there is a potential for those students
+who are graduating tomorrow into this niche to fill that  such students need to
+know so that they can take their course successfully about social security.
+well, first of all, as I said, understanding both financial somehow and
+technical aspects of the principle of work, where, secondly, this is probably a
+good mathematical base, whatever one may say
+, I have a first technical education and within the framework of
+one of the projects that we did, we did not  more less a multidimensional
+financial model is such a step forward over excel when
+you apply a model of a two-dimensional table in
+multidimensionally, this base is very necessary in order
+
+01:02
+to put a tz-type recession base under the tasks that we set as downloads and
+which predators must understand,
+you need to understand  the basics of the operation of algorithms, for example,
+such an example of a dilemma in france modeling is separable complexity times
+transparency and from a practical point of view, of course
+, more practice is needed, that is, conditionally more people from faster who
+speak at least like me as speakers in the
+classroom in order for students to have siding, they have such  let's
+say  m of what is happening here now,
+but not in the classroom, but in the office what tasks are set by customers like
+
+01:03
+these customers pain what tasks they set how they are implemented
+we of course probably have more practice with
+all sorts of different computational tasks mathematical
+I would say the level is much higher than we goals 11 here  that is, if we look
+there also a trainee in ourselves that, let's say, in the
+movies, they even amg things to the ball, yes, that
+is, we don’t even ask people, we think that we can stand it very well,
+be able to program, so, if briefly, then the answer to the question is still
+Peter  thank you very much for such a comprehensive view and valuable ideas, to
+be honest, it’s a little sobering that the
+financial department is low on financial initiatives, and that these
+
+01:04
+initiatives are actually low margin, long payback, it’s low, I may be a little
+wrong said very hard to prove that this is really old  high just
+imagine that in order to highlight the day  gi in reality you need
+to go through three or four committees and in
+each of these committees you need to provide something and
+they called it to represent everyone in different ways but how do we
+do a lot for one thing your big competition
+here you have roughly the boundaries of otiev
+business which  clear to schools and
+clearly the shield of the world, and here you come
+to tell him how it would be, let's automate planning how much it will
+save people, on the contrary, there will be more people how much
+money you can save on this, yes, on the contrary,
+investment in software products will be
+
+01:05
+required, and in what  then it makes sense
+to do it anyway, it’s necessary to do it equally,
+yes, but we’ll kind of get away from the
+taxil’s stone ax and move on to some kind of
+industrial system, we’ll reach the world level, excellent, what’s the
+point of proving that three bag-ends are of course complex, such as
+once and I want to say that what is possible not for when knowing how hard it is
+in large companies and  how many times do you need
+to lay your head down so that you cut it off,
+it’s better not to stick it there right away, but I’m
+because these committees, yes, of course, they are hard to explain
+Peter, you can also have a question about a swarm from an intern and
+here are young employees through at what point in time or through what tests
+
+01:06
+or  what kind of transformation of a young employee this return from a new
+specialist becomes positive what should happen, it’s just the passage of
+time or some kind of significant events when a specialist becomes useful and
+brings added value positive good question I would say one of the
+important stages when a person can become a
+slave  one of the important stages comes that
+person gets the opportunity to work independently
+does not distract my time and the time of the mars of experienced people,
+let's say it happens for myself, it happens in different ways,
+I would say that probably a person goes to independent work tramer in a year is
+
+01:07
+excellent, in general, two years in  master's degree and one
+from these years should already begin with
+practice so that already at the exit from the
+magistracy to give a positive effect for the employer to a
+good before after the first entry of the
+magistracy, the exit for an internship and,
+accordingly, with a diploma, a person can already get a promotion to become a
+full-fledged employee with a poor experience and are ready to replenish
+it, thank you very much for your  the comment for us is very valuable for us to
+build a training plan for our students, I want to give the floor to oleg
+nazarov, who also joined our discussion oleg is
+a financial market professional with a proven work history worked
+
+01:08
+in a management company the other part of the spectrum of
+companies is an entrepreneur and
+founder of a start-up in the field of fitness and fitness industry Oleg,
+taking into account such a broad outlook, how
+do you see the digitalization of finance among big players and perhaps not so
+big ones and what should students do  Thanks to the entam, in fact,
+somehow returning to past experience, I can
+say, well, it’s clear that listening to everything that is
+being condemned here today, it’s clear that the
+financial function of seafight is a very
+conservative function and and and role, and therefore, as Irina said, as if in
+large companies, there is a gulf between traditional finance and  where it’s
+
+01:09
+all important to come sometime she’s big with this I completely agree that
+on the other side in extremes in small business
+digital finance or numbers and sculpted the
+digital function of finance is a daily
+necessity this is something without which, in principle, it is
+almost impossible to live firstly because that small companies small businesses
+simply do not have the money to hire from above
+more often all the functions of the safe are connected
+within one person the functions are related to the
+business associated with attracting
+investments the spread associated with advertising
+with sales with the product and it is forced to connect here
+with one from one end  with what is called accounting and cou  nting
+management accounting financial planning and so on with what
+
+01:10
+is at the other end i.e. with the result with sales with revenue with
+all this in this sense they are not separated they are in the same
+head at the extreme in two if there are two partners or in 3 if  there is also a
+partner for most often a financial director or the function of a
+financial director in a small business, a function that is very close to the
+financial result in terms of revenue or profit or sales, and
+in order for it to work, you first need to buy it if possible or
+outsource it or install it yourself  -solutions that will help
+to replace traditional financial functions in some way without spending too
+much time, therefore, relatively speaking, now there are most banks for the
+self-employed there is always the opportunity to
+calculate their taxes to pay them don’t do it with your own hands
+
+01:11
+, I can also say that by my own example if finances if if person in
+charge of finance  Ansy does not see how
+revenue is generated based on the results of
+an advertising campaign does not understand how the company receives money
+at all as a result of expenses spent on advertising
+, well, this most often does not work now it can be done now
+all advertising is most of the advertising is advertising in social networks and
+this advertisement is a shield abundantly and when I, as a
+financial director, call my company, I
+discuss with the guys what kind of advertisement
+to launch, then I look at advertisements not as
+no cost that we have to spend and then maybe we will get something, but as a
+set of parameters that will lead to a certain result
+they do it only due to the fact that all these
+
+01:12
+numbers, all these parameters, all these even
+boards, we have the presence in this sense,
+we don’t have any legacy as a small business and
+it lives as if cutting corners as much as possible, Peter said that
+you need to go through several layouts  to
+convince people that what is needed is something to endorse the figure
+so it is clear that in small  in business there is no
+time for a committee there is no time to
+change the legacy simply because of these
+stereotypes and the capable type, I mean just the usual pre-revolutionary
+methods for solving
+financial problems, they are simply not there, you just need to do
+it here and now in some way to spend money on
+sales, we  we knew exactly how much we would get from them
+and for this we use all the possibilities that exist on the market
+
+01:13
+we we use stripe as a budgeting system for financial
+planning systems I simplify this on purpose, however I use we use all kinds of
+connect and to programs sold there that
+allows  we immediately understand after we spent this money and we will most
+likely get y than to do it in real time and
+understanding, as it were, that every dollar spent by
+a yuan football player will lead to some kind of revenue
+in a day, two days later, you can ask alik well, and some so to
+say that  in small companies, then such startups are very dynamic  a temporary
+financial function, it partially dissolves in other functions, I can
+say that, yes, venture companies in startups, small businesses,
+
+01:14
+financial functions, the financial director as a function cannot afford to
+be as close as possible to the business, so network developers can afford not to
+understand finance, on the
+contrary, for years, but on the contrary, no  well, simply
+because then nothing will happen and in this sense, how if you answer
+question 2 that you have is that how to learn all this I can say
+my own experience I have never been a siphon I worked a lot for sifu of
+large companies but when I  became an
+entrepreneur, then I realized that in order to be able to connect
+the financial function with business and
+there with development, because development is
+an integral part of the whole picture, you need to be a product manager, so
+as you and I discussed, this is what would be nice, let's
+teach students this  product management which connects  as a
+
+01:15
+matter of fact IT business and finance you may not be an expert enter
+such as this developer you may not be an expert in
+business in marketing the one who is an advertising specialist
+you may not even be a very deep specialist in accounting
+someone must understand  all this in order to be able to
+combine this on the first of May to own the work
+and release the product in order to give the product so that it enters the
+market so that you start buying so that it's all somewhere 2 gross and the
+second moment is important too  that the
+financial director or there the financial function should get used to taking
+risks I started by saying that she is very
+conservative initially the traditional
+financial director herself is a conservative what this
+series of commissions and committees is
+
+01:16
+trying to avoid they are trying to avoid risk yes but we are now
+talking about how to teach  people who must at this moment
+adapt this system  the topic to turn it into a more mobile pain figure drawn
+they must learn to take risks because well, as if business is always
+an attempt to get somewhere, it can end in failure and for any traditional CFO
+any failure is a loss that needs to be
+written off that needs to be explained to the
+committee and shareholders  and so on and
+if you are a digital financial director you
+just understand that this is an inevitable
+part of life here now it is to be blamed
+to accept this is a very complicated story this is an
+old man Andreeva's appearance equals
+venture turns out to be autocad in fact this is exactly how this story
+begins with if I'm sorry if
+if  I’m over forty, it’s very difficult to learn to understand
+risks, because I was taught all the way how to avoid them
+
+01:17
+, but if you’re 20, then there’s still
+a great chance to learn this, well, this
+subject can be called whatever you like given
+this entrepreneurship in fact yes, a very important component  for us too much
+visible  that is, at the undergraduate level, and by the way, the
+propensity for risk and entrepreneurship
+in management programs, for example, and in
+economics programs, these economics programs are attended by more people with an
+analytical warehouse and tend to work in such a more secure
+environment, such regulated large companies and those who go to management to
+those  who want to go on but create their own business to go into
+entrepreneurship and we, as a university, as a
+university, want to give people the opportunity
+to develop, and with those and other preferences, and
+most importantly, that they find each other and
+know how to work with each other, I think it was for us  would be a very good
+
+01:18
+result for us and for our students, thank you very much
+for wanting to just add the last drop to these subjects that would be
+properly studied not a subject, probably, but you just need to just show more
+business cases, you need to go beyond large companies in
+order to broaden your horizons a little because only that  well, it
+starts with the beginning of the very digitalization that
+big companies will think in their mouths for a long time
+simply because it’s a big legacy and needs to be changed a lot,
+yes, but maybe a big legacy can be a big buyer for a small
+startup with a big assessment, but not now,
+really, due to different circumstances  but in the
+future, but once thanks, big oleg wanted to give the floor to alexey kalashnikov
+
+01:19
+alexey you are with us good evening colleagues
+alexey the current financial director finally we got to how to say
+really a person from the industry a
+person because of the difficult industry and for close friendly geography alexey
+works for the multi-profile holding orient uzbekistan and is developing the
+development of different segments of this
+business alexey how can you make sure the
+digitalization of the financial function
+
+01:20
+socialization doesn’t happen not only in
+russia, it happens in their countries next to russia, oddly enough,
+socialization is such a buzzword now,
+although it seems to me that this is one of the
+tools, although speaking about numbers, the task makes sense separates
+traditional and digital business now there are many
+businesses that initially build themselves
+as digital, that is, there are all processes
+processes related to business, rather,
+years have passed, they have already been digitized,
+yes, that is, there is a figure, he and sales are
+digitized there, purchases are digitized there, the value chain is digitized and
+therefore the digitalization of processes it
+entails  it is necessary to digitize the
+accounting of accounting functions and all the functionality
+
+01:21
+that you own, you must own the financial director, that is, this
+accounting and reporting planning and budgeting and controlling, and there
+investment projects, that is, in digital in digital business,
+without digitalization, there is no longer anywhere the
+process is already digitized  If we we go aside in the traditional business of
+tons, then it’s probably worth saying first of all that the
+basis is important for the financial director, that is, for dad, firstly, the business
+itself should already be quite mature, the
+business process should be established again, the same
+production, purchases, sales  from the point of view of finance
+, a certain minimum should be created, that is, the
+company should already be able to take into account planning budgeting,
+
+01:22
+calculate investment projects with its websites, and here, probably,
+at the junction of a working business and a financially minimally created
+direction of the financial block, a headlight appears  zation
+as another tool, again
+speaking about centralization, digitalization can be distinguished
+as such an expanded accounting system, that is, the ability to quickly
+receive information ayodhya to store and and
+will be considered from different angles, and
+then this is the first part and the second part is
+still a civilization process  with that is,
+digitalization of coordination digitalization of
+budgeting digitalization of controlling, that is, those same traditional basic
+basic functions that will take a lot of time, but still
+
+01:23
+on which reporting such improved reporting is faster more accurate
+more segmented yes and the second is some also yes  yes definitely
+and also more transparent more understandable cheaper and more
+convenient because if I put one digit into the system once and I can copy the
+digit from different angles and can I put in one reporting form in another I can
+assume  that it will grow two times or three times that it will
+shrink elites and speech and or something else, well,
+that is, that is, I should not, firstly , the same data if we
+are talking about digitalization as an accounting
+system, I am not India  should transfer the same data from different systems to
+different ones there, produce errors, and secondly, I
+
+01:24
+can, I can transparently for myself  I am both for and
+for a circle earlier for investors for a hand
+for guidance for colleagues from the right
+departments I can show that we are like we are
+where we are, well, that is, all the company’s activities are still
+permeated with money , so what I often say to
+colleagues and caused in general despite our  wonderful wonderful missions
+that are especially loved by big companies we are here to make
+money we are not here to produce equipment saying I don’t know
+machines clothes or food we are here to earn money so
+let’s measure all our wonderful initiatives in terms of how they help to make
+money and how  since digitalization is a tool in my opinion,
+and this is an important task of the financial director, it is still
+
+01:25
+helping to make money, it is possible for you to use efforts to
+relocate capital to some other direction will bring much
+more returns now it is necessary at this stage of life data in this company
+can  we don’t know if we should train staff or hire staff,
+maybe we should modify our equipment, or maybe we should
+start digitalization of processes
+because we will gain something from this something to gain time accuracy
+cost reduction market market value because investors like
+words words digitalization and the introduction of a
+large beautiful dress and product increases the market value of the company
+new new investors come to us we show our beautiful transparent
+
+01:26
+business that we see from any angle you want as you like so
+we will cut it to you my city and see the business
+and it  we are managing it, therefore
+, after all, digitalization, in my opinion, this is a tool, in my opinion,
+digitalization makes sense to deal with
+when the business is mature enough, when in general
+there is an understanding from the model, there are basic
+basic functions, the functionality of the financial department already and
+we should deal with the implementation to give birth for the sake of something
+probably this  under the soup of civilization, yes, but
+alexey to spin a real phone that you can’t say that everything happens
+for the sake of the financial result and the
+
+01:27
+value of the company, thank you very much look,
+but about the students that he was also a question, I would like to see that
+he already has a student coming from the university  there is some
+visibility I don’t know how to choose words correctly in Russian these
+are the same cases the same tools as applied to different red companies
+that what you see happens like this we can take something
+works, maybe this is how we apply this tool here and with
+us and with us it should also be beneficial, but it happens like this is a disk
+where there is no financial department
+but everything but everyone is imbued with ideas of
+making money  but it happens somehow 1 then, of course, you want at least basic
+programming skills, not even for a
+
+01:28
+person to come and with some  about a specific
+language, but in order to have an understanding of how to
+build algorithms, how to translate a physical process into a program language,
+so I want something like this to explain something to a computer, there are
+some, and that's it, programming gives an
+understanding of an approach like this  you can do it and
+then it greatly simplifies the task in
+digitalization during formation, and so, of course, I
+want students in the basic tools section to pay attention to what
+financial statements are about what they are
+with tools parameters coefficients of the model
+how to analyze an investment project
+
+01:29
+in general why this is all  how they of course basis basis is
+needed here is a programmer analytical state well at least here at least it is
+to get a bank 3 components are so powerful I like a deacon take note
+that our students should at least pass what happens in different
+ways still another skill  learn skill skill get fight analyze information
+because without this you can’t do without it
+alexey plows thank you very much for the comment, I propose to end
+our some official part with speeches and finally for those students
+
+01:30
+who stayed here, maybe you wanted to ask something, we
+turned out to be very full of such a one and a half
+hours more than we thought, so if you have any questions with the speaker
+that we have left, then please, it 's time to ask and I know that among
+our guests there is Andrey Karen check, who develops financial
+services in the field of personal finance, maybe Andrey that  - I wanted to
+add a general question to students not
+current and in the future, do not hesitate to ask some question of your own, we
+will be happy to answer and maybe
+Andrey wanted to say something according to his impression, but from the side of
+
+01:31
+personal finance services, the area of centralization is also a good  veni
+g  well, I didn’t listen to a very interesting
+speech, of course, for all the skills that are listed necessary, the
+necessary ones will always come in handy not only in finance,
+but also in a simple life, specifically, even the top managers with
+whom I communicate, for example, are now lost and cannot
+determine how to act in the conditions of dynamically changing exchange rates
+there, including for making their own
+decisions, not only on a scale  businesses on the scale of managing their own
+
+01:32
+capital, in this regard, the use of effective there and
+various tools and techniques,
+including digital ones, especially digital ones, which
+allow a long-term financial model or identify the most difficult
+undefined places, including managing risks, they are actually in
+demand more than ever now because  that more and more more the
+environment in which we are at the moment it changes more more more uncertainty
+and only tools for analysis of rapid modeling,
+planning, assessment and risk management can, so to speak, lead
+
+01:33
+to  in a hurry, I would say so, but including not only in business and managing
+cash flows or assets there, but also with my own financial well-being
+up to 3 thanks, absolutely what is called I completely agree,
+even now I would like to note such a moment that here are a
+lot of specialties, a lot of plans I  reviewed the training and drew
+attention to the fact that, for example, he sees personal
+wealth management as very little attention, and for example, if in the
+programs of Western universities there, let’s say career planning is an
+integral part of personal wealth management, we have this item, but
+
+01:34
+somehow it is very missed and in fact  business,
+for example, resume writing skills, it’s not at all where, it’s
+never covered, or there are some, but
+writing even when you already need to write a
+resume when, yes, yes, that is, when
+Andrei Novotorgovy is already laid down by a lack of
+personal finance, it seems to me that this is another
+kind of cultural barrier  there is that but I'm going to  and as if there is no
+gate somehow to increase my net worth during my career and how to say I
+do it somehow systematically and how to say
+systematically, in my opinion it has not yet
+taken root, well, the idea and it seems to me that this is a
+drawback that we really need this do it and the earlier
+
+01:35
+you invest more in it how to say the result by the time of retirement how
+really very important such moments there are things but really need
+more thank you for showing and the numbers [music] sergey
+I also want to talk to our guests if they are still in flocks
+
+01:36
+sergey anatolievich is love for some period of
+about a year until now  maybe even less and does not see the return
+on investments of digitalization a lot of finance function with
+this you constantly encounter such a pain, probably many financiers
+seem to need it all the time, but the drive in the
+context of the year does not appear, so we put off the low priority and
+everyone needs it, but the film is how to say the budget  the next year the
+paradoxical situation of a milkmaid does not fall recently he
+talked with a colleague he is also engaged in the
+digitalization of the tariff area and when he
+talks about the bird with none of the clients at all,
+he asked him the question of what digitalization will give me in this direction,
+
+01:37
+he answered him accuracy at the rocks yes if if you would say the
+cost of the economy, I would not talk to you further,
+but the fact that the accuracy is increasing and I
+chose such a vector for myself that it is precisely by avoiding some
+mistakes, including accounting in budgeting, that
+one can probably show the effectiveness of
+digitalization of which  -the direction, if possible, I would also test 2
+answers  this is flexibility and reliability, that
+is, paralysis can go in different ways, one of them is existing
+processes, we even more how to say give a lot of
+automation this is one way and the other way is when we invest in
+being able to reconfigure, including chasing some kind of crisis  period
+
+01:38
+to which we better understand the cost structure better understand where
+our costs are formed and what brings more
+money such flexibility and reliability in the
+sense that mistakes may not be avoided, but we can avoid some kind of
+repetition or something of mistakes, this is
+how you think your owner or  here is your branch of flexibility reliability
+that the direction is just for persuading managers, but here this is a question
+that is not always possible to translate into a figure, that is, but only Peter
+said how would I formulate this one for myself as ro and bag-end here is the
+profitability the profitability of investments in  its how to say systems
+that do not sell anything but provide life  the activity of the
+enterprise is very difficult to calculate it is difficult to prove it is
+
+01:39
+interesting that we are the same here when big vyacheslav natalia
+if you listened to the end you probably have something to say
+confirm or deny something thanks doctor both of this [music]
+I am glad that you could join and yes I  I was worried that we could
+send him the wrong link, move a straight wide range of
+opinions from the fact that one with this is the basis of the
+basics to the fact that none of the happiness and
+need to develop other systems for us are
+very well useful, it seems to me a look and
+
+01:40
+there are colleagues with whom you can discuss
+different directions, it seems to me that this is the
+work that you are doing to participate in the competition in
+teaching 1c, it just evokes a response and an important direction that requires
+knowledge in order to create an alternative
+system, you need to know how the existing one works [music]
+I already understood that financial documentation should be compiled [  music]
+let's go deeper and yes, it seems to me that the base of the base is
+good and that's it  bring some of these
+companies, including those for bachelor's programs, to some kind of but update
+some courses with the participation of an
+
+01:41
+industrial partner, you are one of those companies present here is quite
+real such a development of events you can try to ask things collect yes yes
+try ask the numbers you search search Vyacheslav Repina,
+did you listen to the end, do you want to say something, what kind of remark is
+apparently not and Vladimir, it seems to me that we have achieved the goal of
+our seminar, all those who were invited expressed a lot, how do you like your
+impressions, how do you see our future work, first of all, of course, I
+want to say a big thank you  to everyone who
+came to us today, this is a very valuable
+
+01:42
+opinion, I noticed interesting things for myself
+, now I’m working as part of the admission campaign of working with applicants
+who come from the program, I noticed this trend, too, there is a
+certain transformation transformation of the
+request from students what was in the
+past year before last  today they are already
+students though  very attractive for them when I start to tell that the
+program has a large number of experts, a large number of people who are
+directly involved in business, a large number of cases, but for them this
+is now a very important attractive moment, and for many it is the decision to
+apply for our program after when you don’t hear that there is an
+expert position here, that there are people here
+who will tell you about the things that are
+happening now in business, and that’s the
+request that we heard today, it really
+
+01:43
+responds to students for them, it’s important,
+today I saw that we are moving towards
+each other, it’s great  I give it great that
+the experts themselves and business representatives
+say that we need students who have tried one, two, three things and already how
+can they tell some independent position, it’s very cool,
+we will be glad to see everyone on our programs within our disciplines
+as guest speakers of the central spike  I
+’m looking forward to the start of our program with such great enthusiasm,
+I think that it will be something special, thank you very much for them, mutual
+thanks to colleagues for participating, thanks to our guests, we are
+waiting for applicants in our program  goodbye guests

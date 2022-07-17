@@ -26,7 +26,7 @@ images: []
 [![Бакалавриат][bac-badge]](program/undergrad/)
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
-[![][t-badge]][tourism]  
+[![][t-badge]][tourism]
 [![Магистратура][mag-badge]](program/masters/)
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
@@ -77,6 +77,17 @@ images: []
 <a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Задайте вопрос о поступлении на Финэк</a>
 
 </div>
+
+## События факультета
+
+<!-- Файлы:
+
+/data/banners.yaml
+/images/index-banners/*
+
+-->
+
+{{< banner-carousel data-file-name="banners" items="1" height="450" unit="px" duration="4000" >}}
 
 ## Кампус МГИМО-Одинцово
 
