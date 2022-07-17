@@ -21,14 +21,13 @@ slug: "digital-cfo-roundtable"
 {{< youtube EjS7SpadOqg >}}
 
 ## Участники
-
+<center>
 <img
     src="/images/person/epogrebnyak2.jpg"
     alt="Погребняк Евгений Владимирович"
     title="Погребняк Евгений Владимирович"
-    class="rounded-photo float-right mr-1 mb-1"
+    class="rounded-photo mr-1 mb-1"
 />
-
 <img
     src="gianluca-bisceglie.png"
     alt="Gianluca Bisceglie"
@@ -41,7 +40,6 @@ slug: "digital-cfo-roundtable"
     title="Пётр Дорожкин"
     class="rounded-photo mr-1 mb-1"
 />
-
 <img
     src="larisa-efremova.png"
     alt="Лариса Ефремова"
@@ -78,7 +76,7 @@ slug: "digital-cfo-roundtable"
     title="Ольга Чумаченко"
     class="rounded-photo mr-1 mb-1"
 />
-
+</center>
 ---
 
 **Gianluca Bisceglie**, онлайн-сервис финансовых вычислений Visyond
