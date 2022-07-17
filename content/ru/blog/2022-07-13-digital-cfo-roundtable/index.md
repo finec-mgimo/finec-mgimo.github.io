@@ -29,7 +29,7 @@ slug: "digital-cfo-roundtable"
     class="rounded-photo mr-1 mb-1"
 />
 <img
-    src="gianluca-bisceglie.png"
+    src="Gianluca-Bisceglie.png"
     alt="Gianluca Bisceglie"
     title="Gianluca Bisceglie"
     class="rounded-photo mr-1 mb-1"
@@ -77,6 +77,7 @@ slug: "digital-cfo-roundtable"
     class="rounded-photo mr-1 mb-1"
 />
 </center>
+
 ---
 
 **Gianluca Bisceglie**, онлайн-сервис финансовых вычислений Visyond
