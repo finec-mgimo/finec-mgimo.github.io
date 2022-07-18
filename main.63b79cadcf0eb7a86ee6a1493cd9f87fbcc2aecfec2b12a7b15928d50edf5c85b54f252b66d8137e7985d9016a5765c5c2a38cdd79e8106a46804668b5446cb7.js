@@ -127,4 +127,3 @@ prefetcher.href=url
 document.head.appendChild(prefetcher)
 prefetches.add(url)}
 ;
-var clipboard=new ClipboardJS(".btn-clipboard");clipboard.on("success",function(e){e.clearSelection();});clipboard.on("error",function(e){console.error("Action:",e.action);console.error("Trigger:",e.trigger);});
