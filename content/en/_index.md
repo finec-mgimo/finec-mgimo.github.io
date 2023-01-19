@@ -11,7 +11,7 @@ at undergraduate and masters levels.
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
 <img
-    src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
+    src="/images/person/epogrebnyak2.jpg"
     alt="Dr. Evgeniy Pogrebnyak"
     title="Dr. Evgeniy Pogrebnyak"
     class="rounded-photo"

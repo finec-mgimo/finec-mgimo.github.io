@@ -26,7 +26,7 @@ images: []
 [![Бакалавриат][bac-badge]](program/undergrad/)
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
-[![][t-badge]][tourism]  
+[![][t-badge]][tourism]
 [![Магистратура][mag-badge]](program/masters/)
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
@@ -37,14 +37,14 @@ images: []
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
 <img
-    src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
+    src="/images/person/epogrebnyak2.jpg"
     alt="Погребняк Евгений Владимирович"
     title="Погребняк Евгений Владимирович"
     class="rounded-photo"
 />
 </a>
 
-В 2022 году факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике и туризму.
+В 2023 году факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике и туризму.
 
 Какая программа Финэка подходит именно вам?
 [Рассказывает декан факультета финансовой экономики Е.В.Погребняк](about/interview):
@@ -77,6 +77,17 @@ images: []
 <a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Задайте вопрос о поступлении на Финэк</a>
 
 </div>
+
+## События факультета
+
+<!-- Файлы:
+
+/data/banners.yaml
+/images/index-banners/*
+
+-->
+
+{{< banner-carousel data-file-name="banners" items="1" height="450" unit="px" duration="4000" >}}
 
 ## Кампус МГИМО-Одинцово
 
