@@ -10,12 +10,17 @@ images: []
 
 [econ]: /program/undergrad/economics
 [itmb]: /program/undergrad/itmb
+[mgt]: /program/undergrad/management
 [tourism]: /program/undergrad/tourism
 [ai]: https://ai.mgimo.ru
 [digital]: /program/masters/digital-finance
+
+<!-- Перенаправить сюда digital finance. -->
+
 [bac-badge]: https://img.shields.io/badge/-Бакалавриат-2892D7
 [mag-badge]: https://img.shields.io/badge/-Магистратура-1EB3A1
 [econ-badge]: https://img.shields.io/badge/Экономика-ФЭТ-2892D7
+[mgt-badge]: https://img.shields.io/badge/Менеджмент-МКИ-2892D7
 [bi-badge]: https://img.shields.io/badge/Бизнес--информатика-ИТМБ-2892D7
 [t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
@@ -26,7 +31,8 @@ images: []
 [![Бакалавриат][bac-badge]](program/undergrad/)
 [![][econ-badge]][econ]
 [![][bi-badge]][itmb]
-[![][t-badge]][tourism]
+[![][mgt-badge]][mgt]
+[![][t-badge]][tourism]  
 [![Магистратура][mag-badge]](program/masters/)
 [![][econ-badge-mag]][digital]
 [![][bi-badge-mag]][ai]
@@ -44,18 +50,14 @@ images: []
 />
 </a>
 
-В 2023 году факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике и туризму.
-
-Какая программа Финэка подходит именно вам?
-[Рассказывает декан факультета финансовой экономики Е.В.Погребняк](about/interview):
+В 2023 году факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике, менеджменту и туризму:
 
 - бюджетные места на экономике и бизнес-информатике;
-- новая программа по туризму c выездными модулями;
-- дополнительные модули (майноры) по стартапам, анализу данных и финансам на всех программах;
+- новые программы по туризму c выездными модулями в Сочи и по менеджменту в креативных индустриях совместно с Universal University;
+- на всех программах -- сквозные модули по выбору (майноры) по стартапам, анализу данных и финансам;
 - выпускаем с английским на уровне С1 и вторым иностранным языком (китайским или европейским).
 
-Читайте интервью декана на [портале МГИМО](https://mgimo.ru/about/news/main/finec-2022/)
-или [на сайте факультета в расширенной версии](about/interview).
+Какая программа Финэка подходит именно вам? Читайте интервью декана на [портале МГИМО](https://mgimo.ru/about/news/main/finec-2022/) или [на сайте факультета в расширенной версии](about/interview).
 
 ### Консультация по поступлению
 
