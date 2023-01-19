@@ -21,6 +21,7 @@ weight: 12
 [econ-badge]: https://img.shields.io/badge/Экономика-ФЭТ-2892D7
 [bi-badge]: https://img.shields.io/badge/Бизнес--информатика-ИТМБ-2892D7
 [t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
+[m-badge]: https://img.shields.io/badge/Менеджмент-МКИ-2892D7
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
 
@@ -79,6 +80,8 @@ weight: 12
 ### Менеджмент в креативных индустриях
 
 (направление подготовки "Менеджмент")
+
+[![][m-badge]][management]
 
 - [Страница программы на сайте факультета][management]
 
