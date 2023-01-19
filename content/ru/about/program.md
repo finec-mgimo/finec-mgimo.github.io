@@ -12,6 +12,7 @@ weight: 12
 [econ]: /program/undergrad/economics
 [itmb]: /program/undergrad/itmb
 [tourism]: /program/undergrad/tourism
+[management]: /program/undergrad/management
 [ai]: https://ai.mgimo.ru
 [digital]: /program/masters/digital-finance
 [event]: https://event.mgimo.ru/
@@ -78,8 +79,6 @@ weight: 12
 ### Менеджмент в креативных индустриях
 
 (направление подготовки "Менеджмент")
-
-[![][t-badge]][management]
 
 - [Страница программы на сайте факультета][management]
 
