@@ -1,10 +1,10 @@
 ---
-title: "Менеджмент"
-draft: true
+title: "Менеджмент (МКИ)"
+draft: false
 menu:
   docs:
     parent: "undergrad-id"
-weight: 20
+weight: 30
 toc: true
 ---
 
