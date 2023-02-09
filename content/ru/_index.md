@@ -82,6 +82,10 @@ images: []
 
 ## События факультета
 
+### День открытых дверей
+
+{{< youtube PaRg29kjyiA >}}
+
 <!-- Файлы:
 
 /data/banners.yaml
