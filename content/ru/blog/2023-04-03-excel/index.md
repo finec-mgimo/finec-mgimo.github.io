@@ -12,12 +12,14 @@ slug: "dd-spreadsheets-seminar"
 - Как освоение электронных таблиц связано с освоением SQL и датафреймов в R, Python (pandas, polars, vaex) и Julia?
 - Где взять реальные данные для практических кейсов и что будет результатом работы студентов по таким кейсам?
 
+<div class="float-left mr-3 pt-2">
 <img
     src="/images/person/kozlov.jpg"
     alt="Владимир Козлов"
     title="Владимир Козлов"
     class="rounded-photo"
 />
+</div>
 
 Наш гость: Владимир Козлов, главный редактор журнала ["Риск-менеджмент в кредитной организации"](http://www.reglament.net/bank/r/2022_4.htm), к.ю.н., GARP FRM.
 
