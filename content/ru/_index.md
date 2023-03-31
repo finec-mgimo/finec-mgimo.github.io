@@ -82,6 +82,8 @@ images: []
 
 ## События факультета
 
+{{< youtube xRjTENP31CU >}}
+
 {{< youtube PaRg29kjyiA >}}
 
 <!-- Файлы:
