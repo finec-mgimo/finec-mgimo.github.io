@@ -88,7 +88,7 @@ Cтуденты МГИМО, вне зависимости от факульте�
 
 <a href="https://mgimo.ru/people/pritchina/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/4fe/pritchina.jpg"
+    src="https://mgimo.ru/upload/iblock/1f9/7eb075bku0lg7kmg7bcgvab4j5fkua6w/pritchina.jpg"
     alt="Притчина Лариса Сергеевна"
     title="Притчина Лариса Сергеевна"
     class="rounded-photo"
@@ -102,7 +102,7 @@ Cтуденты МГИМО, вне зависимости от факульте�
 
 <a href="https://mgimo.ru/people/pavlovskiy/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/94d/pavlovskiy.jpg"
+    src="https://mgimo.ru/upload/iblock/5fc/pavlovskiy.jpg"
     alt="Павловский Игорь Станиславович"
     title="Павловский Игорь Станиславович"
     class="rounded-photo"
