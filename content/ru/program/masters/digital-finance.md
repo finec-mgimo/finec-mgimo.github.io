@@ -9,7 +9,7 @@ weight: 10
 toc: true
 ---
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/65f2b9d5fc204490b1b6148ab84f456b" title="Цифровые финансы - магистерская программа Финэка МГИМО " allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/11903f62a38846a880c92e86482052b5" title="Цифровые финансы - магистерская программа Финэка МГИМО " allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
 
 ## О программе
 
