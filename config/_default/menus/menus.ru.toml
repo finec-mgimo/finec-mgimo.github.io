@@ -26,7 +26,7 @@
   weight = 30
 
 [[main]]
-  name = "Преподаватели-практики"
+  name = "Преподаватели"
   url = "/teachers/"
   weight = 40
 
