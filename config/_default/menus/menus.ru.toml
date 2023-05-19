@@ -26,9 +26,14 @@
   weight = 30
 
 [[main]]
+  name = "Преподаватели-практики"
+  url = "/teachers/"
+  weight = 40
+
+[[main]]
   name = "Контакты"
   url = "/contacts/"
-  weight = 40
+  weight = 50
 
 [[social]]
   name = "Telegram"
