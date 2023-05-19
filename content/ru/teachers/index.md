@@ -4,7 +4,7 @@ description: "Преподаватели-практики факультета"
 draft: false
 ---
 
-<img src="/content/ru/teachers/pictures/Osip_Burlov.jpeg" width="100" height="120" alt="Осип Бурлов"/>
+<img src="Osip_Burlov.jpeg" width="100" height="120" alt="Осип Бурлов"/>
 
 ### Осип Бурлов (Zuzan)
 Стартапы - Финтех - Рынки Азии
