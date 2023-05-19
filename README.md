@@ -1,65 +1,35 @@
-# v2
-Материалы для сайта Финэк МГИМО
+# Сайт Финэка МГИМО
 
-## Cсылки
+Здесь находится проект, позволяющий создать, редактировать и выложить в Интернет сайт факультета финансовой экономики МГИМО.
 
-- Сайт: https://epogrebnyak.github.io/
-- Материалы: https://github.com/finec-mgimo/v2/
-- Основа: https://epogrebnyak.gitlab.io/doks-howto
+Инструкции в этом файле необходимы для:
 
-## Сайты
+1. редакторов и авторов материалов (пишут новые материалы, интересные абитуриентам, студентам и выпускникам)
+2. верстальщиков текстов (переводят текст в формат markdown, используют средства шаблона Hugo/Doks для улучшения форматирования)
+3. специалистов по созданию сайтов, настройке и использованию Hugo/Doks (меняют шаблоны документов, разделы и внешний вид сайтов)
 
-- https://finec.mgimo.ru/ и https://github.com/finec-mgimo/finec-mgimo.github.io
-- https://mgimo.ru/study/faculty/ffe/
-- https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki
-- новости факультета финансовой эконмоики на сайте https://odin.mgimo.ru/all-news
-- https://english.mgimo.ru/structure/schools/school-of-financial-economy
-- [`site:https://odin.mgimo.ru/nov-pod-mgimo/ погребняк`](https://github.com/finec-mgimo/v2/edit/main/README.md)
+Ключевые моменты:
 
-## Типы материалов
+- Работа с документацией на Github отличается от более привычных систем управления сайтом (например, Joomla), не пугайтесь
+- Исходные материалы сайта находятся в https://github.com/finec-mgimo/finec-mgimo.github.io/tree/main/content/ru, попробуйте полистать их
+- Статический генератор запускает сборку сайта из шаблона и исходных материалов и у нас получается html сайт, который в нашем случае выкладывается на Github Pages
+- Ход работ мы стараемся отслеживать в ["ишьюс"](https://github.com/finec-mgimo/finec-mgimo.github.io/issues)
 
-- события
-- куда поступить (наши программы)
-- интервью и выступления декана
-- кто мы такие (who we are) - кафедры и люди
+## Вам потребуются
 
-## Публикации
+1. git, чтобы работать с системой контроля версий
+2. [node](https://nodejs.org/en/download/), чтобы управлять шаблоном Doks для Hugo 
+3. текстовый редактор, такой как VSCode (или другой, который вы предпочитаете)
 
-- исправить и улучшить базовые материалы о факультете
-- блог факультета
-- новое оформление сайта
+## Как запустить сервер локально 
 
-# В блог 
+```
+git clone https://github.com/finec-mgimo/finec-mgimo.github.io finec
+cd finec
+npm install
+npm run server
+```
 
-- конференции кафедр
-- семинар "Магия и реальность машинного бучения"
-- выступление на митапе
-- просмотр документального фильма
-- соревнования по программированию
-- блог пост про то как развивался Causal Inference caйт, как пример
- 
-# Идеи
+## Документация для разработчиков
 
-- как сделать голосовалки 
-- проанализировать результаты Google аналитики на текущем сайте finec.mgimo.ru
-
-## TODO
-
-- [ ] что полезно и интересно нашим читателям
-- [ ] что новое мы можем сказать для читателей
-- [ ] нужен ли нам телеграм канал или другие медиа
-- [ ] как измерять нашу медиа-эффективность
-
-## Список новостей
-
-- https://odin.mgimo.ru/nov-pod-mgimo/4040-den-otkrytykh-dverej-fakulteta-finansovoj-ekonomiki-dlya-studentov-kolledzha-mgimo
-- https://odin.mgimo.ru/news/3929-den-otkrytykh-dverej-v-mgimo-odintsovo-2
-- https://odin.mgimo.ru/nov-pod-mgimo/3924-dekan-e-v-pogrebnyak-abiturientam-fakulteta-finansovoj-ekonomiki
-- https://odin.mgimo.ru/nov-pod-mgimo/3842-intervyu-dekana-fakulteta-finansovoj-ekonomiki-e-v-pogrebnyaka
-- https://odin.mgimo.ru/nov-pod-mgimo/3812-programma-finansovyj-menedzhment
-- https://odin.mgimo.ru/nov-pod-mgimo/3809-programma-informatsionnye-tekhnologii-v-mezhdunarodnom-biznese
-- https://odin.mgimo.ru/news/3801-seminar-magiya-i-realnost-mashinnogo-obucheniya-finek-mgimo-i-kompanii-google
-- https://odin.mgimo.ru/all-news?start=368
-- https://odin.mgimo.ru/nov-pod-mgimo/3589-rasshirennyj-sovet-fakulteta-finansovoj-ekonomiki-progolosoval-po-kandidature-dekana-fakulteta
-
-
+- [Дополнительные компоненты](docs/shortcodes.md)

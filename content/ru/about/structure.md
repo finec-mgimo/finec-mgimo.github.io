@@ -12,7 +12,7 @@ weight: 30
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
 <img
-    src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
+    src="/images/person/epogrebnyak2.jpg"
     alt="Погребняк Евгений Владимирович"
     title="Погребняк Евгений Владимирович"
     class="rounded-photo"
@@ -79,7 +79,7 @@ weight: 30
 ##### О кафедре
 
 - [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-ekonomiki-i-finansov/)
-- [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kef/)
+- [на портале mgimo.ru](https://mgimo.ru/study/faculty/ffe/kef/)
 
 ##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kef/employees/)
 
@@ -99,7 +99,7 @@ weight: 30
 ##### О кафедре
 
 - [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-menedzhmenta/)
-- [на сайте mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmen/)
+- [на портале mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmen/)
 
 ##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kmen/employees/)
 
@@ -107,14 +107,14 @@ weight: 30
 
 <a href="https://mgimo.ru/people/pritchina/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/4fe/pritchina.jpg"
+    src="https://mgimo.ru/upload/iblock/ec0/rj0a0kejjeuukzeboym03w0nwqvlme3p/pritchina.jpg"
     alt="Притчина Лариса Сергеевна"
     title="Притчина Лариса Сергеевна"
     class="rounded-photo"
   />
 </a>
 
-[Притчина Лариса Сергеевна](https://mgimo.ru/people/vasilyuk/),
+[Притчина Лариса Сергеевна](https://mgimo.ru/people/pritchina/),
 зав. кафедрой математических методов и бизнес-информатики,
 заместитель директора Одинцовского кампуса МГИМО,
 кандидат технических наук, доцент.
@@ -122,7 +122,7 @@ weight: 30
 ##### О кафедре
 
 - [на сайте odin.mgimo.ru](https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki/kafedra-matematicheskikh-metodov-i-biznes-informatiki)
-- [на сайте odin.mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmmbi/)
+- [на портале mgimo.ru](https://mgimo.ru/study/faculty/ffe/kmmbi/)
 
 ##### [:blue_book: Сотрудники кафедры](https://mgimo.ru/study/faculty/ffe/kmmbi/employees/)
 
@@ -130,7 +130,7 @@ weight: 30
 
 <a href="https://mgimo.ru/people/abramova-anna/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/886/886ee3acf577dc8d005e2ad24615f1ff.jpg"
+    src="https://mgimo.ru/upload/iblock/144/ayk7civkwm87iyzpm27sfuop07l9gw72/abramova.jpg"
     alt="Абрамова Анна Владимировна"
     title="Абрамова Анна Владимировна"
     class="rounded-photo"

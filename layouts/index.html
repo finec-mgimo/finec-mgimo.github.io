@@ -3,11 +3,13 @@
 		<div class="col-lg-5 col-xl-4 docs-sidebar">
 			<nav class="docs-links" aria-label="Main navigation">
 				{{ partial "sidebar/docs-menu.html" . }}
-			</nav>        
+			</nav>
         </div>
         <nav class="docs-toc d-none d-xl-block col-xl-3" aria-label="Secondary navigation">
 			<div class="logo-wrapper">
-				<img src="{{.Site.BaseURL}}{{ .Site.Params.logomgimo }}" class="rounded mb-4" alt="логотип ФИНЭК МГИМО">
+				<a href="{{ .Site.Params.linkmgimo }}">
+          <img src="{{.Site.BaseURL}}{{ .Site.Params.logomgimo }}" class="rounded mb-4" alt="логотип ФИНЭК МГИМО">
+        </a>
 				<img src="{{.Site.BaseURL}}{{ .Site.Params.logofinec }}" class="rounded" alt="логотип ФИНЭК МГИМО">
 			  </div>
 		{{ if ne .Params.toc false -}}

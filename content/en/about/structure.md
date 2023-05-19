@@ -12,7 +12,7 @@ weight: 30
 
 <a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
 <img
-    src="https://mgimo.ru/upload/iblock/341/pogrebnyak.jpg"
+    src="/images/person/epogrebnyak2.jpg"
     alt="Погребняк Евгений Владимирович"
     title="Погребняк Евгений Владимирович"
     class="rounded-photo"
@@ -98,14 +98,14 @@ TODO VМ: добавить фото и текст
 
 <a href="https://mgimo.ru/people/pritchina/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/4fe/pritchina.jpg"
+    src="https://mgimo.ru/upload/iblock/ec0/rj0a0kejjeuukzeboym03w0nwqvlme3p/pritchina.jpg"
     alt="Притчина Лариса Сергеевна"
     title="Притчина Лариса Сергеевна"
     class="rounded-photo"
   />
 </a>
 
-[Притчина Лариса Сергеевна](https://mgimo.ru/people/vasilyuk/),
+[Притчина Лариса Сергеевна](https://mgimo.ru/people/pritchina/),
 зав. кафедрой математических методов и бизнес-информатики,
 заместитель директора Одинцовского кампуса МГИМО,
 кандидат технических наук, доцент.
@@ -121,14 +121,16 @@ TODO VМ: добавить фото и текст
 
 <a href="https://mgimo.ru/people/abramova-anna/" class="float-left mr-3 pt-2">
   <img
-    src="https://mgimo.ru/upload/iblock/886/886ee3acf577dc8d005e2ad24615f1ff.jpg"
+    src="https://mgimo.ru/upload/iblock/144/ayk7civkwm87iyzpm27sfuop07l9gw72/abramova.jpg"
     alt="Абрамова Анна Владимировна"
     title="Абрамова Анна Владимировна"
     class="rounded-photo"
   />
 </a>
 
-Абрамова Анна Владимировна, зав. кафедрой цифровой экономики и искусственного интеллекта группы компаний АДВ, кандидат экономических наук, доцент
+[Абрамова Анна Владимировна](https://mgimo.ru/people/abramova-anna/),
+зав. кафедрой цифровой экономики и искусственного интеллекта группы компаний АДВ,
+кандидат экономических наук, доцент
 
 **О кафедре**:
 

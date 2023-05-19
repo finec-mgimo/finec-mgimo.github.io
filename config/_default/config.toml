@@ -24,8 +24,8 @@ defaultContentLanguage = "ru"
     ## Homepage
     title = "Finec MGIMO"
     titleSeparator = "-"
-    titleAddition = "Go to Finec MGIMO"
-    description = "Finec MGIMO official website. Admission to the Faculty of Financial Economics of MGIMO."
+    titleAddition = "About Finec MGIMO"
+    description = "Faculty of Financial Economics at MGIMO University Odinstovo Campus"
     languageName = "EN"
     contentDir = "content/en"
     weight = 2
@@ -33,6 +33,9 @@ defaultContentLanguage = "ru"
 [params]
   logofinec = "/finec-mgimo-footer.png"
   logomgimo = "/MGIMO_Odin-ru-cuted.png"
+  linkmgimo = "https://odin.mgimo.ru/"
+  yandexMetrika = "89232698"
+  gaMeasurementId = "G-FT4YJWWBMK"
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
@@ -119,3 +122,6 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/clipboard"
     target = "assets/js/vendor/clipboard"
+  [[module.mounts]]
+    source = "node_modules/mermaid"
+    target = "assets/js/vendor/mermaid"
