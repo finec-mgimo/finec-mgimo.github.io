@@ -1,11 +1,10 @@
 ---
 title: "Партнеры факультета"
-description: "С кем сотрудничает факультет: наши индустриальные и образовательные партнеры"
+description: "С какими организациями сотрудничает факультет: наши индустриальные и образовательные партнеры"
 date: 2021-05-20
 lastmod: 2021-06-26
 draft: false
-#images: []
-weight: 12
+weight: 14
 toc: true
 ---
 
@@ -23,5 +22,5 @@ toc: true
 
 {{< carousel data-file-name="partners" items="1" full-height="515" height="425" unit="px" duration="4000" >}}
 
-- [20.05.2022 — S8 Capital](https://odin.mgimo.ru/nov-pod-mgimo/5407-studenty-fakulteta-finansovoj-ekonomiki-posetili-ofis-s8-capital)
-- [18.05.2022 — Газпромбанк](https://odin.mgimo.ru/nov-pod-mgimo/5387-studenty-odintsovskogo-filiala-mgimo-posetili-gazprombank)
+[S8 Capital](https://odin.mgimo.ru/nov-pod-mgimo/5407-studenty-fakulteta-finansovoj-ekonomiki-posetili-ofis-s8-capital) - 
+[Газпромбанк](https://mgimo.ru/about/news/social/studenty-odintsovskogo-filiala-mgimo-posetili-gazprombank/?ysclid=lhvlxjezje551971164)
