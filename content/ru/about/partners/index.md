@@ -22,5 +22,5 @@ toc: true
 
 {{< carousel data-file-name="partners" items="1" full-height="515" height="425" unit="px" duration="4000" >}}
 
-[S8 Capital](https://odin.mgimo.ru/nov-pod-mgimo/5407-studenty-fakulteta-finansovoj-ekonomiki-posetili-ofis-s8-capital) - 
+[S8 Capital](https://odin.mgimo.ru/nov-pod-mgimo/5407-studenty-fakulteta-finansovoj-ekonomiki-posetili-ofis-s8-capital) -
 [Газпромбанк](https://mgimo.ru/about/news/social/studenty-odintsovskogo-filiala-mgimo-posetili-gazprombank/?ysclid=lhvlxjezje551971164)
