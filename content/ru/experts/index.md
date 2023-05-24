@@ -8,62 +8,62 @@ images: []
 weight: 16
 ---
 
-<img src="Osip_Burlov.jpeg" width="220" height="300" alt="Осип Бурлов"/>
-
 ### Осип Бурлов (Zuzan)
+
+<img src="Osip_Burlov.jpeg" width="220" height="300" alt="Осип Бурлов"/>
 
 Стартапы - Финтех - Рынки Азии
 
-<img src="Ruslan_Gulevich.jpg" width="220" height="300" alt="Руслан Гулевич"/>
-
 ### Руслан Гулевич (Илим)
+
+<img src="Ruslan_Gulevich.jpg" width="220" height="300" alt="Руслан Гулевич"/>
 
 Цифровая трансформация - Словарь бизнеса
 
-<img src="Zakhar_Kalmykov.jpg" width="220" height="300" alt="Захар Калмыков"/>
-
 ### Захар Калмыков (ГК Родина)
+
+<img src="Zakhar_Kalmykov.jpg" width="220" height="300" alt="Захар Калмыков"/>
 
 Цифровой финдиректор - Digital CFO
 
-<img src="Vladimir_Kozlov.jpg" width="220" height="300" alt="Владимир Козлов"/>
-
 ### Владимир Козлов (ИД Регламаент)
+
+<img src="Vladimir_Kozlov.jpg" width="220" height="300" alt="Владимир Козлов"/>
 
 Управление рисками - Управление данными
 
-<img src="male_profile_picture.jpg" width="220" height="300" alt="Иван Коршиков"/>
-
 ### Иван Коршиков (Тинькофф)
+
+<img src="male_profile_picture.jpg" width="220" height="300" alt="Иван Коршиков"/>
 
 Финансовые рынки - Валютный трейдинг
 
-<img src="Julia_Lebedeva.jpg" width="220" height="300" alt="Юлия Лебедева"/>
-
 ### Юлия Лебедева (Авиа Центр)
+
+<img src="Julia_Lebedeva.jpg" width="220" height="300" alt="Юлия Лебедева"/>
 
 Корпоративные финансы
 
-<img src="Maria_Marakueva.jpg" width="220" height="300" alt="Мария Маракуева"/>
-
 ### Мария Маракуева (ЕУ)
+
+<img src="Maria_Marakueva.jpg" width="220" height="300" alt="Мария Маракуева"/>
 
 Управление рисками - Бановские технологии
 
-<img src="Alexander_Poludnitsyn.jpg" width="220" height="300" alt="Александр Полудницын"/>
-
 ### Александр Полудницын (НСПК)
+
+<img src="Alexander_Poludnitsyn.jpg" width="220" height="300" alt="Александр Полудницын"/>
 
 Платежные системы
 
-<img src="female_profile_picture.jpg" width="220" height="300" alt="Виктория Федотова"/>
-
 ### Виктория Федотова (Мастерчейн)
+
+<img src="female_profile_picture.jpg" width="220" height="300" alt="Виктория Федотова"/>
 
 Цифровые финансовые активы
 
-<img src="male_profile_picture.jpg" width="220" height="300" alt="Дмитрий Якубовский"/>
-
 ### Дмитрий Якубовский (Сбер)
+
+<img src="male_profile_picture.jpg" width="220" height="300" alt="Дмитрий Якубовский"/>
 
 ИТ в банках - Старт карьеры
