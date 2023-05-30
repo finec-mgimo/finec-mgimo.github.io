@@ -58,7 +58,7 @@ weight: 16
 
 ### Виктория Федотова (Мастерчейн)
 
-<img src="female_profile_picture.jpg" width="220" height="300" alt="Виктория Федотова" style="border-radius: 50%"/>
+<img src="Victoria _Fedotova.jpg" width="220" height="300" alt="Виктория Федотова" style="border-radius: 50%"/>
 
 Цифровые финансовые активы
 
