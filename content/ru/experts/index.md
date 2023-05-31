@@ -10,60 +10,114 @@ weight: 16
 
 ### Осип Бурлов (Zuzan)
 
-<img src="Osip_Burlov.jpeg" width="150" height="150" alt="Осип Бурлов"  style="border-radius: 50%"/>
+<img src="Osip_Burlov.jpeg" width="150" height="150" alt="Осип Бурлов"  style="border-radius: 50%" align="left"/>
 
-Стартапы - Финтех - Рынки Азии
+**Стартапы - Финтех - Рынки Азии**
+<br>[Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Руслан Гулевич (Илим)
 
-<img src="Ruslan_Gulevich.jpg" width="150" height="150" alt="Руслан Гулевич" style="border-radius: 50%"/>
+<img src="Ruslan_Gulevich.jpg" width="150" height="150" alt="Руслан Гулевич" style="border-radius: 50%" align="left"/>
 
-Цифровая трансформация - Словарь бизнеса
+**Цифровая трансформация - Словарь бизнеса**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Захар Калмыков (ГК Родина)
 
-<img src="Zakhar_Kalmykov.jpg" width="150" height="150" alt="Захар Калмыков" style="border-radius: 50%"/>
+<img src="Zakhar_Kalmykov.jpg" width="150" height="150" alt="Захар Калмыков" style="border-radius: 50%" align="left"/>
 
-Цифровой финдиректор - Digital CFO
+**Цифровой финдиректор - Digital CFO**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Владимир Козлов (ИД Регламаент)
 
-<img src="Vladimir_Kozlov.jpg" width="150" height="150" alt="Владимир Козлов" style="border-radius: 50%"/>
+<img src="Vladimir_Kozlov.jpg" width="150" height="150" alt="Владимир Козлов" style="border-radius: 50%" align="left"/>
 
-Управление рисками - Управление данными
+**Управление рисками - Управление данными**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Иван Коршиков (Тинькофф)
 
-<img src="male_profile_picture.jpg" width="150" height="150" alt="Иван Коршиков" style="border-radius: 50%"/>
+<img src="male_profile_picture.jpg" width="150" height="150" alt="Иван Коршиков" style="border-radius: 50%" align="left"/>
 
-Финансовые рынки - Валютный трейдинг
+**Финансовые рынки - Валютный трейдинг**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Юлия Лебедева (Авиа Центр)
 
-<img src="Julia_Lebedeva.jpg" width="150" height="150" alt="Юлия Лебедева" style="border-radius: 50%"/>
+<img src="Julia_Lebedeva.jpg" width="150" height="150" alt="Юлия Лебедева" style="border-radius: 50%" align="left"/>
 
-Корпоративные финансы
+**Корпоративные финансы**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Мария Маракуева (ЕУ)
 
-<img src="Maria_Marakueva.jpg" width="150" height="150" alt="Мария Маракуева" style="border-radius: 50%"/>
+<img src="Maria_Marakueva.jpg" width="150" height="150" alt="Мария Маракуева" style="border-radius: 50%" align="left"/>
 
-Управление рисками - Бановские технологии
+**Управление рисками - Бановские технологии**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Александр Полудницын (НСПК)
 
-<img src="Alexander_Poludnitsyn.jpg" width="150" height="150" alt="Александр Полудницын" style="border-radius: 50%"/>
+<img src="Alexander_Poludnitsyn.jpg" width="150" height="150" alt="Александр Полудницын" style="border-radius: 50%" align="left"/>
 
-Платежные системы
+**Платежные системы**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Виктория Федотова (Мастерчейн)
 
-<img src="Victoria _Fedotova.jpg" width="150" height="150" alt="Виктория Федотова" style="border-radius: 50%"/>
+<img src="Victoria _Fedotova.jpg" width="150" height="150" alt="Виктория Федотова" style="border-radius: 50%" align="left"/>
 
-Цифровые финансовые активы
+**Цифровые финансовые активы**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Дмитрий Якубовский (Сбер)
 
-<img src="male_profile_picture.jpg" width="150" height="150" alt="Дмитрий Якубовский" style="border-radius: 50%"/>
+<img src="male_profile_picture.jpg" width="150" height="150" alt="Дмитрий Якубовский" style="border-radius: 50%" align="left"/>
 
-ИТ в банках - Старт карьеры
+**ИТ в банках - Старт карьеры**
