@@ -13,7 +13,7 @@ weight: 16
 <img src="Osip_Burlov.jpeg" alt="Осип Бурлов" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Стартапы - Финтех - Рынки Азии**
-- [Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
+<br>&nbsp;[Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ weight: 16
 <img src="Ruslan_Gulevich.jpg" alt="Руслан Гулевич" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровая трансформация - Словарь бизнеса**
-- [Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)
+<br>&nbsp;[Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)
 <br>
 <br>
 <br>
@@ -85,7 +85,7 @@ weight: 16
 <img src="Maria_Marakueva.jpg" alt="Мария Маракуева" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Управление рисками - Бановские технологии**
-- [Лекция "Банковские риски — как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
+<br>&nbsp;[Лекция "Банковские риски — как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
 <br>
 <br>
 <br>
@@ -109,7 +109,7 @@ weight: 16
 <img src="Victoria _Fedotova.jpg" alt="Виктория Федотова" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровые финансовые активы**
-- [Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)
+<br>&nbsp;[Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)
 <br>
 <br>
 <br>
