@@ -25,6 +25,7 @@ weight: 16
 <img src="Ruslan_Gulevich.jpg" alt="Руслан Гулевич" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровая трансформация - Словарь бизнеса**
+<br>[Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)
 <br>
 <br>
 <br>
@@ -80,12 +81,12 @@ weight: 16
 <br>
 <br>
 
-### Мария Маракуева (ЕУ)
+### Мария Маракуева (Европейский университет)
 
 <img src="Maria_Marakueva.jpg" alt="Мария Маракуева" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Управление рисками - Бановские технологии**
-<br>
+<br>[Лекция "Банковские риски — как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
 <br>
 <br>
 <br>
@@ -122,3 +123,27 @@ weight: 16
 <img src="male_profile_picture.jpg" alt="Дмитрий Якубовский" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **ИТ в банках - Старт карьеры**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Михаил Горст (ВЭБ)
+
+<img src="male_profile_picture.jpg" alt="Михаил Горст" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
+
+**Институциональная экономика**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Павел Самиев (Бизнес-Дром/ex-Ингосстрах)
+
+<img src="male_profile_picture.jpg" alt="Павел Самиев" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
+
+**Финансовые рынки**
