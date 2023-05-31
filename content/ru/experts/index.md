@@ -13,7 +13,7 @@ weight: 16
 <img src="Osip_Burlov.jpeg" alt="Осип Бурлов" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Стартапы - Финтех - Рынки Азии**
-<br>&nbsp;&nbsp;[Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
+<br>&nbsp;&nbsp;- [Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ weight: 16
 <img src="Ruslan_Gulevich.jpg" alt="Руслан Гулевич" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровая трансформация - Словарь бизнеса**
-<br>&nbsp;&nbsp;[Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)
+<br>&nbsp;&nbsp; - [Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)
 <br>
 <br>
 <br>
@@ -84,7 +84,7 @@ weight: 16
 <img src="Maria_Marakueva.jpg" alt="Мария Маракуева" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Управление рисками - Бановские технологии**
-<br>&nbsp;&nbsp;[Лекция "Банковские риски - как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
+<br>&nbsp;&nbsp; - [Лекция "Банковские риски - как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
 <br>
 <br>
 <br>
@@ -108,7 +108,7 @@ weight: 16
 <img src="Victoria _Fedotova.jpg" alt="Виктория Федотова" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровые финансовые активы**
-<br>&nbsp;&nbsp;[Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)
+<br>&nbsp;&nbsp; - [Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)
 <br>
 <br>
 <br>
@@ -118,10 +118,10 @@ weight: 16
 
 ### Дмитрий Якубовский (Сбер)
 
-<img src="male_profile_picture.jpg" alt="Дмитрий Якубовский" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
+<img src="Dmitry_Yakubovsky.jpg" alt="Дмитрий Якубовский" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **ИТ в банках - Старт карьеры**
-<br>
+<br>&nbsp;&nbsp; - [Мастер-класс "Текущее состояние рынка труда в ИТ-секторе"](https://mgimo.ru/about/news/departments/yakubovskiy/)
 <br>
 <br>
 <br>
@@ -130,10 +130,10 @@ weight: 16
 
 ### Михаил Горст (ВЭБ)
 
-<img src="male_profile_picture.jpg" alt="Михаил Горст" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
+<img src="Mikhail_Gorst.jpg" alt="Михаил Горст" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Институциональная экономика**
-<br>
+<br>&nbsp;&nbsp; - [Мастер-класс "Новая институциональная экономика"](https://odin.mgimo.ru/about/news/departments/gorst/)
 <br>
 <br>
 <br>
@@ -142,6 +142,7 @@ weight: 16
 
 ### Павел Самиев (Бизнес-Дром/ex-Ингосстрах)
 
-<img src="male_profile_picture.jpg" alt="Павел Самиев" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
+<img src="Pavel_Samiev.jpg" alt="Павел Самиев" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Финансовые рынки**
+<br>&nbsp;&nbsp; - [Лекция "Современная структура финансового рынка России"](https://odin.mgimo.ru/about/news/departments/samiev/)
