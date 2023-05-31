@@ -10,7 +10,7 @@ weight: 16
 
 ### Осип Бурлов (Zuzan)
 
-<img src="Osip_Burlov.jpeg" width="150" height="150" alt="Осип Бурлов"  style="border-radius: 50%" align="left" overflow="hidden"/>
+<img src="Osip_Burlov.jpeg" alt="Осип Бурлов" style="border-radius: 50%; width:150px; height:150px;" align="left" overflow="hidden"/>
 
 **Стартапы - Финтех - Рынки Азии**
 <br>[Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
