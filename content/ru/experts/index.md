@@ -25,7 +25,8 @@ weight: 16
 <img src="Ruslan_Gulevich.jpg" alt="Руслан Гулевич" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровая трансформация - Словарь бизнеса**
-<br>&nbsp;&nbsp; - [Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)</font>
 <br>
 <br>
 <br>
@@ -84,7 +85,8 @@ weight: 16
 <img src="Maria_Marakueva.jpg" alt="Мария Маракуева" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Управление рисками - Бановские технологии**
-<br>&nbsp;&nbsp; - [Лекция "Банковские риски - как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Лекция "Банковские риски - как управлять неизвестным?"](https://finec.mgimo.ru/blog/marakueva-lecture-how-to-control-uncertainty/)</font>
 <br>
 <br>
 <br>
@@ -108,7 +110,8 @@ weight: 16
 <img src="Victoria _Fedotova.jpg" alt="Виктория Федотова" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровые финансовые активы**
-<br>&nbsp;&nbsp; - [Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)</font>
 <br>
 <br>
 <br>
@@ -121,7 +124,8 @@ weight: 16
 <img src="Dmitry_Yakubovsky.jpg" alt="Дмитрий Якубовский" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **ИТ в банках - Старт карьеры**
-<br>&nbsp;&nbsp; - [Мастер-класс "Текущее состояние рынка труда в ИТ-секторе"](https://mgimo.ru/about/news/departments/yakubovskiy/)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Мастер-класс "Текущее состояние рынка труда в ИТ-секторе"](https://mgimo.ru/about/news/departments/yakubovskiy/)</font>
 <br>
 <br>
 <br>
@@ -133,7 +137,8 @@ weight: 16
 <img src="Mikhail_Gorst.jpg" alt="Михаил Горст" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Институциональная экономика**
-<br>&nbsp;&nbsp; - [Мастер-класс "Новая институциональная экономика"](https://odin.mgimo.ru/about/news/departments/gorst/)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Мастер-класс "Новая институциональная экономика"](https://odin.mgimo.ru/about/news/departments/gorst/)</font>
 <br>
 <br>
 <br>
@@ -145,4 +150,5 @@ weight: 16
 <img src="Pavel_Samiev.jpg" alt="Павел Самиев" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Финансовые рынки**
-<br>&nbsp;&nbsp; - [Лекция "Современная структура финансового рынка России"](https://odin.mgimo.ru/about/news/departments/samiev/)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Лекция "Современная структура финансового рынка России"](https://odin.mgimo.ru/about/news/departments/samiev/)</font>
