@@ -13,13 +13,13 @@ weight: 16
 <img src="Osip_Burlov.jpeg" alt="Осип Бурлов" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Стартапы - Финтех - Рынки Азии**
-<br>&nbsp;&nbsp;- [Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)
+<br>
+<font size ="2">&nbsp;&nbsp;- [Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)</font>
 <br>
 <br>
 <br>
 <br>
 <br>
-
 ### Руслан Гулевич (Илим)
 
 <img src="Ruslan_Gulevich.jpg" alt="Руслан Гулевич" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
