@@ -109,6 +109,7 @@ weight: 16
 <img src="Victoria _Fedotova.jpg" alt="Виктория Федотова" style="border-radius: 50%; width:150px; height:170px;" align="left" overflow="hidden"/>
 
 **Цифровые финансовые активы**
+<br>[Tech Week 2022 в Сколково](https://www.masterchain.ru/news/mastercheyn-prinyala-uchastie-v-rabote-tech-week-2022-v-skolkovo/?ysclid=li1jhbksvf20498695)
 <br>
 <br>
 <br>
