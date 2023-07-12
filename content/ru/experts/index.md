@@ -101,7 +101,7 @@ weight: 16
 
 **Платежные системы**
 <br>
-<br>
+<font size ="2">&nbsp;&nbsp;- [От майнора по предпринимательству до магистратуры по Инноватике](https://www.hse.ru/inman/news/796736389.html)</font>
 <br>
 <br>
 <br>
