@@ -39,7 +39,7 @@ weight: 16
 
 **Цифровой финдиректор - Digital CFO**
 <br>
-<br>
+<font size ="2">&nbsp;&nbsp;- [Как поменялась экономика девелоперского проекта – 5 новых тенденций](https://www.mirkvartir.ru/journal/news/2022/05/30/rodina/)</font>
 <br>
 <br>
 <br>
@@ -51,7 +51,7 @@ weight: 16
 
 **Управление рисками - Управление данными**
 <br>
-<br>
+<font size ="2">&nbsp;&nbsp;- [Программные продукты в области риск-менеджмента](http://raisk.ru/)</font>
 <br>
 <br>
 <br>
