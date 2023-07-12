@@ -15,7 +15,7 @@ weight: 16
 **Стартапы - Финтех - Рынки Азии**
 <br>
 <font size ="2">&nbsp;&nbsp;- [Мастер-класс по бизнес-моделям в финтехе](https://finec.mgimo.ru/blog/fintech-meeting-osip-burlov/)</font>
-
+<br>
 <font size ="2">&nbsp;&nbsp;- [Как в 22 года создать онлайн-конструктор мероприятий](https://rb.ru/young/zuzan/)</font>
 <br>
 <br>
