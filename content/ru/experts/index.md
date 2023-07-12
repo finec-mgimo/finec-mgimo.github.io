@@ -41,7 +41,7 @@ weight: 16
 
 **Цифровой финдиректор - Digital CFO**
 <br>
-<font size ="2">&nbsp;&nbsp;- [Как поменялась экономика девелоперского проекта – 5 новых тенденций](https://www.mirkvartir.ru/journal/news/2022/05/30/rodina/)</font>
+<font size ="2">&nbsp;&nbsp;- [Как поменялась экономика девелоперского проекта](https://www.mirkvartir.ru/journal/news/2022/05/30/rodina/)</font>
 <br>
 <br>
 <br>
