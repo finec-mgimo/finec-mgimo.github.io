@@ -21,7 +21,6 @@ weight: 16
 <br>
 <br>
 <br>
-<br>
 ### Руслан Гулевич (Илим)
 
 <img src="Ruslan_Gulevich.jpg" alt="Руслан Гулевич" style="border-radius: 50%; width:150px; height:150px;" align="left" overflow="hidden"/>
