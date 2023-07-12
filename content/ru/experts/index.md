@@ -29,7 +29,7 @@ weight: 16
 <br>
 <font size ="2">&nbsp;&nbsp;- [Лекция "Цифровая трансформация. Люди. Культура. Язык."](https://finec.mgimo.ru/blog/gulevich-digital-transformation/)</font>
 <br>
-<br>
+<font size ="2">&nbsp;&nbsp;- [Мастер-класс по развитию цифровых технологий](https://odin.mgimo.ru/about/news/departments/5749-master-klass-direktora-po-razvitiyu-tsifrovykh-tekhnologij-ao-gruppa-ilim-pobeditelya-konkursa-lidery-rossii-2020-ruslana-gulevicha-na-fineke-mgimo/)</font>
 <br>
 <br>
 <br>
