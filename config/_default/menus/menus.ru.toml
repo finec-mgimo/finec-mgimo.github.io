@@ -26,14 +26,19 @@
   weight = 30
 
 [[main]]
+  name = "Клубы"
+  url = "/clubs/"
+  weight = 40
+  
+[[main]]
   name = "Эксперты"
   url = "/experts/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Контакты"
   url = "/contacts/"
-  weight = 50
+  weight = 60
 
 [[social]]
   name = "Telegram"
