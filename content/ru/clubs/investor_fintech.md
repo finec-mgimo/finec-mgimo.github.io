@@ -26,6 +26,7 @@ weight: 10
 
 Объявление о первом заседании будет на сайте
 
-<img src="Afonina.jpg" alt="Афонина Вера Евгеньевна" style="border-radius: 50%; width:150px; height:150px;" align="left" overflow="hidden"/>
+<img src="Afonina.jpg" alt="Афонина Вера" style="border-radius: 50%; width:150px; height:150px;" align="left" overflow="hidden"/>
+
 Афонина Вера Евгеньевна, куратор клуба «Инвестор Финтеха»
 (доц. кафедры ЭиФ, квал. инвестор.)
