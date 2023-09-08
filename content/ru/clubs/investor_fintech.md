@@ -1,7 +1,7 @@
 ---
 title: "Инвестор Финтеха"
-date: 2023-09-08
-lastmod: 2023-09-08
+date: 2023-09-07
+lastmod: 2023-09-07
 draft: false
 images: []
 weight: 10
