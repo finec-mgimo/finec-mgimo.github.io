@@ -24,6 +24,16 @@ weight: 10
 
 **Работа клуба:** 2-4 раза в месяц (онлайн-офлайн)
 
+Группа студенческого клуба «Инвестор Финтеха» в Telegram -
+<a href="https://t.me/+bxerDInHBhNmMzdi">
+  <img
+    src="telegram.svg"
+    alt="Telegram"
+    title="Telegram"
+    style="width:30px; height:30px; margin-top: 5px;"
+  />
+</a>
+
 Желающие заполняют анкету (406 к.)
 
 Объявление о первом заседании будет на сайте
