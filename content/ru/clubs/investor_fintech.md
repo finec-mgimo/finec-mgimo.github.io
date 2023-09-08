@@ -26,7 +26,14 @@ weight: 10
 
 Объявление о первом заседании будет на сайте
 
-<img src="Afonina.jpg" alt="Афонина Вера" style="border-radius: 50%; width:150px; height:150px;" align="left" overflow="hidden"/>
+<a href="https://odin.mgimo.ru/people/afonina/" class="float-left mr-3 pt-2">
+  <img
+    src="https://odin.mgimo.ru/upload/iblock/2bf/afonina.jpg"
+    alt="Афонина Вера Евгеньевна"
+    title="Афонина Вера Евгеньевна"
+    class="rounded-photo"
+  />
+</a>
 
 Афонина Вера Евгеньевна, куратор клуба «Инвестор Финтеха»
 (доц. кафедры ЭиФ, квал. инвестор.)
