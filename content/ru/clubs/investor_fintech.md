@@ -27,7 +27,6 @@ weight: 10
 
 Группа студенческого клуба «Инвестор Финтеха» в **[Telegram.](https://t.me/+bxerDInHBhNmMzdi)**
 
-Желающие могут заполнить анкету в 406 кабинете.
 <br>
 <a href="https://odin.mgimo.ru/people/afonina/" class="float-left mr-3 pt-2">
   <img
