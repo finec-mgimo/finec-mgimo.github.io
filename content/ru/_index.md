@@ -82,6 +82,8 @@ images: []
 
 ## События факультета
 
+<iframe src="https://vk.com/video_ext.php?oid=-213393716&id=456239168&hash=1ceeb4202d5a0605" width="640" height="360" frameborder="0" allowfullscreen="1" allow="autoplay; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 {{< youtube xRjTENP31CU >}}
 
 <p>&nbsp;</p>
