@@ -84,6 +84,7 @@ images: []
 
 {{< youtube CVXnIgSHXdk >}}
 
+<p>&nbsp;</p>
 {{< youtube xRjTENP31CU >}}
 
 <p>&nbsp;</p>
