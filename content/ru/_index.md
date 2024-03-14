@@ -114,15 +114,13 @@ images: []
 Ждем вас в Одинцовском кампусе МГИМО МИД России
 
 По адресу: 143007, Московская область, г. Одинцово, 
-ул. Новоспортивная, д.3
+ул. Новоспортивная, д.3, **аудитория 542**
 
-**аудитория 542**
-
-Для участия требуется пройти короткую [регистрацию](https://docs.google.com/forms/d/e/1FAIpQLSfhoS1Zw8kOGH2jVB42lQIVGew5nUZYib39q_MMA7xLQlqg4g/viewform). 
+Для участия требуется пройти короткую **[регистрацию](https://docs.google.com/forms/d/e/1FAIpQLSfhoS1Zw8kOGH2jVB42lQIVGew5nUZYib39q_MMA7xLQlqg4g/viewform)**. 
 Для входа необходимо иметь при себе оригинал паспорта.
 
 
-
+<p>&nbsp;</p>
 {{< youtube CVXnIgSHXdk >}}
 
 <p>&nbsp;</p>
