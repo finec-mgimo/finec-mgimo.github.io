@@ -19,7 +19,7 @@ weight: 10
 
 -->
 
-<img src="/images/logo-google.png" class="float-left mr-3 pt-2">
+<!--img src="/images/logo-google.png" class="float-left mr-3 pt-2"-->
 
 Факультет финансовой экономики МГИМО разарботал 
 онлайн-курс "Управление проектами анализа данных и машинного обучения",
