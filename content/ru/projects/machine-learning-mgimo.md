@@ -1,7 +1,7 @@
 ---
 title: "Анализ данных и машинное обучение"
 date: 2021-06-23
-lastmod: 2021-06-26
+lastmod: 2024-03-21
 draft: false
 images: []
 weight: 10
