@@ -12,7 +12,7 @@ toc: true
 
 [bac-badge]: https://img.shields.io/badge/Бакалавриат-tourism.mgimo.ru-2892D7
 [t-badge]: https://img.shields.io/badge/Туризм-ТиГ-2892D7
-[ege-badge]: https://img.shields.io/badge/ЕГЭ-Русский_|_Иностранный_язык_|_География-2892D7
+[ege-badge]: https://img.shields.io/badge/ЕГЭ-Русский_|_Иностранный_язык_|_История-2892D7
 
 [![бакалавриат][bac-badge]](https://tourism.mgimo.ru/ba/) ![туризм][t-badge]
 
