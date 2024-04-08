@@ -39,6 +39,7 @@ images: []
 
 </center>
 
+<!---
 ![](open_doors_day.png)
 
 Дорогие друзья!
@@ -63,6 +64,7 @@ images: []
 
 Для участия требуется пройти короткую **[регистрацию](https://docs.google.com/forms/d/e/1FAIpQLSfhoS1Zw8kOGH2jVB42lQIVGew5nUZYib39q_MMA7xLQlqg4g/viewform)**. 
 Для входа необходимо иметь при себе оригинал паспорта.
+-->
 
 ## Поступление на Финэк МГИМО
 
