@@ -36,9 +36,14 @@
   weight = 50
 
 [[main]]
+  name = "Стажировки"
+  url = "/internships/"
+  weight = 60
+
+[[main]]
   name = "Контакты"
   url = "/contacts/"
-  weight = 60
+  weight = 70
 
 [[social]]
   name = "Telegram"
