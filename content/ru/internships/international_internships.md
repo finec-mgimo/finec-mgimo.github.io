@@ -1,6 +1,6 @@
 ---
 title: "Международные стажировки"
-date: 204-04-08
+date: 2024-04-08
 lastmod: 2024-04-08
 draft: false
 images: []
