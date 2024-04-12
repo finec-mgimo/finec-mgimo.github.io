@@ -12,19 +12,21 @@ slug: "dd-spreadsheets-seminar"
 - Как освоение электронных таблиц связано с освоением SQL и датафреймов в R, Python (pandas, polars, vaex) и Julia?
 - Где взять реальные данные для практических кейсов и что будет результатом работы студентов по таким кейсам?
 
+<p>&nbsp;</p>
 {{< youtube trAkkxjp8CM >}}
-
-<img src="kozlov.jpg" width="100" height="110" alt="Козлов" class="border-0 rounded-circle float-left mr-3 pt-2">
+<p>&nbsp;</p>
+  
+<img src="kozlov.jpg" width="100" height="100" alt="Козлов" class="border-0 rounded-circle float-left mr-3 pt-2">
 
 Наш гость: Владимир Козлов, главный редактор журнала ["Риск-менеджмент в кредитной организации"](http://www.reglament.net/bank/r/2022_4.htm), к.ю.н., GARP FRM.
 
 Ведущие:
 
-<img src="pogrebnyak.jpg" width="100" height="110" alt="Погребняк" class="border-0 rounded-circle float-right mr-3 pt-2">
+<img src="pogrebnyak.jpg" width="100" height="100" alt="Погребняк" class="border-0 rounded-circle float-right mr-3 pt-2">
 
 Евгений Погребняк, к.э.н., декан Факультета финансовой экономики, руководитель Цифровой кафедры МГИМО
 
-<img src="arkhipova.jpg" width="100" height="110" alt="Архипова" class="border-0 rounded-circle float-left mr-3 pt-2">
+<img src="arkhipova.jpg" width="100" height="100" alt="Архипова" class="border-0 rounded-circle float-left mr-3 pt-2">
 
 Марина Архипова, профессор, д.э.н., научный руководитель программы Цифровой кафедры “Анализ данных и управление на основе данных”.
 
