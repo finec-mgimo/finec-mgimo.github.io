@@ -29,6 +29,8 @@ toc: true
 
 Сайт приемной комиссии программы: <http://pk.odin.mgimo.ru/master/cf.html>
 
+<iframe src="https://drive.google.com/file/d/1yao0jctIZ6uRwezf6A9rwadYK4ba4x0N/view?usp=sharing" width="700" height="400"></iframe>
+
 ## Модули
 
 ### 1. Модуль Digital CFO и инвестиций в цифровую трансформацию
