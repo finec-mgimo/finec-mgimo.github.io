@@ -228,9 +228,9 @@ toc: true
 
 #### Полезные ссылки для поступающих
 
-- [Абитуриенту МГИМО 2023 - бакалавриат](https://abiturient.mgimo.ru/bakalavriat)
-- [Правила приема в 2023 году](https://abiturient.mgimo.ru/pravila-priema)
-- [Стоимость обучения по программам в кампусе Одинцово 2023 год набора](https://odin.mgimo.ru/about/news/departments/odin-fees-2023-24/)
+- [Абитуриенту МГИМО 2024 - бакалавриат](https://abiturient.mgimo.ru/bakalavriat)
+- [Правила приема в 2024 году](https://abiturient.mgimo.ru/pravila-priema)
+- [Стоимость обучения по программам в кампусе Одинцово 2024 год набора](https://odin.mgimo.ru/upload/2024/05/odin-fees_2024-25.pdf)
 - [Образец договора](http://pk.odin.mgimo.ru/doc/20/bac/obdog/bac.pdf)
 
 ## Консультации по поступлению на Финэк
