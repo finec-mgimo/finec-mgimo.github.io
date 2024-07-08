@@ -147,9 +147,9 @@ toc: true
 
 ## Документы программы
 
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002214.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002419.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002395.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003825.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003782.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003627.pdf)
 
 ## Руководители программы
 
