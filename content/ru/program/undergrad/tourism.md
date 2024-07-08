@@ -65,6 +65,19 @@ toc: true
 - иностранный язык — 50 баллов;
 - история — 45 баллов.
 
+#### Полезные ссылки для поступающих
+
+- [Абитуриенту МГИМО 2024 - бакалавриат](https://abiturient.mgimo.ru/bakalavriat)
+- [Правила приема в 2024 году](https://abiturient.mgimo.ru/pravila-priema)
+- [Стоимость обучения по программам в кампусе Одинцово 2024 год набора](https://odin.mgimo.ru/upload/2024/05/odin-fees_2024-25.pdf)
+- [Образец договора](http://pk.odin.mgimo.ru/doc/20/bac/obdog/bac.pdf)
+
+## Документы программы
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003834.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003842.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003661.pdf)
+
 ## Контакты
 
 По вопросам поступления вы можете связаться с нами по электронной почте
