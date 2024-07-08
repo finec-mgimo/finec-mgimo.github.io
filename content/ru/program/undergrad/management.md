@@ -25,6 +25,19 @@ toc: true
 - иностранный язык — 50 баллов;
 - математика — 45 баллов.
 
+#### Полезные ссылки для поступающих
+
+- [Абитуриенту МГИМО 2024 - бакалавриат](https://abiturient.mgimo.ru/bakalavriat)
+- [Правила приема в 2024 году](https://abiturient.mgimo.ru/pravila-priema)
+- [Стоимость обучения по программам в кампусе Одинцово 2024 год набора](https://odin.mgimo.ru/upload/2024/05/odin-fees_2024-25.pdf)
+- [Образец договора](http://pk.odin.mgimo.ru/doc/20/bac/obdog/bac.pdf)
+
+## Документы программы
+
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003460.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003360.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003182.pdf)
+
 ## Изучаемые дисциплины
 
 ### Медиа и маркетинг
