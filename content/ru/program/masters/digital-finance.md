@@ -125,9 +125,9 @@ toc: true
 
 ## Документы программы
 
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002732.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002791.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002733.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003828.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003797.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003683.pdf)
 
 ## Открытые лекции программы "Цифровые финансы"
 
