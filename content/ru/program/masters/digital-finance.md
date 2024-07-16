@@ -20,9 +20,9 @@ toc: true
 
 <p>&nbsp;</p>
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/34fe53721eea4409a83b966ae0002695" title="Цифровые финансы - магистерская программа Финэка МГИМО 2024 г." allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-
 ## О программе
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/34fe53721eea4409a83b966ae0002695" title="Цифровые финансы - магистерская программа Финэка МГИМО 2024 г." allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 Магистерская программа "Цифровые финансы" нацелена на подготовку специалистов, способных:
 
