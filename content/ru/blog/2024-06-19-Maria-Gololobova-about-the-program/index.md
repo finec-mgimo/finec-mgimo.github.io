@@ -6,7 +6,7 @@ draft: false
 slug: "Maria-Gololobova-about-the-program"
 ---
 
-<img src="gololobova.jpg" alt="Мария Гололобова" style="width:270px; height:350px;" align="left" hspace="10" vspace="10"/>
+<img src="gololobova.jpg" alt="Мария Гололобова" style="width:270px; height:350px;" align="left" hspace="10" vspace="5"/>
 
 Студентка 3 курса Факультета финансовой экономики Мария Гололобова о программе бакалавриата «Финансовая экономика и финансовые технологии».
 
