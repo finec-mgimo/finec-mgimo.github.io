@@ -25,7 +25,7 @@ weight: 12
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
 
-В 2023 году мы ведем прием на четыре программы бакалавриата и две программы магистратуры.
+В 2024 году мы ведем прием на четыре программы бакалавриата и две программы магистратуры.
 
 Бакалавриат:
 
@@ -48,9 +48,9 @@ weight: 12
 [![][econ-badge]][econ]
 
 - [Страница программы на сайте факультета][econ]
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002214.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002419.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002395.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003825.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003782.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003627.pdf)
 - [Приемная комиссия](http://pk.odin.mgimo.ru/bakalavriat/efi/index.html)
 
 ### Информационные технологии в международном бизнесе
@@ -60,9 +60,9 @@ weight: 12
 [![][bi-badge]][itmb]
 
 - [Страница программы на сайте факультета][itmb]
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002226.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002227.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002400.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003827.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003787.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003646.pdf)
 - [Приемная комиссия](http://pk.odin.mgimo.ru/bakalavriat/itmb.html)
 
 ### Туризм и индустрия гостеприимства
@@ -73,9 +73,9 @@ weight: 12
 
 - [Страница программы на сайте факультета][tourism]
 - [Собственная страница программы](https://tourism.mgimo.ru/ba/)
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002622.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002623.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002632.docx)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003834.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003842.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003661.pdf)
 
 ### Менеджмент в креативных индустриях
 
@@ -84,6 +84,10 @@ weight: 12
 [![][m-badge]][management]
 
 - [Страница программы на сайте факультета][management]
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003460.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003360.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003182.pdf)
+- [Приемная комиссия](https://pk.odin.mgimo.ru/bakalavriat/mki.html)
 
 ## Программы магистратуры
 
@@ -95,9 +99,9 @@ weight: 12
 
 - [digitalfinance.mgimo.ru](https://digitalfinance.mgimo.ru/)
 - [Страница программы на сайте факультета][digital]
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002732.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002791.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002733.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003828.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003797.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003683.pdf)
 
 ### Искусственный интеллект
 
@@ -107,9 +111,9 @@ weight: 12
 
 - [ai.mgimo.ru](https://ai.mgimo.ru)
 - [Страница программы на сайте факультета](program/masters/artificial-intelligence/)
-- [ОПОП](https://odin.mgimo.ru/sveden/files/002253.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/002446.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/002416.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003831.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003806.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003705.pdf)
 
 ## Программы предыдущих годов набора
 
