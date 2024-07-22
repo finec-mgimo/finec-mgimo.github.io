@@ -157,6 +157,8 @@ weight: 12
 - [Правила приема](https://abiturient.mgimo.ru/pravila-priema/)
 - [Сведения об образовательных программах](https://odin.mgimo.ru/sveden/education/)
 
+<!--
+
 ## Информация о подавших заявления о приеме (2022)
 
 - [ОД-Информ (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Inform(Budjetnoe).xls>)
@@ -168,3 +170,5 @@ weight: 12
 ### Информация о подавших заявления о приеме в рамках особой квоты (2022)
 
 - [ОД-Фин (Бюджетное)](<https://abiturient.mgimo.ru/upload/files/adm2022/OD-Fin(Budjetnoe)-Kvota.xls>)
+
+-->
