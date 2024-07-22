@@ -84,9 +84,9 @@ weight: 12
 [![][m-badge]][management]
 
 - [Страница программы на сайте факультета][management]
-- [ОПОП](https://odin.mgimo.ru/sveden/files/003460.pdf)
-- [Учебный план](https://odin.mgimo.ru/sveden/files/003360.pdf)
-- [Аннотации](https://odin.mgimo.ru/sveden/files/003182.pdf)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/003632.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/003783.pdf)
+- [Аннотации](https://odin.mgimo.ru/sveden/files/003633.pdf)
 - [Приемная комиссия](https://pk.odin.mgimo.ru/bakalavriat/mki.html)
 
 ## Программы магистратуры
