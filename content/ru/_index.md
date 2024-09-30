@@ -96,13 +96,13 @@ images: []
 
 ## События факультета
 
-<iframe width="560" height="315" src="https://rutube.ru/play/embed/ec5b5f4b3cf5ab08e260bbb614062fe0/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="660" height="415" src="https://rutube.ru/play/embed/ec5b5f4b3cf5ab08e260bbb614062fe0/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <p>&nbsp;</p>
-<iframe width="560" height="315" src="https://rutube.ru/play/embed/1c71558edff44a5aa4e2aa58dc6043eb/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="660" height="415" src="https://rutube.ru/play/embed/1c71558edff44a5aa4e2aa58dc6043eb/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <p>&nbsp;</p>
-{{< youtube PaRg29kjyiA >}}
+<iframe width="660" height="415" src="https://rutube.ru/play/embed/bf2c64edf030841b6c5d2fb00a5548cd/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <!-- Файлы:
 
