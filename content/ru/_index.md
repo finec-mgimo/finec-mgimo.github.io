@@ -52,7 +52,7 @@ images: []
 
 Декан факультета Финансовой экономики Е.В.Погребняк: «В 2024 году Факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике, менеджменту и туризму. Все программы бакалавриата Финэка МГИМО дают прочную базу для успешной карьеры в корпоративном или государственном секторе, развития собственных проектов, в том числе в креативных индустриях, применения на практике востребованных аналитических, управленческих и цифровых навыков, продолжения учебы в магистратуре и аспирантуре».
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/7fcacef37d396a1eb3190c8d4bab5332/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://rutube.ru/play/embed/7fcacef37d396a1eb3190c8d4bab5332/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   
 ### Особенности обучения на программах факультета
 
@@ -96,13 +96,13 @@ images: []
 
 ## События факультета
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/ec5b5f4b3cf5ab08e260bbb614062fe0/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://rutube.ru/play/embed/ec5b5f4b3cf5ab08e260bbb614062fe0/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <p>&nbsp;</p>
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/1c71558edff44a5aa4e2aa58dc6043eb/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://rutube.ru/play/embed/1c71558edff44a5aa4e2aa58dc6043eb/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <p>&nbsp;</p>
-[{{< youtube PaRg29kjyiA >}}](https://www.youtube.com/watch?v=CVXnIgSHXdk)
+{{< youtube PaRg29kjyiA >}}
 
 <!-- Файлы:
 
