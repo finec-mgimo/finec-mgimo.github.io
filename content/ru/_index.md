@@ -52,7 +52,7 @@ images: []
 
 Декан факультета Финансовой экономики Е.В.Погребняк: «В 2024 году Факультет финансовой экономики МГИМО ведет прием на программы бакалавриата и магистратуры по экономике, бизнес-информатике, менеджменту и туризму. Все программы бакалавриата Финэка МГИМО дают прочную базу для успешной карьеры в корпоративном или государственном секторе, развития собственных проектов, в том числе в креативных индустриях, применения на практике востребованных аналитических, управленческих и цифровых навыков, продолжения учебы в магистратуре и аспирантуре».
 
-<iframe width="560" height="315" src="https://rutube.ru/play/embed/7fcacef37d396a1eb3190c8d4bab5332/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="660" height="415" src="https://rutube.ru/play/embed/7fcacef37d396a1eb3190c8d4bab5332/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   
 ### Особенности обучения на программах факультета
 
