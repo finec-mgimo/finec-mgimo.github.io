@@ -28,4 +28,4 @@ slug: "open-doors-day-10-april"
 
 День открытых дверей помог будущим студентам получить представление о том, какие перспективы открывает обучение на выбранном факультете, узнать подробнее о структуре учебного процесса, преподавателях и карьерных возможностях после окончания вуза.
 
-<iframe width="660" height="415" src="https://rutube.ru/play/embed/af1a01b2dea11f541693e6c2c2c6fcc6/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/af1a01b2dea11f541693e6c2c2c6fcc6/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
