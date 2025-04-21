@@ -96,7 +96,7 @@ images: []
 
 ## События факультета
 
-<iframe width="660" height="415" src="https://rutube.ru/play/embed/3e4fae9a351aba5fafb2c2317ef0b01f/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="660" height="415" src="https://rutube.ru/play/embed/af1a01b2dea11f541693e6c2c2c6fcc6/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <p>&nbsp;</p>
 <iframe width="660" height="415" src="https://rutube.ru/play/embed/1c71558edff44a5aa4e2aa58dc6043eb/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
