@@ -90,7 +90,7 @@ images: []
 
 <div align="center">
 
-<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Задайте вопрос о поступлении на Финэк</a>
+<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.yandex.ru/u/6837ff0f068ff0c832b6f229/" role="button">Задайте вопрос о поступлении на Финэк</a>
 
 </div>
 
