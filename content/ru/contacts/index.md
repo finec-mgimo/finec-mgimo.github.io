@@ -38,9 +38,9 @@ images: []
 ## Ознакомительный визит
 
 Приезжайте посмотреть наш кампус и поговорить с представителями факультета.
-Заполните [форму ниже](https://forms.gle/tRBb3VAGNyV53uAv5) для ознакомительного визита.
+Заполните [форму ниже](https://forms.yandex.ru/u/6837ff0f068ff0c832b6f229/) для ознакомительного визита.
 
 <div align="center">
-<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Ознакомительный визит</a>
+<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.yandex.ru/u/6837ff0f068ff0c832b6f229/" role="button">Ознакомительный визит</a>
 
 </div>
