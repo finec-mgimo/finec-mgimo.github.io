@@ -188,13 +188,13 @@ a href="https://mgimo.ru/people/erokhin/">
 
 ## Консультации по поступлению на Финэк
 
-Используя [эту ссылку](https://forms.gle/tRBb3VAGNyV53uAv5) Вы можете:
+Используя [эту ссылку](https://forms.yandex.ru/u/6837ff0f068ff0c832b6f229/) Вы можете:
 
 - задать вопрос о Финэке МГИМО и получить консультацию о поступлении,
 - договориться об ознакомительном визите и посмотреть наш кампус в Одинцово,
 - переговорить с преподавателями и сотрудниками Финэка МГИМО.
 
 <br><div align="center">
-<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.gle/tRBb3VAGNyV53uAv5" role="button">Задайте вопрос о поступлении</a>
+<a class="btn btn-primary btn-lg px-4 mb-2"  href="https://forms.yandex.ru/u/6837ff0f068ff0c832b6f229/" role="button">Задайте вопрос о поступлении</a>
 
 </div>
