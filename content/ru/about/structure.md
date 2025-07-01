@@ -10,16 +10,16 @@ weight: 30
 
 ## Руководство факультета
 
-<a href="https://mgimo.ru/people/pogrebnyak/" class="float-left mr-3 pt-2">
+<a href="https://odin.mgimo.ru/people/guliev/" class="float-left mr-3 pt-2">
 <img
-    src="/images/person/epogrebnyak2.jpg"
-    alt="Погребняк Евгений Владимирович"
-    title="Погребняк Евгений Владимирович"
+    src="/images/person/guliev.jpg"
+    alt="Гулиев Игбал Адиль Оглы"
+    title="Гулиев Игбал Адиль Оглы"
     class="rounded-photo"
 />
 </a>
 
-[Погребняк Евгений Владимирович](https://mgimo.ru/people/pogrebnyak/), декан факультета финансовой экономики, кандидат экономических наук.
+[Гулиев Игбал Адиль Оглы](https://odin.mgimo.ru/people/guliev/), декан факультета финансовой экономики, д-р экон. наук, доцент.
 
 <div class="float-left mr-3 pt-2">
 <img 
@@ -109,7 +109,7 @@ weight: 30
 
 <a href="https://mgimo.ru/people/pritchina/" class="float-left mr-3 pt-2">
   <img
-    src="https://odin.mgimo.ru/upload/iblock/70d/efzi1hxh7y632eumuldu33997n3ezhyk/pritchina.jpg"
+    src="https://odin.mgimo.ru/upload/iblock/670/v2ez9bwejrsupml2dq2he7vdne3tgqhx/pritchina.jpg"
     alt="Притчина Лариса Сергеевна"
     title="Притчина Лариса Сергеевна"
     class="rounded-photo"
