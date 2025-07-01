@@ -14,6 +14,7 @@ weight: 12
 [tourism]: /program/undergrad/tourism
 [management]: /program/undergrad/management
 [ai]: https://ai.mgimo.ru
+[bi21]: https://pk.odin.mgimo.ru/master/21
 [digital]: /program/masters/digital-finance
 [event]: https://event.mgimo.ru/
 [bac-badge]: https://img.shields.io/badge/-Бакалавриат-2892D7
@@ -24,8 +25,9 @@ weight: 12
 [m-badge]: https://img.shields.io/badge/Менеджмент-МКИ-2892D7
 [econ-badge-mag]: https://img.shields.io/badge/Экономика-Цифровые_финансы-1EB3A1
 [bi-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Искусственный_интеллект-1EB3A1
+[bi21-badge-mag]: https://img.shields.io/badge/Бизнес--информатика-Управление_цифровыми_продуктами_на_международных_рынках-1EB3A1
 
-В 2024 году мы ведем прием на четыре программы бакалавриата и две программы магистратуры.
+В 2025 году мы ведем прием на четыре программы бакалавриата и три программы магистратуры.
 
 Бакалавриат:
 
@@ -37,7 +39,8 @@ weight: 12
 Магистратура:
 
 - "Цифровые финансы";
-- "Искусственный интеллект".
+- "Искусственный интеллект";
+- «Управление цифровыми продуктами на международных рынках»
 
 ## Программы бакалавриата
 
@@ -115,6 +118,18 @@ weight: 12
 - [Учебный план](https://odin.mgimo.ru/sveden/files/003806.pdf)
 - [Аннотации](https://odin.mgimo.ru/sveden/files/003705.pdf)
 
+### Управление цифровыми продуктами на международных рынках
+
+(направление подготовки "Бизнес-информатика")
+
+[![][bi21-badge-mag]][bi21]
+
+- [Страница программы на сайте МГИМО](https://pk.odin.mgimo.ru/master/21)
+- [ОПОП](https://odin.mgimo.ru/sveden/files/004884.pdf)
+- [Учебный план](https://odin.mgimo.ru/sveden/files/004883.pdf)
+
+<!--
+
 ## Программы предыдущих годов набора
 
 ### Менеджмент — "Финансовый менеджмент" (бакалавриат)
@@ -151,6 +166,8 @@ weight: 12
 
 - Кафедра менеджмента Финэка МГИМО является выпускающей кафедрой магистерской программы
   ["Событийный менеджмент"][event].
+
+-->
 
 ## Для информации
 
