@@ -132,4 +132,4 @@ images: []
 с уютной рабочей атмосферой, современным техническим оснащением
 и собственным спорткомплексом с бассейном.
 
-{{< youtube twanN25NqR0 >}}
+<iframe width="660" height="415" src="https://rutube.ru/play/embed/c61b79450cc3827f5990635edfd99413/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
