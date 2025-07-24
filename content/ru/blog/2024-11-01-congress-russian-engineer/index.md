@@ -18,3 +18,4 @@ slug: "congress-russian-engineer"
 
 Участие в работе конгресса — важный шаг в исследовательском опыте преподавателей и студентов, а полученная обратная связь — источник вдохновения для новых проектов и углубленного изучения информатики и информационных технологий.
 
+{{< carousel data-file-name="banners-congress-russian-engineer" items="1" full-height="450" height="425" unit="px" duration="4000" >}}
