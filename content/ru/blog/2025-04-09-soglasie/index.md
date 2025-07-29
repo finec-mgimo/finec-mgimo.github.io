@@ -6,7 +6,7 @@ draft: false
 slug: "soglasie"
 ---
 
-<img src="soglasie1.jpg" alt="soglasie" style="width:240px; height:280px;" align="left" hspace="10" vspace="10"/>
+<img src="soglasie1.jpg" alt="soglasie" style="width:210px; height:280px;" align="left" hspace="10" vspace="10"/>
 
 9 апреля члены студенческого клуба «Инвестор Финтеха» приняли участие в региональном совещании ООО СК «Согласие».
 
