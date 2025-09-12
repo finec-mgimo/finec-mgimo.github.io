@@ -11,15 +11,6 @@ images: []
 
 **Деканат факультета финансовой экономики МГИМО**: <a href="tel:+74956617175">+7 (495) 661-71-75</a>.
 
-<div class="float-left mr-3 pt-2">
-<img
-    src="/images/person/dvornikova2.jpg"
-    alt="Дворникова Юлия Владимировна"
-    title="Дворникова Юлия Владимировна"
-    class="rounded-photo"
-/>
-</div>
-
 ## Электронная почта
 
 Наш адрес электронной почты: [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
