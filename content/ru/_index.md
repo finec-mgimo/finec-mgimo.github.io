@@ -7,7 +7,7 @@ draft: false
 toc: false
 images: []
 ---
-
+ 
 [econ]: /program/undergrad/economics
 [itmb]: /program/undergrad/itmb
 [mgt]: /program/undergrad/management
